@@ -1,4 +1,4 @@
-const CACHE_NAME = "literatureflow-vn-v11";
+const CACHE_NAME = "literatureflow-vn-v12";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -8,6 +8,7 @@ const APP_SHELL = [
   "./assets/css/animation.css",
   "./assets/css/responsive.css",
   "./assets/css/practice-features.css",
+  "./assets/css/mindmap.css",
   "./assets/css/text-format.css",
   "./assets/js/app.js",
   "./assets/js/router.js",
@@ -21,6 +22,7 @@ const APP_SHELL = [
   "./modules/visualization.js",
   "./modules/practiceContent.js",
   "./modules/practiceModes.js",
+  "./modules/mindMap.js",
   "./modules/summerReview.js",
   "./assets/css/summer-review.css",
   "./modules/progress.js",
