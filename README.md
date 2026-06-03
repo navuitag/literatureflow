@@ -67,9 +67,16 @@
 
 **Tập 2:** Vẻ đẹp cuộc sống · Hương sắc trăm miền · Tiếp bước cha ông · Thế giới của chúng ta
 
-### Lớp 6–9 — Ngữ văn THCS (32 kỹ năng/lớp)
+### Lớp 6–9 — SGK *Kết nối tri thức với cuộc sống* (12 bài/lớp)
 
-Đọc hiểu · Tiếng Việt · Văn học · Nói và viết
+Mỗi lớp THCS: **10 chủ đề/bài học** (Tập 1: Bài 1–5 · Tập 2: Bài 6–10) + **2 ôn tập** (HK1, HK2).
+
+| Lớp | Chủ đề tiêu biểu |
+|-----|------------------|
+| **6** | Tôi và các bạn · Gõ cửa trái tim · Quê hương yêu dấu · Sơn Tinh, Thủy Tinh · Cuốn sách tôi yêu |
+| **7** | Bầu trời tuổi thơ · Khúc nhạc tâm hồn · Bài học cuộc sống · Hòa điệu với tự nhiên · Trang sách và cuộc sống |
+| **8** | Câu chuyện của lịch sử · Vẻ đẹp cổ điển · Lời sông núi · Chân dung cuộc sống · Sách – người bạn đồng hành |
+| **9** | Thế giới kì ảo · Hồn nước nằm trong tiếng mẹ cha · Đối diện với nỗi đau · Tiếng nói của lương tri · Văn học - lịch sử tâm hồn |
 
 ### Ôn hè lớp 6→7
 
@@ -88,7 +95,7 @@ python3 -m http.server 8080
 node scripts/generate-literature-content.mjs
 ```
 
-Chỉnh sửa chương trình: `scripts/grade1-kntt-curriculum.mjs` … `grade5-kntt-curriculum.mjs`
+Chỉnh sửa chương trình: `scripts/grade1-kntt-curriculum.mjs` … `grade9-kntt-curriculum.mjs`
 
 ## Cấu trúc
 
@@ -97,8 +104,9 @@ literatureflow/
 ├── scripts/
 │   ├── generate-literature-content.mjs
 │   ├── kntt-primary-shared.mjs      # helpers lớp 1–5
-│   └── grade1-kntt-curriculum.mjs   # SGK TV1–5 KNT
-│       … grade5-kntt-curriculum.mjs
+│   ├── kntt-secondary-shared.mjs    # helpers lớp 6–9
+│   └── grade1-kntt-curriculum.mjs   # SGK TV1–9 KNT
+│       … grade9-kntt-curriculum.mjs
 ├── data/                            # skills, lessons, questions, …
 └── modules/visualization.js         # syllableChart, plotDiagram, …
 ```

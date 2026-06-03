@@ -8495,475 +8495,1003 @@
     "litMoral": "Đánh giá cuối năm học."
   },
   {
-    "id": "lv6_folktale",
-    "title": "Đọc — Truyện dân gian",
+    "id": "lv6_g6_t1_friends_b01",
+    "title": "Bài 1. Tôi và các bạn",
     "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Chủ đề bạn bè và trưởng thành",
     "chapterIndex": 1,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [],
-    "description": "Đọc truyện dân gian; nhận biết chi tiết, tình tiết, ý nghĩa.",
-    "visualization": "readingSteps",
-    "category": "Đọc hiểu"
-  },
-  {
-    "id": "lv6_narrative",
-    "title": "Đọc — Văn bản kể chuyện",
-    "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
-    "chapterIndex": 1,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv6_folktale"
-    ],
-    "description": "Phân tích cốt truyện: mở–thân–kết; nhân vật và chi tiết tiêu biểu.",
+    "description": "Chủ đề «Tôi và các bạn»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bài học đường đời đầu tiên».",
     "visualization": "plotDiagram",
-    "category": "Đọc hiểu"
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Bài học đường đời đầu tiên",
+    "litSample": "Bài học đường đời đầu tiên",
+    "litStory": "Bài học đường đời đầu tiên",
+    "litMoral": "Tình bạn chân thành, đồng hành trong học tập."
   },
   {
-    "id": "lv6_noun",
-    "title": "Tiếng Việt — Danh từ",
+    "id": "lv6_g6_t1_friends_b02",
+    "title": "Bài 2. Gõ cửa trái tim",
     "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Chủ đề bạn bè và trưởng thành",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "sgkNo": 2,
+    "prerequisite": [
+      "lv6_g6_t1_friends_b01"
+    ],
+    "description": "Chủ đề «Gõ cửa trái tim»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chuyện cổ tích về loài người».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Chuyện cổ tích về loài người",
+    "litSample": "Chuyện cổ tích về loài người",
+    "litStory": "Chuyện cổ tích về loài người",
+    "litMoral": "Yêu thương, chia sẻ trong gia đình."
+  },
+  {
+    "id": "lv6_g6_t1_friends_b03",
+    "title": "Bài 3. Yêu thương và chia sẻ",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Chủ đề bạn bè và trưởng thành",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "sgkNo": 3,
+    "prerequisite": [
+      "lv6_g6_t1_friends_b02"
+    ],
+    "description": "Chủ đề «Yêu thương và chia sẻ»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cô bé bán diêm».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Cô bé bán diêm",
+    "litSample": "Cô bé bán diêm",
+    "litStory": "Cô bé bán diêm",
+    "litMoral": "Lòng nhân hậu, quan tâm người khó khăn."
+  },
+  {
+    "id": "lv6_g6_t1_friends_b04",
+    "title": "Bài 4. Quê hương yêu dấu",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Chủ đề bạn bè và trưởng thành",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "sgkNo": 4,
+    "prerequisite": [
+      "lv6_g6_t1_friends_b03"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Quê hương yêu dấu».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Chùm ca dao về quê hương đất nước",
+    "litSample": "Chùm ca dao về quê hương đất nước",
+    "litStory": "",
+    "litMoral": "Tình yêu quê hương, đất nước."
+  },
+  {
+    "id": "lv6_g6_t1_friends_b05",
+    "title": "Bài 5. Những nẻo đường xứ sở",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Chủ đề bạn bè và trưởng thành",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "sgkNo": 5,
+    "prerequisite": [
+      "lv6_g6_t1_friends_b04"
+    ],
+    "description": "Chủ đề «Những nẻo đường xứ sở»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cửu Long Giang ta ơi».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Cửu Long Giang ta ơi",
+    "litSample": "Cửu Long Giang ta ơi",
+    "litStory": "Cửu Long Giang ta ơi",
+    "litMoral": "Khám phá vẻ đẹp các vùng miền."
+  },
+  {
+    "id": "lv6_g6_t1_review_b01",
+    "title": "Ôn tập học kì 1",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 1",
+    "chapter": "Ôn tập học kì 1",
     "chapterIndex": 2,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [
-      "lv6_narrative"
+      "lv6_g6_t1_friends_b05"
     ],
-    "description": "Danh từ, tính từ, số lượng; xác định thành phần trong câu.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv6_verb",
-    "title": "Tiếng Việt — Động từ",
-    "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
-    "chapterIndex": 2,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv6_noun"
-    ],
-    "description": "Động từ, trạng từ; chia thì và cách dùng cơ bản.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv6_vocab",
-    "title": "Từ ngữ trong ngữ cảnh",
-    "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
-    "chapterIndex": 3,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv6_verb"
-    ],
-    "description": "Hiểu nghĩa từ theo ngữ cảnh; từ đồng nghĩa, trái nghĩa.",
-    "visualization": "literaryDevices",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv6_poetry",
-    "title": "Thơ — Vần điệu & hình ảnh",
-    "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Văn học",
-    "chapterIndex": 3,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv6_vocab"
-    ],
-    "description": "Vần, lượng, nhịp; biện pháp tu từ cơ bản trong thơ.",
-    "visualization": "literaryDevices",
-    "category": "Văn học"
-  },
-  {
-    "id": "lv6_describe",
-    "title": "Viết — Đoạn văn miêu tả",
-    "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv6_poetry"
-    ],
-    "description": "Cấu trúc đoạn văn; câu mở, thân, kết; miêu tả người, vật.",
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1.",
     "visualization": "writingSteps",
-    "category": "Nói và viết"
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 1",
+    "litSample": "Ôn tập học kì 1",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK1."
   },
   {
-    "id": "lv6_speak",
-    "title": "Nói — Trình bày ý kiến",
+    "id": "lv6_g6_t2_heroes_b06",
+    "title": "Bài 6. Chuyện kể về những người anh hùng",
     "grade": 6,
-    "book": "Ngữ văn 6 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
-    "lessonNo": 2,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Anh hùng, cổ tích và cộng đồng",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "sgkNo": 6,
     "prerequisite": [
-      "lv6_describe"
+      "lv6_g6_t1_review_b01"
     ],
-    "description": "Nói ngắn gọn, rõ ràng; lập luận đơn giản có dẫn chứng.",
-    "visualization": "readingSteps",
-    "category": "Nói và viết"
+    "description": "Chủ đề «Chuyện kể về những người anh hùng»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Sơn Tinh, Thủy Tinh».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Sơn Tinh, Thủy Tinh",
+    "litSample": "Sơn Tinh, Thủy Tinh",
+    "litStory": "Sơn Tinh, Thủy Tinh",
+    "litMoral": "Tinh thần yêu nước, sức mạnh ý chí con người."
   },
   {
-    "id": "lv7_literary",
-    "title": "Đọc — Văn bản văn học",
+    "id": "lv6_g6_t2_heroes_b07",
+    "title": "Bài 7. Thế giới cổ tích",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Anh hùng, cổ tích và cộng đồng",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "sgkNo": 7,
+    "prerequisite": [
+      "lv6_g6_t2_heroes_b06"
+    ],
+    "description": "Chủ đề «Thế giới cổ tích»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Truyện cổ tích».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Truyện cổ tích",
+    "litSample": "Truyện cổ tích",
+    "litStory": "Truyện cổ tích",
+    "litMoral": "Giá trị nhân văn qua truyện cổ tích."
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b08",
+    "title": "Bài 8. Khác biệt và gần gũi",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Anh hùng, cổ tích và cộng đồng",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "sgkNo": 8,
+    "prerequisite": [
+      "lv6_g6_t2_heroes_b07"
+    ],
+    "description": "Chủ đề «Khác biệt và gần gũi»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Xem người ta kìa!».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Xem người ta kìa!",
+    "litSample": "Xem người ta kìa!",
+    "litStory": "Xem người ta kìa!",
+    "litMoral": "Tôn trọng sự khác biệt, sống hòa nhập."
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b09",
+    "title": "Bài 9. Trái Đất - ngôi nhà chung",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Anh hùng, cổ tích và cộng đồng",
+    "chapterIndex": 1,
+    "lessonNo": 9,
+    "sgkNo": 9,
+    "prerequisite": [
+      "lv6_g6_t2_heroes_b08"
+    ],
+    "description": "Chủ đề «Trái Đất - ngôi nhà chung»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Trái Đất - cái nôi của sự sống».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Trái Đất - cái nôi của sự sống",
+    "litSample": "Trái Đất - cái nôi của sự sống",
+    "litStory": "Trái Đất - cái nôi của sự sống",
+    "litMoral": "Bảo vệ môi trường, sống hài hòa với thiên nhiên."
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b10",
+    "title": "Bài 10. Cuốn sách tôi yêu",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Anh hùng, cổ tích và cộng đồng",
+    "chapterIndex": 1,
+    "lessonNo": 10,
+    "sgkNo": 10,
+    "prerequisite": [
+      "lv6_g6_t2_heroes_b09"
+    ],
+    "description": "Chủ đề «Cuốn sách tôi yêu»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Mỗi ngày một cuốn sách».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Mỗi ngày một cuốn sách",
+    "litSample": "Mỗi ngày một cuốn sách",
+    "litStory": "Mỗi ngày một cuốn sách",
+    "litMoral": "Yêu sách, đọc sách mở rộng tri thức."
+  },
+  {
+    "id": "lv6_g6_t2_review_b01",
+    "title": "Ôn tập học kì 2",
+    "grade": 6,
+    "book": "Ngữ văn 6 — Kết nối tri thức · Tập 2",
+    "chapter": "Ôn tập học kì 2",
+    "chapterIndex": 2,
+    "lessonNo": 1,
+    "sgkNo": 1,
+    "prerequisite": [
+      "lv6_g6_t2_heroes_b10"
+    ],
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2.",
+    "visualization": "writingSteps",
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 2",
+    "litSample": "Ôn tập học kì 2",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK2."
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b01",
+    "title": "Bài 1. Bầu trời tuổi thơ",
     "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Tuổi thơ và đất nước",
     "chapterIndex": 1,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [],
-    "description": "Đọc truyện ngắn, tản văn; nắm chủ đề và thái độ tác giả.",
+    "description": "Chủ đề «Bầu trời tuổi thơ»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bầy chim chìa vôi».",
     "visualization": "plotDiagram",
-    "category": "Đọc hiểu"
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Bầy chim chìa vôi",
+    "litSample": "Bầy chim chìa vôi",
+    "litStory": "Bầy chim chìa vôi",
+    "litMoral": "Cảm nhận vẻ đẹp tuổi thơ qua văn học."
   },
   {
-    "id": "lv7_expository",
-    "title": "Đọc — Văn bản thông tin",
+    "id": "lv7_g7_t1_childhood_b02",
+    "title": "Bài 2. Khúc nhạc tâm hồn",
     "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Tuổi thơ và đất nước",
     "chapterIndex": 1,
     "lessonNo": 2,
+    "sgkNo": 2,
     "prerequisite": [
-      "lv7_literary"
+      "lv7_g7_t1_childhood_b01"
     ],
-    "description": "Tìm thông tin chính, phụ; liên hệ thực tế.",
-    "visualization": "readingSteps",
-    "category": "Đọc hiểu"
-  },
-  {
-    "id": "lv7_sentence",
-    "title": "Tiếng Việt — Câu và thành phần",
-    "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Tiếng Viết",
-    "chapterIndex": 2,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv7_expository"
-    ],
-    "description": "Câu đơn, câu ghép; CN, VN, TN, trạng ngữ.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Viết"
-  },
-  {
-    "id": "lv7_compound",
-    "title": "Tiếng Việt — Câu ghép",
-    "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
-    "chapterIndex": 2,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv7_sentence"
-    ],
-    "description": "Liên từ, dấu câu nối các vế câu.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv7_figures",
-    "title": "Biện pháp tu từ",
-    "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Văn học",
-    "chapterIndex": 3,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv7_compound"
-    ],
-    "description": "So sánh, nhân hóa, ẩn dụ, điệp ngữ, điệp âm.",
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Khúc nhạc tâm hồn».",
     "visualization": "literaryDevices",
-    "category": "Văn học"
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Đồng dao mùa xuân",
+    "litSample": "Đồng dao mùa xuân",
+    "litStory": "",
+    "litMoral": "Thơ ca dao và cảm xúc tâm hồn."
   },
   {
-    "id": "lv7_narrative_write",
-    "title": "Viết — Văn kể chuyện",
+    "id": "lv7_g7_t1_childhood_b03",
+    "title": "Bài 3. Cội nguồn yêu thương",
     "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 3,
-    "lessonNo": 2,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Tuổi thơ và đất nước",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "sgkNo": 3,
     "prerequisite": [
-      "lv7_figures"
+      "lv7_g7_t1_childhood_b02"
     ],
-    "description": "Kể chuyện có cốt truyện rõ; sắp xếp tình tiết hợp lý.",
-    "visualization": "writingSteps",
-    "category": "Nói và viết"
+    "description": "Chủ đề «Cội nguồn yêu thương»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Người thầy đầu tiên».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Người thầy đầu tiên",
+    "litSample": "Người thầy đầu tiên",
+    "litStory": "Người thầy đầu tiên",
+    "litMoral": "Biết ơn thầy cô, tình cảm gia đình."
   },
   {
-    "id": "lv7_express",
-    "title": "Viết — Bày tỏ cảm xúc",
+    "id": "lv7_g7_t1_childhood_b04",
+    "title": "Bài 4. Giai điệu đất nước",
     "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Tuổi thơ và đất nước",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "sgkNo": 4,
+    "prerequisite": [
+      "lv7_g7_t1_childhood_b03"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Giai điệu đất nước».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Mùa xuân nho nhỏ",
+    "litSample": "Mùa xuân nho nhỏ",
+    "litStory": "",
+    "litMoral": "Tình yêu Tổ quốc qua thi ca."
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b05",
+    "title": "Bài 5. Màu sắc trăm miền",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Tuổi thơ và đất nước",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "sgkNo": 5,
+    "prerequisite": [
+      "lv7_g7_t1_childhood_b04"
+    ],
+    "description": "Chủ đề «Màu sắc trăm miền»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Tháng Giêng, mơ về trăng non rét ngọt».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Tháng Giêng, mơ về trăng non rét ngọt",
+    "litSample": "Tháng Giêng, mơ về trăng non rét ngọt",
+    "litStory": "Tháng Giêng, mơ về trăng non rét ngọt",
+    "litMoral": "Văn hóa truyền thống các vùng miền."
+  },
+  {
+    "id": "lv7_g7_t1_review_b01",
+    "title": "Ôn tập học kì 1",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 2,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [
-      "lv7_narrative_write"
+      "lv7_g7_t1_childhood_b05"
     ],
-    "description": "Viết đoạn cảm nghĩ; dùng từ gợi tả, gợi cảm.",
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1.",
     "visualization": "writingSteps",
-    "category": "Nói và viết"
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 1",
+    "litSample": "Ôn tập học kì 1",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK1."
   },
   {
-    "id": "lv7_debate",
-    "title": "Nói — Thảo luận nhóm",
+    "id": "lv7_g7_t2_life_b06",
+    "title": "Bài 6. Bài học cuộc sống",
     "grade": 7,
-    "book": "Ngữ văn 7 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
-    "lessonNo": 2,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Bài học cuộc sống và tri thức",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "sgkNo": 6,
     "prerequisite": [
-      "lv7_express"
+      "lv7_g7_t1_review_b01"
     ],
-    "description": "Trao đổi, phản biện lịch sự; lắng nghe ý kiến.",
-    "visualization": "readingSteps",
-    "category": "Nói và viết"
+    "description": "Chủ đề «Bài học cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đẽo cày giữa đường».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Đẽo cày giữa đường",
+    "litSample": "Đẽo cày giữa đường",
+    "litStory": "Đẽo cày giữa đường",
+    "litMoral": "Bài học từ truyện ngụ ngôn, tục ngữ."
   },
   {
-    "id": "lv8_novel_excerpt",
-    "title": "Đọc — Trích đoạn truyện dài",
+    "id": "lv7_g7_t2_life_b07",
+    "title": "Bài 7. Thế giới viễn tưởng",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Bài học cuộc sống và tri thức",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "sgkNo": 7,
+    "prerequisite": [
+      "lv7_g7_t2_life_b06"
+    ],
+    "description": "Chủ đề «Thế giới viễn tưởng»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cuộc chạm trán trên đại dương».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Cuộc chạm trán trên đại dương",
+    "litSample": "Cuộc chạm trán trên đại dương",
+    "litStory": "Cuộc chạm trán trên đại dương",
+    "litMoral": "Khoa học viễn tưởng và trí tưởng tượng."
+  },
+  {
+    "id": "lv7_g7_t2_life_b08",
+    "title": "Bài 8. Trải nghiệm để trưởng thành",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Bài học cuộc sống và tri thức",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "sgkNo": 8,
+    "prerequisite": [
+      "lv7_g7_t2_life_b07"
+    ],
+    "description": "Chủ đề «Trải nghiệm để trưởng thành»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bản đồ dẫn đường».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Bản đồ dẫn đường",
+    "litSample": "Bản đồ dẫn đường",
+    "litStory": "Bản đồ dẫn đường",
+    "litMoral": "Trưởng thành qua trải nghiệm thực tế."
+  },
+  {
+    "id": "lv7_g7_t2_life_b09",
+    "title": "Bài 9. Hòa điệu với tự nhiên",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Bài học cuộc sống và tri thức",
+    "chapterIndex": 1,
+    "lessonNo": 9,
+    "sgkNo": 9,
+    "prerequisite": [
+      "lv7_g7_t2_life_b08"
+    ],
+    "description": "Chủ đề «Hòa điệu với tự nhiên»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Thuỷ tiên tháng Một».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Thuỷ tiên tháng Một",
+    "litSample": "Thuỷ tiên tháng Một",
+    "litStory": "Thuỷ tiên tháng Một",
+    "litMoral": "Bảo vệ thiên nhiên, văn hóa dân tộc."
+  },
+  {
+    "id": "lv7_g7_t2_life_b10",
+    "title": "Bài 10. Trang sách và cuộc sống",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Bài học cuộc sống và tri thức",
+    "chapterIndex": 1,
+    "lessonNo": 10,
+    "sgkNo": 10,
+    "prerequisite": [
+      "lv7_g7_t2_life_b09"
+    ],
+    "description": "Chủ đề «Trang sách và cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chinh phục những cuốn sách mới».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Chinh phục những cuốn sách mới",
+    "litSample": "Chinh phục những cuốn sách mới",
+    "litStory": "Chinh phục những cuốn sách mới",
+    "litMoral": "Văn học gắn với cuộc sống, văn hóa đọc."
+  },
+  {
+    "id": "lv7_g7_t2_review_b01",
+    "title": "Ôn tập học kì 2",
+    "grade": 7,
+    "book": "Ngữ văn 7 — Kết nối tri thức · Tập 2",
+    "chapter": "Ôn tập học kì 2",
+    "chapterIndex": 2,
+    "lessonNo": 1,
+    "sgkNo": 1,
+    "prerequisite": [
+      "lv7_g7_t2_life_b10"
+    ],
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2.",
+    "visualization": "writingSteps",
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 2",
+    "litSample": "Ôn tập học kì 2",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK2."
+  },
+  {
+    "id": "lv8_g8_t1_history_b01",
+    "title": "Bài 1. Câu chuyện của lịch sử",
     "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Lịch sử và văn hóa dân tộc",
     "chapterIndex": 1,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [],
-    "description": "Phân tích nhân vật, xung đột, cao trào.",
+    "description": "Chủ đề «Câu chuyện của lịch sử»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Lá cờ thêu sáu chữ vàng».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Lá cờ thêu sáu chữ vàng",
+    "litSample": "Lá cờ thêu sáu chữ vàng",
+    "litStory": "Lá cờ thêu sáu chữ vàng",
+    "litMoral": "Tự hào lịch sử dân tộc Việt Nam."
+  },
+  {
+    "id": "lv8_g8_t1_history_b02",
+    "title": "Bài 2. Vẻ đẹp cổ điển",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Lịch sử và văn hóa dân tộc",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "sgkNo": 2,
+    "prerequisite": [
+      "lv8_g8_t1_history_b01"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Vẻ đẹp cổ điển».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Thiên Trường vãn vọng",
+    "litSample": "Thiên Trường vãn vọng",
+    "litStory": "",
+    "litMoral": "Thơ Đường luật, thất ngôn bát cú."
+  },
+  {
+    "id": "lv8_g8_t1_history_b03",
+    "title": "Bài 3. Lời sông núi",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Lịch sử và văn hóa dân tộc",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "sgkNo": 3,
+    "prerequisite": [
+      "lv8_g8_t1_history_b02"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Lời sông núi».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Nam quốc sơn hà",
+    "litSample": "Nam quốc sơn hà",
+    "litStory": "",
+    "litMoral": "Tinh thần yêu nước qua thi ca."
+  },
+  {
+    "id": "lv8_g8_t1_history_b04",
+    "title": "Bài 4. Tiếng cười trào phúng trong thơ",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Lịch sử và văn hóa dân tộc",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "sgkNo": 4,
+    "prerequisite": [
+      "lv8_g8_t1_history_b03"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Tiếng cười trào phúng trong thơ».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Lễ xướng danh khoa Đinh Dậu",
+    "litSample": "Lễ xướng danh khoa Đinh Dậu",
+    "litStory": "",
+    "litMoral": "Thơ trào phúng phê phán hiện thực."
+  },
+  {
+    "id": "lv8_g8_t1_history_b05",
+    "title": "Bài 5. Những câu chuyện hài",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Lịch sử và văn hóa dân tộc",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "sgkNo": 5,
+    "prerequisite": [
+      "lv8_g8_t1_history_b04"
+    ],
+    "description": "Chủ đề «Những câu chuyện hài»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Trưởng giả học làm sang».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Trưởng giả học làm sang",
+    "litSample": "Trưởng giả học làm sang",
+    "litStory": "Trưởng giả học làm sang",
+    "litMoral": "Hài hước, phê phán thói xấu xã hội."
+  },
+  {
+    "id": "lv8_g8_t1_review_b01",
+    "title": "Ôn tập học kì 1",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 2,
+    "lessonNo": 1,
+    "sgkNo": 1,
+    "prerequisite": [
+      "lv8_g8_t1_history_b05"
+    ],
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1.",
+    "visualization": "writingSteps",
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 1",
+    "litSample": "Ôn tập học kì 1",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK1."
+  },
+  {
+    "id": "lv8_g8_t2_life_b06",
+    "title": "Bài 6. Chân dung cuộc sống",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Cuộc sống, tương lai và sách",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "sgkNo": 6,
+    "prerequisite": [
+      "lv8_g8_t1_review_b01"
+    ],
+    "description": "Chủ đề «Chân dung cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Lặng lẽ Sa Pa».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Lặng lẽ Sa Pa",
+    "litSample": "Lặng lẽ Sa Pa",
+    "litStory": "Lặng lẽ Sa Pa",
+    "litMoral": "Phân tích truyện ngắn hiện đại."
+  },
+  {
+    "id": "lv8_g8_t2_life_b07",
+    "title": "Bài 7. Tin yêu và ước vọng",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Cuộc sống, tương lai và sách",
+    "chapterIndex": 1,
+    "lessonNo": 7,
+    "sgkNo": 7,
+    "prerequisite": [
+      "lv8_g8_t2_life_b06"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Tin yêu và ước vọng».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Những ngôi sao xa xôi",
+    "litSample": "Những ngôi sao xa xôi",
+    "litStory": "",
+    "litMoral": "Thơ tự do và khát vọng tuổi trẻ."
+  },
+  {
+    "id": "lv8_g8_t2_life_b08",
+    "title": "Bài 8. Nhà văn và trang viết",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Cuộc sống, tương lai và sách",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "sgkNo": 8,
+    "prerequisite": [
+      "lv8_g8_t2_life_b07"
+    ],
+    "description": "Chủ đề «Nhà văn và trang viết»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Nhà thơ của quê hương làng cảnh Việt Nam».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Nhà thơ của quê hương làng cảnh Việt Nam",
+    "litSample": "Nhà thơ của quê hương làng cảnh Việt Nam",
+    "litStory": "Nhà thơ của quê hương làng cảnh Việt Nam",
+    "litMoral": "Vai trò văn học trong đời sống."
+  },
+  {
+    "id": "lv8_g8_t2_life_b09",
+    "title": "Bài 9. Hôm nay và ngày mai",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Cuộc sống, tương lai và sách",
+    "chapterIndex": 1,
+    "lessonNo": 9,
+    "sgkNo": 9,
+    "prerequisite": [
+      "lv8_g8_t2_life_b08"
+    ],
+    "description": "Chủ đề «Hôm nay và ngày mai»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Dấu chân sinh thái».",
+    "visualization": "readingSteps",
+    "category": "Đọc hiểu",
+    "litKind": "media",
+    "litFocus": "Dấu chân sinh thái",
+    "litSample": "Dấu chân sinh thái",
+    "litStory": "",
+    "litMoral": "Văn bản đa phương tiện, môi trường."
+  },
+  {
+    "id": "lv8_g8_t2_life_b10",
+    "title": "Bài 10. Sách – người bạn đồng hành",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Cuộc sống, tương lai và sách",
+    "chapterIndex": 1,
+    "lessonNo": 10,
+    "sgkNo": 10,
+    "prerequisite": [
+      "lv8_g8_t2_life_b09"
+    ],
+    "description": "Chủ đề «Sách – người bạn đồng hành»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đọc như một hành trình».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Đọc như một hành trình",
+    "litSample": "Đọc như một hành trình",
+    "litStory": "Đọc như một hành trình",
+    "litMoral": "Văn hóa đọc và sáng tạo với sách."
+  },
+  {
+    "id": "lv8_g8_t2_review_b01",
+    "title": "Ôn tập học kì 2",
+    "grade": 8,
+    "book": "Ngữ văn 8 — Kết nối tri thức · Tập 2",
+    "chapter": "Ôn tập học kì 2",
+    "chapterIndex": 2,
+    "lessonNo": 1,
+    "sgkNo": 1,
+    "prerequisite": [
+      "lv8_g8_t2_life_b10"
+    ],
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2.",
+    "visualization": "writingSteps",
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 2",
+    "litSample": "Ôn tập học kì 2",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK2."
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b01",
+    "title": "Bài 1. Thế giới kì ảo",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Văn học và cảm xúc con người",
+    "chapterIndex": 1,
+    "lessonNo": 1,
+    "sgkNo": 1,
+    "prerequisite": [],
+    "description": "Chủ đề «Thế giới kì ảo»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chuyện người con gái Nam Xương».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Chuyện người con gái Nam Xương",
+    "litSample": "Chuyện người con gái Nam Xương",
+    "litStory": "Chuyện người con gái Nam Xương",
+    "litMoral": "Con người trong mối quan hệ với tự nhiên."
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b02",
+    "title": "Bài 2. Những cung bậc tâm trạng",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Văn học và cảm xúc con người",
+    "chapterIndex": 1,
+    "lessonNo": 2,
+    "sgkNo": 2,
+    "prerequisite": [
+      "lv9_g9_t1_fantasy_b01"
+    ],
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Những cung bậc tâm trạng».",
+    "visualization": "literaryDevices",
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Tiếng đàn mưa",
+    "litSample": "Tiếng đàn mưa",
+    "litStory": "",
+    "litMoral": "Thơ song thất lục bát, cảm xúc nội tâm."
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b03",
+    "title": "Bài 3. Hồn nước nằm trong tiếng mẹ cha",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Văn học và cảm xúc con người",
+    "chapterIndex": 1,
+    "lessonNo": 3,
+    "sgkNo": 3,
+    "prerequisite": [
+      "lv9_g9_t1_fantasy_b02"
+    ],
+    "description": "Chủ đề «Hồn nước nằm trong tiếng mẹ cha»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Kim - Kiều gặp gỡ».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Kim - Kiều gặp gỡ",
+    "litSample": "Kim - Kiều gặp gỡ",
+    "litStory": "Kim - Kiều gặp gỡ",
+    "litMoral": "Di sản văn học dân tộc, Truyện Kiều."
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b04",
+    "title": "Bài 4. Khám phá vẻ đẹp văn chương",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Văn học và cảm xúc con người",
+    "chapterIndex": 1,
+    "lessonNo": 4,
+    "sgkNo": 4,
+    "prerequisite": [
+      "lv9_g9_t1_fantasy_b03"
+    ],
+    "description": "Chủ đề «Khám phá vẻ đẹp văn chương»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Người con gái Nam Xương - một bi kịch của con người».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Người con gái Nam Xương - một bi kịch của con người",
+    "litSample": "Người con gái Nam Xương - một bi kịch của con người",
+    "litStory": "Người con gái Nam Xương - một bi kịch của con người",
+    "litMoral": "Phân tích tác phẩm văn học."
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b05",
+    "title": "Bài 5. Đối diện với nỗi đau",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Tập 1 · Văn học và cảm xúc con người",
+    "chapterIndex": 1,
+    "lessonNo": 5,
+    "sgkNo": 5,
+    "prerequisite": [
+      "lv9_g9_t1_fantasy_b04"
+    ],
+    "description": "Đọc – phân tích kịch; nắm xung đột, nhân vật trong «Đối diện với nỗi đau».",
     "visualization": "characterMap",
-    "category": "Đọc hiểu"
+    "category": "Văn học",
+    "litKind": "drama",
+    "litFocus": "Rô-mê-ô và Giu-li-ét",
+    "litSample": "Rô-mê-ô và Giu-li-ét",
+    "litStory": "",
+    "litMoral": "Bi kịch, kịch và nghệ thuật sân khấu."
   },
   {
-    "id": "lv8_essay",
-    "title": "Đọc — Văn nghị luận",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
-    "chapterIndex": 1,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv8_novel_excerpt"
-    ],
-    "description": "Luận điểm, luận cứ, kết luận trong văn nghị luận.",
-    "visualization": "readingSteps",
-    "category": "Đọc hiểu"
-  },
-  {
-    "id": "lv8_complex",
-    "title": "Tiếng Việt — Câu phức",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
-    "chapterIndex": 2,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv8_essay"
-    ],
-    "description": "Câu phức, mệnh đề phụ; quan hệ từ.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv8_style",
-    "title": "Phong cách ngôn ngữ",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
-    "chapterIndex": 2,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv8_complex"
-    ],
-    "description": "Giọng văn trang trọng, thân mật; từ ngữ gợi tả.",
-    "visualization": "literaryDevices",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv8_poetry_analysis",
-    "title": "Thơ — Phân tích thơ hiện đại",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Văn học",
-    "chapterIndex": 3,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv8_style"
-    ],
-    "description": "Chủ đề, hình ảnh, nhịp điệu trong thơ.",
-    "visualization": "literaryDevices",
-    "category": "Văn học"
-  },
-  {
-    "id": "lv8_argument",
-    "title": "Viết — Văn nghị luận ngắn",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 3,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv8_poetry_analysis"
-    ],
-    "description": "Mở bài, thân bài, kết bài; lập luận chặt chẽ.",
-    "visualization": "writingSteps",
-    "category": "Nói và viết"
-  },
-  {
-    "id": "lv8_report",
-    "title": "Viết — Báo cáo tham luận",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv8_argument"
-    ],
-    "description": "Cấu trúc bài nói; dẫn chứng và kết luận.",
-    "visualization": "writingSteps",
-    "category": "Nói và viết"
-  },
-  {
-    "id": "lv8_media",
-    "title": "Đọc đa phương tiện",
-    "grade": 8,
-    "book": "Ngữ văn 8 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
-    "chapterIndex": 4,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv8_report"
-    ],
-    "description": "Đọc văn bản kết hợp hình ảnh, sơ đồ, infographic.",
-    "visualization": "readingSteps",
-    "category": "Đọc hiểu"
-  },
-  {
-    "id": "lv9_classics",
-    "title": "Đọc — Văn bản kinh điển",
+    "id": "lv9_g9_t1_review_b01",
+    "title": "Ôn tập học kì 1",
     "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
-    "chapterIndex": 1,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 1",
+    "chapter": "Ôn tập học kì 1",
+    "chapterIndex": 2,
     "lessonNo": 1,
-    "prerequisite": [],
-    "description": "Đọc truyện/trích đoạn kinh điển; giá trị nhân văn.",
+    "sgkNo": 1,
+    "prerequisite": [
+      "lv9_g9_t1_fantasy_b05"
+    ],
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1.",
+    "visualization": "writingSteps",
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 1",
+    "litSample": "Ôn tập học kì 1",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK1."
+  },
+  {
+    "id": "lv9_g9_t2_world_b06",
+    "title": "Bài 6. Giải mã những bí mật",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Tri thức, lương tri và văn học",
+    "chapterIndex": 1,
+    "lessonNo": 6,
+    "sgkNo": 6,
+    "prerequisite": [
+      "lv9_g9_t1_review_b01"
+    ],
+    "description": "Chủ đề «Giải mã những bí mật»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Ba chàng sinh viên».",
     "visualization": "plotDiagram",
-    "category": "Đọc hiểu"
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Ba chàng sinh viên",
+    "litSample": "Ba chàng sinh viên",
+    "litStory": "Ba chàng sinh viên",
+    "litMoral": "Truyện trinh thám, sáng tạo kể chuyện."
   },
   {
-    "id": "lv9_social",
-    "title": "Đọc — Văn bản xã hội",
+    "id": "lv9_g9_t2_world_b07",
+    "title": "Bài 7. Hồn thơ muôn điệu",
     "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Đọc hiểu",
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Tri thức, lương tri và văn học",
     "chapterIndex": 1,
-    "lessonNo": 2,
+    "lessonNo": 7,
+    "sgkNo": 7,
     "prerequisite": [
-      "lv9_classics"
+      "lv9_g9_t2_world_b06"
     ],
-    "description": "Phân tích vấn đề xã hội qua văn bản.",
-    "visualization": "readingSteps",
-    "category": "Đọc hiểu"
-  },
-  {
-    "id": "lv9_rhetoric",
-    "title": "Tu từ học nâng cao",
-    "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Văn học",
-    "chapterIndex": 2,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv9_social"
-    ],
-    "description": "Hoán dụ, chuyển từ ngữ nghĩa, đối lập, điệp cấu trúc.",
+    "description": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Hồn thơ muôn điệu».",
     "visualization": "literaryDevices",
-    "category": "Văn học"
+    "category": "Văn học",
+    "litKind": "poetry",
+    "litFocus": "Tiếng Việt",
+    "litSample": "Tiếng Việt",
+    "litStory": "",
+    "litMoral": "Thơ tám chữ, vẻ đẹp ngôn ngữ Việt."
   },
   {
-    "id": "lv9_grammar_adv",
-    "title": "Tiếng Việt — Ôn tập câu",
+    "id": "lv9_g9_t2_world_b08",
+    "title": "Bài 8. Tiếng nói của lương tri",
     "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Tiếng Việt",
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Tri thức, lương tri và văn học",
+    "chapterIndex": 1,
+    "lessonNo": 8,
+    "sgkNo": 8,
+    "prerequisite": [
+      "lv9_g9_t2_world_b07"
+    ],
+    "description": "Chủ đề «Tiếng nói của lương tri»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đấu tranh cho một thế giới hòa bình».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Đấu tranh cho một thế giới hòa bình",
+    "litSample": "Đấu tranh cho một thế giới hòa bình",
+    "litStory": "Đấu tranh cho một thế giới hòa bình",
+    "litMoral": "Nghị luận xã hội, trách nhiệm công dân."
+  },
+  {
+    "id": "lv9_g9_t2_world_b09",
+    "title": "Bài 9. Đi và suy ngẫm",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Tri thức, lương tri và văn học",
+    "chapterIndex": 1,
+    "lessonNo": 9,
+    "sgkNo": 9,
+    "prerequisite": [
+      "lv9_g9_t2_world_b08"
+    ],
+    "description": "Chủ đề «Đi và suy ngẫm»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Yên Tử, núi thiêng».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Yên Tử, núi thiêng",
+    "litSample": "Yên Tử, núi thiêng",
+    "litStory": "Yên Tử, núi thiêng",
+    "litMoral": "Thuyết minh di tích, danh lam thắng cảnh."
+  },
+  {
+    "id": "lv9_g9_t2_world_b10",
+    "title": "Bài 10. Văn học - lịch sử tâm hồn",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Tập 2 · Tri thức, lương tri và văn học",
+    "chapterIndex": 1,
+    "lessonNo": 10,
+    "sgkNo": 10,
+    "prerequisite": [
+      "lv9_g9_t2_world_b09"
+    ],
+    "description": "Chủ đề «Văn học - lịch sử tâm hồn»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đọc để trưởng thành».",
+    "visualization": "plotDiagram",
+    "category": "Đọc hiểu",
+    "litKind": "unit",
+    "litFocus": "Đọc để trưởng thành",
+    "litSample": "Đọc để trưởng thành",
+    "litStory": "Đọc để trưởng thành",
+    "litMoral": "Văn hóa đọc, dự án văn học tổng hợp."
+  },
+  {
+    "id": "lv9_g9_t2_review_b01",
+    "title": "Ôn tập học kì 2",
+    "grade": 9,
+    "book": "Ngữ văn 9 — Kết nối tri thức · Tập 2",
+    "chapter": "Ôn tập học kì 2",
     "chapterIndex": 2,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv9_rhetoric"
-    ],
-    "description": "Phân loại câu theo mục đích; câu cảm, cầu khiến.",
-    "visualization": "sentenceParts",
-    "category": "Tiếng Việt"
-  },
-  {
-    "id": "lv9_literary_genre",
-    "title": "Thể loại văn học",
-    "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Văn học",
-    "chapterIndex": 3,
     "lessonNo": 1,
+    "sgkNo": 1,
     "prerequisite": [
-      "lv9_grammar_adv"
+      "lv9_g9_t2_world_b10"
     ],
-    "description": "Truyện, kịch, thơ, tản văn; đặc trưng từng thể loại.",
-    "visualization": "genreMap",
-    "category": "Văn học"
-  },
-  {
-    "id": "lv9_essay_full",
-    "title": "Viết — Nghị luận xã hội",
-    "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 3,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv9_literary_genre"
-    ],
-    "description": "Nghị luận về hiện tượng đời sống; mở–thân–kết chuẩn.",
+    "description": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2.",
     "visualization": "writingSteps",
-    "category": "Nói và viết"
-  },
-  {
-    "id": "lv9_creative",
-    "title": "Viết — Sáng tạo có hướng dẫn",
-    "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Nói và viết",
-    "chapterIndex": 4,
-    "lessonNo": 1,
-    "prerequisite": [
-      "lv9_essay_full"
-    ],
-    "description": "Viết truyện ngắn, thơ; phát triển ý tưởng sáng tạo.",
-    "visualization": "writingSteps",
-    "category": "Nói và viết"
-  },
-  {
-    "id": "lv9_exam_prep",
-    "title": "Luyện thi — Đọc hiểu THCS",
-    "grade": 9,
-    "book": "Ngữ văn 9 — Kết nối tri thức",
-    "chapter": "Ôn tập",
-    "chapterIndex": 4,
-    "lessonNo": 2,
-    "prerequisite": [
-      "lv9_creative"
-    ],
-    "description": "Chiến lược làm bài đọc hiểu; trả lời câu hỏi mở.",
-    "visualization": "readingSteps",
-    "category": "Ôn tập"
+    "category": "Ôn tập",
+    "litKind": "review",
+    "litFocus": "Ôn tập học kì 2",
+    "litSample": "Ôn tập học kì 2",
+    "litStory": "",
+    "litMoral": "Củng cố đọc, viết, nói-nghe, THVN HK2."
   }
 ]

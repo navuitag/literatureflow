@@ -1,4 +1,4 @@
-const CACHE_NAME = "literatureflow-vn-v4";
+const CACHE_NAME = "literatureflow-vn-v5";
 const APP_SHELL = [
   "./",
   "./index.html",

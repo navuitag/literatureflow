@@ -15390,52 +15390,14 @@
     ]
   },
   {
-    "id": "lv6_folktale",
-    "skill": "lv6_folktale",
+    "id": "lv6_g6_t1_friends_b01",
+    "skill": "lv6_g6_t1_friends_b01",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Đọc truyện dân gian; nhận biết chi tiết, tình tiết, ý nghĩa."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc lướt nắm cốt truyện, đọc kỹ tìm chi tiết.",
-          "Chú ý lời thoại và hành động nhân vật.",
-          "Rút ra bài học ý nghĩa cuộc sống."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Truyện «Sơn Tinh, Thủy Tinh»: xung đột giữa hai nhân vật thể hiện ý chí con người chinh phục thiên nhiên."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_narrative",
-    "skill": "lv6_narrative",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Phân tích cốt truyện: mở–thân–kết; nhân vật và chi tiết tiêu biểu."
+        "content": "Chủ đề «Tôi và các bạn»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bài học đường đời đầu tiên»."
       },
       {
         "type": "visualization",
@@ -15448,15 +15410,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Tôi và các bạn.",
+          "Văn bản tiêu biểu: «Bài học đường đời đầu tiên».",
+          "Tình bạn chân thành, đồng hành trong học tập."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Bài học đường đời đầu tiên» trong chủ đề «Tôi và các bạn»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15466,242 +15428,14 @@
     ]
   },
   {
-    "id": "lv6_noun",
-    "skill": "lv6_noun",
+    "id": "lv6_g6_t1_friends_b02",
+    "skill": "lv6_g6_t1_friends_b02",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Danh từ, tính từ, số lượng; xác định thành phần trong câu."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_verb",
-    "skill": "lv6_verb",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Động từ, trạng từ; chia thì và cách dùng cơ bản."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_vocab",
-    "skill": "lv6_vocab",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Hiểu nghĩa từ theo ngữ cảnh; từ đồng nghĩa, trái nghĩa."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "literaryDevices",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_poetry",
-    "skill": "lv6_poetry",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Vần, lượng, nhịp; biện pháp tu từ cơ bản trong thơ."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "literaryDevices",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Thơ có vần, nhịp, hình ảnh.",
-          "Biện pháp so sánh, nhân hóa làm thơ sinh động.",
-          "Đọc thuộc lòng giúp cảm nhận nhịp điệu."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_describe",
-    "skill": "lv6_describe",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Cấu trúc đoạn văn; câu mở, thân, kết; miêu tả người, vật."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "writingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv6_speak",
-    "skill": "lv6_speak",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Nói ngắn gọn, rõ ràng; lập luận đơn giản có dẫn chứng."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv7_literary",
-    "skill": "lv7_literary",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Đọc truyện ngắn, tản văn; nắm chủ đề và thái độ tác giả."
+        "content": "Chủ đề «Gõ cửa trái tim»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chuyện cổ tích về loài người»."
       },
       {
         "type": "visualization",
@@ -15714,15 +15448,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Gõ cửa trái tim.",
+          "Văn bản tiêu biểu: «Chuyện cổ tích về loài người».",
+          "Yêu thương, chia sẻ trong gia đình."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Chuyện cổ tích về loài người» trong chủ đề «Gõ cửa trái tim»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15732,19 +15466,19 @@
     ]
   },
   {
-    "id": "lv7_expository",
-    "skill": "lv7_expository",
+    "id": "lv6_g6_t1_friends_b03",
+    "skill": "lv6_g6_t1_friends_b03",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Tìm thông tin chính, phụ; liên hệ thực tế."
+        "content": "Chủ đề «Yêu thương và chia sẻ»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cô bé bán diêm»."
       },
       {
         "type": "visualization",
         "title": "Trực quan hóa",
-        "visualization": "readingSteps",
+        "visualization": "plotDiagram",
         "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
       },
       {
@@ -15752,15 +15486,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Yêu thương và chia sẻ.",
+          "Văn bản tiêu biểu: «Cô bé bán diêm».",
+          "Lòng nhân hậu, quan tâm người khó khăn."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Cô bé bán diêm» trong chủ đề «Yêu thương và chia sẻ»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15770,90 +15504,14 @@
     ]
   },
   {
-    "id": "lv7_sentence",
-    "skill": "lv7_sentence",
+    "id": "lv6_g6_t1_friends_b04",
+    "skill": "lv6_g6_t1_friends_b04",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Câu đơn, câu ghép; CN, VN, TN, trạng ngữ."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv7_compound",
-    "skill": "lv7_compound",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Liên từ, dấu câu nối các vế câu."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv7_figures",
-    "skill": "lv7_figures",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "So sánh, nhân hóa, ẩn dụ, điệp ngữ, điệp âm."
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Quê hương yêu dấu»."
       },
       {
         "type": "visualization",
@@ -15866,15 +15524,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "So sánh: tìm sự giống/khác.",
-          "Nhân hóa: gán tính người cho sự vật.",
-          "Ẩn dụ: gọi tên này chỉ sự vật khác."
+          "Tác phẩm: «Chùm ca dao về quê hương đất nước».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Tình yêu quê hương, đất nước."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "«Trăng ơi… từ đâu đến?» — nhân hóa mặt trăng như người bạn gần gũi."
+        "content": "Phân tích «Chùm ca dao về quê hương đất nước» trong chủ đề «Quê hương yêu dấu»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15884,14 +15542,52 @@
     ]
   },
   {
-    "id": "lv7_narrative_write",
-    "skill": "lv7_narrative_write",
+    "id": "lv6_g6_t1_friends_b05",
+    "skill": "lv6_g6_t1_friends_b05",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Kể chuyện có cốt truyện rõ; sắp xếp tình tiết hợp lý."
+        "content": "Chủ đề «Những nẻo đường xứ sở»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cửu Long Giang ta ơi»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Những nẻo đường xứ sở.",
+          "Văn bản tiêu biểu: «Cửu Long Giang ta ơi».",
+          "Khám phá vẻ đẹp các vùng miền."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Cửu Long Giang ta ơi» trong chủ đề «Những nẻo đường xứ sở»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t1_review_b01",
+    "skill": "lv6_g6_t1_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1."
       },
       {
         "type": "visualization",
@@ -15904,15 +15600,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Ôn tập học kì 1» trong chủ đề «Ôn tập học kì 1»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15922,14 +15618,204 @@
     ]
   },
   {
-    "id": "lv7_express",
-    "skill": "lv7_express",
+    "id": "lv6_g6_t2_heroes_b06",
+    "skill": "lv6_g6_t2_heroes_b06",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Viết đoạn cảm nghĩ; dùng từ gợi tả, gợi cảm."
+        "content": "Chủ đề «Chuyện kể về những người anh hùng»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Sơn Tinh, Thủy Tinh»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Chuyện kể về những người anh hùng.",
+          "Văn bản tiêu biểu: «Sơn Tinh, Thủy Tinh».",
+          "Tinh thần yêu nước, sức mạnh ý chí con người."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Sơn Tinh, Thủy Tinh» trong chủ đề «Chuyện kể về những người anh hùng»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b07",
+    "skill": "lv6_g6_t2_heroes_b07",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Thế giới cổ tích»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Truyện cổ tích»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Thế giới cổ tích.",
+          "Văn bản tiêu biểu: «Truyện cổ tích».",
+          "Giá trị nhân văn qua truyện cổ tích."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Truyện cổ tích» trong chủ đề «Thế giới cổ tích»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b08",
+    "skill": "lv6_g6_t2_heroes_b08",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Khác biệt và gần gũi»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Xem người ta kìa!»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Khác biệt và gần gũi.",
+          "Văn bản tiêu biểu: «Xem người ta kìa!».",
+          "Tôn trọng sự khác biệt, sống hòa nhập."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Xem người ta kìa!» trong chủ đề «Khác biệt và gần gũi»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b09",
+    "skill": "lv6_g6_t2_heroes_b09",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Trái Đất - ngôi nhà chung»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Trái Đất - cái nôi của sự sống»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Trái Đất - ngôi nhà chung.",
+          "Văn bản tiêu biểu: «Trái Đất - cái nôi của sự sống».",
+          "Bảo vệ môi trường, sống hài hòa với thiên nhiên."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Trái Đất - cái nôi của sự sống» trong chủ đề «Trái Đất - ngôi nhà chung»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t2_heroes_b10",
+    "skill": "lv6_g6_t2_heroes_b10",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Cuốn sách tôi yêu»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Mỗi ngày một cuốn sách»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Cuốn sách tôi yêu.",
+          "Văn bản tiêu biểu: «Mỗi ngày một cuốn sách».",
+          "Yêu sách, đọc sách mở rộng tri thức."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Mỗi ngày một cuốn sách» trong chủ đề «Cuốn sách tôi yêu»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv6_g6_t2_review_b01",
+    "skill": "lv6_g6_t2_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2."
       },
       {
         "type": "visualization",
@@ -15942,15 +15828,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Ôn tập học kì 2» trong chủ đề «Ôn tập học kì 2»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15960,14 +15846,812 @@
     ]
   },
   {
-    "id": "lv7_debate",
-    "skill": "lv7_debate",
+    "id": "lv7_g7_t1_childhood_b01",
+    "skill": "lv7_g7_t1_childhood_b01",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Trao đổi, phản biện lịch sự; lắng nghe ý kiến."
+        "content": "Chủ đề «Bầu trời tuổi thơ»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bầy chim chìa vôi»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Bầu trời tuổi thơ.",
+          "Văn bản tiêu biểu: «Bầy chim chìa vôi».",
+          "Cảm nhận vẻ đẹp tuổi thơ qua văn học."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Bầy chim chìa vôi» trong chủ đề «Bầu trời tuổi thơ»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b02",
+    "skill": "lv7_g7_t1_childhood_b02",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Khúc nhạc tâm hồn»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Đồng dao mùa xuân».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ ca dao và cảm xúc tâm hồn."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Đồng dao mùa xuân» trong chủ đề «Khúc nhạc tâm hồn»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b03",
+    "skill": "lv7_g7_t1_childhood_b03",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Cội nguồn yêu thương»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Người thầy đầu tiên»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Cội nguồn yêu thương.",
+          "Văn bản tiêu biểu: «Người thầy đầu tiên».",
+          "Biết ơn thầy cô, tình cảm gia đình."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Người thầy đầu tiên» trong chủ đề «Cội nguồn yêu thương»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b04",
+    "skill": "lv7_g7_t1_childhood_b04",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Giai điệu đất nước»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Mùa xuân nho nhỏ».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Tình yêu Tổ quốc qua thi ca."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Mùa xuân nho nhỏ» trong chủ đề «Giai điệu đất nước»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t1_childhood_b05",
+    "skill": "lv7_g7_t1_childhood_b05",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Màu sắc trăm miền»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Tháng Giêng, mơ về trăng non rét ngọt»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Màu sắc trăm miền.",
+          "Văn bản tiêu biểu: «Tháng Giêng, mơ về trăng non rét ngọt».",
+          "Văn hóa truyền thống các vùng miền."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Tháng Giêng, mơ về trăng non rét ngọt» trong chủ đề «Màu sắc trăm miền»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t1_review_b01",
+    "skill": "lv7_g7_t1_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "writingSteps",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Ôn tập học kì 1» trong chủ đề «Ôn tập học kì 1»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_life_b06",
+    "skill": "lv7_g7_t2_life_b06",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Bài học cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đẽo cày giữa đường»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Bài học cuộc sống.",
+          "Văn bản tiêu biểu: «Đẽo cày giữa đường».",
+          "Bài học từ truyện ngụ ngôn, tục ngữ."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Đẽo cày giữa đường» trong chủ đề «Bài học cuộc sống»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_life_b07",
+    "skill": "lv7_g7_t2_life_b07",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Thế giới viễn tưởng»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Cuộc chạm trán trên đại dương»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Thế giới viễn tưởng.",
+          "Văn bản tiêu biểu: «Cuộc chạm trán trên đại dương».",
+          "Khoa học viễn tưởng và trí tưởng tượng."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Cuộc chạm trán trên đại dương» trong chủ đề «Thế giới viễn tưởng»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_life_b08",
+    "skill": "lv7_g7_t2_life_b08",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Trải nghiệm để trưởng thành»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Bản đồ dẫn đường»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Trải nghiệm để trưởng thành.",
+          "Văn bản tiêu biểu: «Bản đồ dẫn đường».",
+          "Trưởng thành qua trải nghiệm thực tế."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Bản đồ dẫn đường» trong chủ đề «Trải nghiệm để trưởng thành»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_life_b09",
+    "skill": "lv7_g7_t2_life_b09",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Hòa điệu với tự nhiên»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Thuỷ tiên tháng Một»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Hòa điệu với tự nhiên.",
+          "Văn bản tiêu biểu: «Thuỷ tiên tháng Một».",
+          "Bảo vệ thiên nhiên, văn hóa dân tộc."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Thuỷ tiên tháng Một» trong chủ đề «Hòa điệu với tự nhiên»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_life_b10",
+    "skill": "lv7_g7_t2_life_b10",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Trang sách và cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chinh phục những cuốn sách mới»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Trang sách và cuộc sống.",
+          "Văn bản tiêu biểu: «Chinh phục những cuốn sách mới».",
+          "Văn học gắn với cuộc sống, văn hóa đọc."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Chinh phục những cuốn sách mới» trong chủ đề «Trang sách và cuộc sống»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv7_g7_t2_review_b01",
+    "skill": "lv7_g7_t2_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "writingSteps",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Ôn tập học kì 2» trong chủ đề «Ôn tập học kì 2»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_history_b01",
+    "skill": "lv8_g8_t1_history_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Câu chuyện của lịch sử»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Lá cờ thêu sáu chữ vàng»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Câu chuyện của lịch sử.",
+          "Văn bản tiêu biểu: «Lá cờ thêu sáu chữ vàng».",
+          "Tự hào lịch sử dân tộc Việt Nam."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Lá cờ thêu sáu chữ vàng» trong chủ đề «Câu chuyện của lịch sử»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_history_b02",
+    "skill": "lv8_g8_t1_history_b02",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Vẻ đẹp cổ điển»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Thiên Trường vãn vọng».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ Đường luật, thất ngôn bát cú."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Thiên Trường vãn vọng» trong chủ đề «Vẻ đẹp cổ điển»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_history_b03",
+    "skill": "lv8_g8_t1_history_b03",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Lời sông núi»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Nam quốc sơn hà».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Tinh thần yêu nước qua thi ca."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Nam quốc sơn hà» trong chủ đề «Lời sông núi»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_history_b04",
+    "skill": "lv8_g8_t1_history_b04",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Tiếng cười trào phúng trong thơ»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Lễ xướng danh khoa Đinh Dậu».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ trào phúng phê phán hiện thực."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Lễ xướng danh khoa Đinh Dậu» trong chủ đề «Tiếng cười trào phúng trong thơ»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_history_b05",
+    "skill": "lv8_g8_t1_history_b05",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Những câu chuyện hài»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Trưởng giả học làm sang»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Những câu chuyện hài.",
+          "Văn bản tiêu biểu: «Trưởng giả học làm sang».",
+          "Hài hước, phê phán thói xấu xã hội."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Trưởng giả học làm sang» trong chủ đề «Những câu chuyện hài»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t1_review_b01",
+    "skill": "lv8_g8_t1_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "writingSteps",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Ôn tập học kì 1» trong chủ đề «Ôn tập học kì 1»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t2_life_b06",
+    "skill": "lv8_g8_t2_life_b06",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Chân dung cuộc sống»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Lặng lẽ Sa Pa»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Chân dung cuộc sống.",
+          "Văn bản tiêu biểu: «Lặng lẽ Sa Pa».",
+          "Phân tích truyện ngắn hiện đại."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Lặng lẽ Sa Pa» trong chủ đề «Chân dung cuộc sống»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t2_life_b07",
+    "skill": "lv8_g8_t2_life_b07",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Tin yêu và ước vọng»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Những ngôi sao xa xôi».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ tự do và khát vọng tuổi trẻ."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Những ngôi sao xa xôi» trong chủ đề «Tin yêu và ước vọng»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t2_life_b08",
+    "skill": "lv8_g8_t2_life_b08",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Nhà văn và trang viết»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Nhà thơ của quê hương làng cảnh Việt Nam»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Nhà văn và trang viết.",
+          "Văn bản tiêu biểu: «Nhà thơ của quê hương làng cảnh Việt Nam».",
+          "Vai trò văn học trong đời sống."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Nhà thơ của quê hương làng cảnh Việt Nam» trong chủ đề «Nhà văn và trang viết»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t2_life_b09",
+    "skill": "lv8_g8_t2_life_b09",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Hôm nay và ngày mai»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Dấu chân sinh thái»."
       },
       {
         "type": "visualization",
@@ -15980,15 +16664,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Đọc văn bản đa phương tiện.",
+          "Kết hợp chữ, hình ảnh, sơ đồ.",
+          "Tìm thông tin chính và liên hệ thực tế."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Dấu chân sinh thái» trong chủ đề «Hôm nay và ngày mai»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -15998,14 +16682,242 @@
     ]
   },
   {
-    "id": "lv8_novel_excerpt",
-    "skill": "lv8_novel_excerpt",
+    "id": "lv8_g8_t2_life_b10",
+    "skill": "lv8_g8_t2_life_b10",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Phân tích nhân vật, xung đột, cao trào."
+        "content": "Chủ đề «Sách – người bạn đồng hành»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đọc như một hành trình»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Sách – người bạn đồng hành.",
+          "Văn bản tiêu biểu: «Đọc như một hành trình».",
+          "Văn hóa đọc và sáng tạo với sách."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Đọc như một hành trình» trong chủ đề «Sách – người bạn đồng hành»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv8_g8_t2_review_b01",
+    "skill": "lv8_g8_t2_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "writingSteps",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Ôn tập học kì 2» trong chủ đề «Ôn tập học kì 2»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b01",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Thế giới kì ảo»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Chuyện người con gái Nam Xương»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Thế giới kì ảo.",
+          "Văn bản tiêu biểu: «Chuyện người con gái Nam Xương».",
+          "Con người trong mối quan hệ với tự nhiên."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Chuyện người con gái Nam Xương» trong chủ đề «Thế giới kì ảo»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b02",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Những cung bậc tâm trạng»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "literaryDevices",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Tác phẩm: «Tiếng đàn mưa».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ song thất lục bát, cảm xúc nội tâm."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Tiếng đàn mưa» trong chủ đề «Những cung bậc tâm trạng»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b03",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Hồn nước nằm trong tiếng mẹ cha»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Kim - Kiều gặp gỡ»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Hồn nước nằm trong tiếng mẹ cha.",
+          "Văn bản tiêu biểu: «Kim - Kiều gặp gỡ».",
+          "Di sản văn học dân tộc, Truyện Kiều."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Kim - Kiều gặp gỡ» trong chủ đề «Hồn nước nằm trong tiếng mẹ cha»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b04",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Chủ đề «Khám phá vẻ đẹp văn chương»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Người con gái Nam Xương - một bi kịch của con người»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Khám phá vẻ đẹp văn chương.",
+          "Văn bản tiêu biểu: «Người con gái Nam Xương - một bi kịch của con người».",
+          "Phân tích tác phẩm văn học."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Người con gái Nam Xương - một bi kịch của con người» trong chủ đề «Khám phá vẻ đẹp văn chương»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t1_fantasy_b05",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Đọc – phân tích kịch; nắm xung đột, nhân vật trong «Đối diện với nỗi đau»."
       },
       {
         "type": "visualization",
@@ -16018,15 +16930,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Kịch: «Rô-mê-ô và Giu-li-ét».",
+          "Nắm xung đột, cao trào, nhân vật.",
+          "Thông điệp: Bi kịch, kịch và nghệ thuật sân khấu."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Rô-mê-ô và Giu-li-ét» trong chủ đề «Đối diện với nỗi đau»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16036,166 +16948,14 @@
     ]
   },
   {
-    "id": "lv8_essay",
-    "skill": "lv8_essay",
+    "id": "lv9_g9_t1_review_b01",
+    "skill": "lv9_g9_t1_review_b01",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Luận điểm, luận cứ, kết luận trong văn nghị luận."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Đoạn mở bài nghị luận: nêu vấn đề, khẳng định luận điểm chính."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv8_complex",
-    "skill": "lv8_complex",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Câu phức, mệnh đề phụ; quan hệ từ."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv8_style",
-    "skill": "lv8_style",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Giọng văn trang trọng, thân mật; từ ngữ gợi tả."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "literaryDevices",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv8_poetry_analysis",
-    "skill": "lv8_poetry_analysis",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Chủ đề, hình ảnh, nhịp điệu trong thơ."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "literaryDevices",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv8_argument",
-    "skill": "lv8_argument",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Mở bài, thân bài, kết bài; lập luận chặt chẽ."
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 1."
       },
       {
         "type": "visualization",
@@ -16208,15 +16968,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Mở bài: giới thiệu vấn đề.",
-          "Thân bài: 2–3 luận điểm + dẫn chứng.",
-          "Kết bài: khẳng định, mở rộng hoặc liên hệ."
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Ôn tập học kì 1» trong chủ đề «Ôn tập học kì 1»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16226,90 +16986,14 @@
     ]
   },
   {
-    "id": "lv8_report",
-    "skill": "lv8_report",
+    "id": "lv9_g9_t2_world_b06",
+    "skill": "lv9_g9_t2_world_b06",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Cấu trúc bài nói; dẫn chứng và kết luận."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "writingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv8_media",
-    "skill": "lv8_media",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Đọc văn bản kết hợp hình ảnh, sơ đồ, infographic."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv9_classics",
-    "skill": "lv9_classics",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Đọc truyện/trích đoạn kinh điển; giá trị nhân văn."
+        "content": "Chủ đề «Giải mã những bí mật»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Ba chàng sinh viên»."
       },
       {
         "type": "visualization",
@@ -16322,15 +17006,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Giải mã những bí mật.",
+          "Văn bản tiêu biểu: «Ba chàng sinh viên».",
+          "Truyện trinh thám, sáng tạo kể chuyện."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Trích «Vợ nhặt» — hình ảnh người phụ nữ nghèo khổ nhưng giàu lòng nhân hậu."
+        "content": "Phân tích «Ba chàng sinh viên» trong chủ đề «Giải mã những bí mật»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16340,52 +17024,14 @@
     ]
   },
   {
-    "id": "lv9_social",
-    "skill": "lv9_social",
+    "id": "lv9_g9_t2_world_b07",
+    "skill": "lv9_g9_t2_world_b07",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Phân tích vấn đề xã hội qua văn bản."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv9_rhetoric",
-    "skill": "lv9_rhetoric",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Hoán dụ, chuyển từ ngữ nghĩa, đối lập, điệp cấu trúc."
+        "content": "Đọc – phân tích thơ; cảm nhận hình ảnh, nhịp điệu trong chủ đề «Hồn thơ muôn điệu»."
       },
       {
         "type": "visualization",
@@ -16398,15 +17044,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Hoán dụ thay tên gọi.",
-          "Điệp ngữ nhấn mạnh ý.",
-          "Đối lập tạo sức nặng cho văn bản."
+          "Tác phẩm: «Tiếng Việt».",
+          "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.",
+          "Chủ đề: Thơ tám chữ, vẻ đẹp ngôn ngữ Việt."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Tiếng Việt» trong chủ đề «Hồn thơ muôn điệu»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16416,19 +17062,19 @@
     ]
   },
   {
-    "id": "lv9_grammar_adv",
-    "skill": "lv9_grammar_adv",
+    "id": "lv9_g9_t2_world_b08",
+    "skill": "lv9_g9_t2_world_b08",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Phân loại câu theo mục đích; câu cảm, cầu khiến."
+        "content": "Chủ đề «Tiếng nói của lương tri»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đấu tranh cho một thế giới hòa bình»."
       },
       {
         "type": "visualization",
         "title": "Trực quan hóa",
-        "visualization": "sentenceParts",
+        "visualization": "plotDiagram",
         "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
       },
       {
@@ -16436,15 +17082,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Tiếng nói của lương tri.",
+          "Văn bản tiêu biểu: «Đấu tranh cho một thế giới hòa bình».",
+          "Nghị luận xã hội, trách nhiệm công dân."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Đấu tranh cho một thế giới hòa bình» trong chủ đề «Tiếng nói của lương tri»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16454,19 +17100,19 @@
     ]
   },
   {
-    "id": "lv9_literary_genre",
-    "skill": "lv9_literary_genre",
+    "id": "lv9_g9_t2_world_b09",
+    "skill": "lv9_g9_t2_world_b09",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Truyện, kịch, thơ, tản văn; đặc trưng từng thể loại."
+        "content": "Chủ đề «Đi và suy ngẫm»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Yên Tử, núi thiêng»."
       },
       {
         "type": "visualization",
         "title": "Trực quan hóa",
-        "visualization": "genreMap",
+        "visualization": "plotDiagram",
         "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
       },
       {
@@ -16474,15 +17120,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Chủ đề: Đi và suy ngẫm.",
+          "Văn bản tiêu biểu: «Yên Tử, núi thiêng».",
+          "Thuyết minh di tích, danh lam thắng cảnh."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Yên Tử, núi thiêng» trong chủ đề «Đi và suy ngẫm»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",
@@ -16492,14 +17138,52 @@
     ]
   },
   {
-    "id": "lv9_essay_full",
-    "skill": "lv9_essay_full",
+    "id": "lv9_g9_t2_world_b10",
+    "skill": "lv9_g9_t2_world_b10",
     "xp": 50,
     "steps": [
       {
         "type": "intro",
         "title": "Mục tiêu bài học",
-        "content": "Nghị luận về hiện tượng đời sống; mở–thân–kết chuẩn."
+        "content": "Chủ đề «Văn học - lịch sử tâm hồn»: tri thức ngữ văn, đọc hiểu, thực hành tiếng Việt, viết và nói-nghe. Tác phẩm tiêu biểu: «Đọc để trưởng thành»."
+      },
+      {
+        "type": "visualization",
+        "title": "Trực quan hóa",
+        "visualization": "plotDiagram",
+        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
+      },
+      {
+        "type": "keypoints",
+        "title": "Điểm cần nhớ",
+        "content": "Ghi nhớ các ý sau:",
+        "points": [
+          "Chủ đề: Văn học - lịch sử tâm hồn.",
+          "Văn bản tiêu biểu: «Đọc để trưởng thành».",
+          "Văn hóa đọc, dự án văn học tổng hợp."
+        ]
+      },
+      {
+        "type": "example",
+        "title": "Ví dụ minh họa",
+        "content": "Phân tích «Đọc để trưởng thành» trong chủ đề «Văn học - lịch sử tâm hồn»; nêu ý nghĩa và bài học."
+      },
+      {
+        "type": "summary",
+        "title": "Sẵn sàng luyện tập",
+        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
+      }
+    ]
+  },
+  {
+    "id": "lv9_g9_t2_review_b01",
+    "skill": "lv9_g9_t2_review_b01",
+    "xp": 50,
+    "steps": [
+      {
+        "type": "intro",
+        "title": "Mục tiêu bài học",
+        "content": "Ôn tập tổng hợp kiến thức và kỹ năng: Ôn tập học kì 2."
       },
       {
         "type": "visualization",
@@ -16512,91 +17196,15 @@
         "title": "Điểm cần nhớ",
         "content": "Ghi nhớ các ý sau:",
         "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
+          "Ôn tri thức ngữ văn và thực hành tiếng Việt.",
+          "Luyện đọc hiểu, viết, nói-nghe.",
+          "Chuẩn bị kiểm tra học kì."
         ]
       },
       {
         "type": "example",
         "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv9_creative",
-    "skill": "lv9_creative",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Viết truyện ngắn, thơ; phát triển ý tưởng sáng tạo."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "writingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
-      },
-      {
-        "type": "summary",
-        "title": "Sẵn sàng luyện tập",
-        "content": "Hoàn thành bài học rồi làm mini quiz để củng cố kiến thức."
-      }
-    ]
-  },
-  {
-    "id": "lv9_exam_prep",
-    "skill": "lv9_exam_prep",
-    "xp": 50,
-    "steps": [
-      {
-        "type": "intro",
-        "title": "Mục tiêu bài học",
-        "content": "Chiến lược làm bài đọc hiểu; trả lời câu hỏi mở."
-      },
-      {
-        "type": "visualization",
-        "title": "Trực quan hóa",
-        "visualization": "readingSteps",
-        "content": "Quan sát sơ đồ minh họa trước khi luyện tập."
-      },
-      {
-        "type": "keypoints",
-        "title": "Điểm cần nhớ",
-        "content": "Ghi nhớ các ý sau:",
-        "points": [
-          "Đọc kỹ yêu cầu đề bài.",
-          "Gạch chân từ khóa quan trọng.",
-          "Trả lời đủ ý, rõ ràng, mạch lạc."
-        ]
-      },
-      {
-        "type": "example",
-        "title": "Ví dụ minh họa",
-        "content": "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học."
+        "content": "Phân tích «Ôn tập học kì 2» trong chủ đề «Ôn tập học kì 2»; nêu ý nghĩa và bài học."
       },
       {
         "type": "summary",

@@ -22740,1859 +22740,2499 @@
     "hint": "Luyện lại nhiều lần."
   },
   {
-    "id": "q_lv6_folktale_1",
-    "skill": "lv6_folktale",
+    "id": "q_lv6_g6_t1_friends_b01_1",
+    "skill": "lv6_g6_t1_friends_b01",
     "type": "multiple_choice",
-    "question": "[Đọc — Truyện dân gian] Đọc hiểu: Mục đích đọc lướt là gì?",
+    "question": "Tôi và các bạn: Chủ đề SGK tập trung vào?",
     "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
+      "Tình bạn chân thành, đồng hành trong học tập",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
     ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
+    "answer": "Tình bạn chân thành, đồng hành trong học tập",
+    "hint": "Tình bạn chân thành, đồng hành trong học tập."
   },
   {
-    "id": "q_lv6_folktale_2",
-    "skill": "lv6_folktale",
-    "type": "multiple_choice",
-    "question": "[Đọc — Truyện dân gian] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_folktale_3",
-    "skill": "lv6_folktale",
+    "id": "q_lv6_g6_t1_friends_b01_2",
+    "skill": "lv6_g6_t1_friends_b01",
     "type": "true_false",
-    "question": "[Đọc — Truyện dân gian] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "«Bài học đường đời đầu tiên»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Chi tiết minh họa chủ đề."
   },
   {
-    "id": "q_lv6_folktale_4",
-    "skill": "lv6_folktale",
+    "id": "q_lv6_g6_t1_friends_b01_3",
+    "skill": "lv6_g6_t1_friends_b01",
+    "type": "multiple_choice",
+    "question": "Tôi và các bạn: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b01_4",
+    "skill": "lv6_g6_t1_friends_b01",
     "type": "input",
-    "question": "[Đọc — Truyện dân gian] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Tôi và các bạn: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_folktale_5",
-    "skill": "lv6_folktale",
-    "type": "multiple_choice",
-    "question": "[Đọc — Truyện dân gian] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_narrative_1",
-    "skill": "lv6_narrative",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kể chuyện] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_narrative_2",
-    "skill": "lv6_narrative",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kể chuyện] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_narrative_3",
-    "skill": "lv6_narrative",
+    "id": "q_lv6_g6_t1_friends_b01_5",
+    "skill": "lv6_g6_t1_friends_b01",
     "type": "true_false",
-    "question": "[Đọc — Văn bản kể chuyện] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Tôi và các bạn: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_narrative_4",
-    "skill": "lv6_narrative",
+    "id": "q_lv6_g6_t1_friends_b02_1",
+    "skill": "lv6_g6_t1_friends_b02",
+    "type": "multiple_choice",
+    "question": "Gõ cửa trái tim: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Yêu thương, chia sẻ trong gia đình",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Yêu thương, chia sẻ trong gia đình",
+    "hint": "Yêu thương, chia sẻ trong gia đình."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b02_2",
+    "skill": "lv6_g6_t1_friends_b02",
+    "type": "true_false",
+    "question": "«Chuyện cổ tích về loài người»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b02_3",
+    "skill": "lv6_g6_t1_friends_b02",
+    "type": "multiple_choice",
+    "question": "Gõ cửa trái tim: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b02_4",
+    "skill": "lv6_g6_t1_friends_b02",
     "type": "input",
-    "question": "[Đọc — Văn bản kể chuyện] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Gõ cửa trái tim: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_narrative_5",
-    "skill": "lv6_narrative",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kể chuyện] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_noun_1",
-    "skill": "lv6_noun",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Danh từ] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_noun_2",
-    "skill": "lv6_noun",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Danh từ] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_noun_3",
-    "skill": "lv6_noun",
+    "id": "q_lv6_g6_t1_friends_b02_5",
+    "skill": "lv6_g6_t1_friends_b02",
     "type": "true_false",
-    "question": "[Tiếng Việt — Danh từ] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Gõ cửa trái tim: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_noun_4",
-    "skill": "lv6_noun",
+    "id": "q_lv6_g6_t1_friends_b03_1",
+    "skill": "lv6_g6_t1_friends_b03",
+    "type": "multiple_choice",
+    "question": "Yêu thương và chia sẻ: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Lòng nhân hậu, quan tâm người khó khăn",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Lòng nhân hậu, quan tâm người khó khăn",
+    "hint": "Lòng nhân hậu, quan tâm người khó khăn."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b03_2",
+    "skill": "lv6_g6_t1_friends_b03",
+    "type": "true_false",
+    "question": "«Cô bé bán diêm»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b03_3",
+    "skill": "lv6_g6_t1_friends_b03",
+    "type": "multiple_choice",
+    "question": "Yêu thương và chia sẻ: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b03_4",
+    "skill": "lv6_g6_t1_friends_b03",
     "type": "input",
-    "question": "[Tiếng Việt — Danh từ] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Yêu thương và chia sẻ: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_noun_5",
-    "skill": "lv6_noun",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Danh từ] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_verb_1",
-    "skill": "lv6_verb",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Động từ] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_verb_2",
-    "skill": "lv6_verb",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Động từ] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_verb_3",
-    "skill": "lv6_verb",
+    "id": "q_lv6_g6_t1_friends_b03_5",
+    "skill": "lv6_g6_t1_friends_b03",
     "type": "true_false",
-    "question": "[Tiếng Việt — Động từ] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Yêu thương và chia sẻ: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_verb_4",
-    "skill": "lv6_verb",
+    "id": "q_lv6_g6_t1_friends_b04_1",
+    "skill": "lv6_g6_t1_friends_b04",
+    "type": "multiple_choice",
+    "question": "«Chùm ca dao về quê hương đất nước»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Tình yêu quê hương, đất nước."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b04_2",
+    "skill": "lv6_g6_t1_friends_b04",
+    "type": "true_false",
+    "question": "«Chùm ca dao về quê hương đất nước»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b04_3",
+    "skill": "lv6_g6_t1_friends_b04",
+    "type": "multiple_choice",
+    "question": "Quê hương yêu dấu: Chủ đề chính?",
+    "choices": [
+      "Tình yêu quê hương, đất nước",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Tình yêu quê hương, đất nước",
+    "hint": "Tình yêu quê hương, đất nước."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b04_4",
+    "skill": "lv6_g6_t1_friends_b04",
     "type": "input",
-    "question": "[Tiếng Việt — Động từ] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Quê hương yêu dấu: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b04_5",
+    "skill": "lv6_g6_t1_friends_b04",
+    "type": "true_false",
+    "question": "Quê hương yêu dấu: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b05_1",
+    "skill": "lv6_g6_t1_friends_b05",
+    "type": "multiple_choice",
+    "question": "Những nẻo đường xứ sở: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Khám phá vẻ đẹp các vùng miền",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Khám phá vẻ đẹp các vùng miền",
+    "hint": "Khám phá vẻ đẹp các vùng miền."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b05_2",
+    "skill": "lv6_g6_t1_friends_b05",
+    "type": "true_false",
+    "question": "«Cửu Long Giang ta ơi»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b05_3",
+    "skill": "lv6_g6_t1_friends_b05",
+    "type": "multiple_choice",
+    "question": "Những nẻo đường xứ sở: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t1_friends_b05_4",
+    "skill": "lv6_g6_t1_friends_b05",
+    "type": "input",
+    "question": "Những nẻo đường xứ sở: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_verb_5",
-    "skill": "lv6_verb",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Động từ] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_vocab_1",
-    "skill": "lv6_vocab",
-    "type": "multiple_choice",
-    "question": "[Từ ngữ trong ngữ cảnh] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_vocab_2",
-    "skill": "lv6_vocab",
-    "type": "multiple_choice",
-    "question": "[Từ ngữ trong ngữ cảnh] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_vocab_3",
-    "skill": "lv6_vocab",
+    "id": "q_lv6_g6_t1_friends_b05_5",
+    "skill": "lv6_g6_t1_friends_b05",
     "type": "true_false",
-    "question": "[Từ ngữ trong ngữ cảnh] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Những nẻo đường xứ sở: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_vocab_4",
-    "skill": "lv6_vocab",
+    "id": "q_lv6_g6_t1_review_b01_1",
+    "skill": "lv6_g6_t1_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv6_g6_t1_review_b01_2",
+    "skill": "lv6_g6_t1_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv6_g6_t1_review_b01_3",
+    "skill": "lv6_g6_t1_review_b01",
     "type": "input",
-    "question": "[Từ ngữ trong ngữ cảnh] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_vocab_5",
-    "skill": "lv6_vocab",
+    "id": "q_lv6_g6_t1_review_b01_4",
+    "skill": "lv6_g6_t1_review_b01",
     "type": "multiple_choice",
-    "question": "[Từ ngữ trong ngữ cảnh] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv6_poetry_1",
-    "skill": "lv6_poetry",
-    "type": "multiple_choice",
-    "question": "[Thơ — Vần điệu & hình ảnh] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_poetry_2",
-    "skill": "lv6_poetry",
-    "type": "multiple_choice",
-    "question": "[Thơ — Vần điệu & hình ảnh] Vần lưng trong thơ lục bát thường ở câu?",
-    "choices": [
-      "Câu 6",
-      "Câu 8",
-      "Câu 6 và 8",
-      "Câu 7"
-    ],
-    "answer": "Câu 6 và 8",
-    "hint": "Lục bát: vần giữa câu 6 và cuối câu 8."
-  },
-  {
-    "id": "q_lv6_poetry_3",
-    "skill": "lv6_poetry",
+    "id": "q_lv6_g6_t1_review_b01_5",
+    "skill": "lv6_g6_t1_review_b01",
     "type": "true_false",
-    "question": "[Thơ — Vần điệu & hình ảnh] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv6_poetry_4",
-    "skill": "lv6_poetry",
+    "id": "q_lv6_g6_t2_heroes_b06_1",
+    "skill": "lv6_g6_t2_heroes_b06",
+    "type": "multiple_choice",
+    "question": "Chuyện kể về những người anh hùng: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Tinh thần yêu nước, sức mạnh ý chí con người",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Tinh thần yêu nước, sức mạnh ý chí con người",
+    "hint": "Tinh thần yêu nước, sức mạnh ý chí con người."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b06_2",
+    "skill": "lv6_g6_t2_heroes_b06",
+    "type": "true_false",
+    "question": "«Sơn Tinh, Thủy Tinh»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b06_3",
+    "skill": "lv6_g6_t2_heroes_b06",
+    "type": "multiple_choice",
+    "question": "Chuyện kể về những người anh hùng: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b06_4",
+    "skill": "lv6_g6_t2_heroes_b06",
     "type": "input",
-    "question": "[Thơ — Vần điệu & hình ảnh] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Chuyện kể về những người anh hùng: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_poetry_5",
-    "skill": "lv6_poetry",
-    "type": "multiple_choice",
-    "question": "[Thơ — Vần điệu & hình ảnh] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_describe_1",
-    "skill": "lv6_describe",
-    "type": "multiple_choice",
-    "question": "[Viết — Đoạn văn miêu tả] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_describe_2",
-    "skill": "lv6_describe",
-    "type": "multiple_choice",
-    "question": "[Viết — Đoạn văn miêu tả] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_describe_3",
-    "skill": "lv6_describe",
+    "id": "q_lv6_g6_t2_heroes_b06_5",
+    "skill": "lv6_g6_t2_heroes_b06",
     "type": "true_false",
-    "question": "[Viết — Đoạn văn miêu tả] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Chuyện kể về những người anh hùng: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_describe_4",
-    "skill": "lv6_describe",
+    "id": "q_lv6_g6_t2_heroes_b07_1",
+    "skill": "lv6_g6_t2_heroes_b07",
+    "type": "multiple_choice",
+    "question": "Thế giới cổ tích: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Giá trị nhân văn qua truyện cổ tích",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Giá trị nhân văn qua truyện cổ tích",
+    "hint": "Giá trị nhân văn qua truyện cổ tích."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b07_2",
+    "skill": "lv6_g6_t2_heroes_b07",
+    "type": "true_false",
+    "question": "«Truyện cổ tích»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b07_3",
+    "skill": "lv6_g6_t2_heroes_b07",
+    "type": "multiple_choice",
+    "question": "Thế giới cổ tích: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b07_4",
+    "skill": "lv6_g6_t2_heroes_b07",
     "type": "input",
-    "question": "[Viết — Đoạn văn miêu tả] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Thế giới cổ tích: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_describe_5",
-    "skill": "lv6_describe",
-    "type": "multiple_choice",
-    "question": "[Viết — Đoạn văn miêu tả] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv6_speak_1",
-    "skill": "lv6_speak",
-    "type": "multiple_choice",
-    "question": "[Nói — Trình bày ý kiến] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv6_speak_2",
-    "skill": "lv6_speak",
-    "type": "multiple_choice",
-    "question": "[Nói — Trình bày ý kiến] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv6_speak_3",
-    "skill": "lv6_speak",
+    "id": "q_lv6_g6_t2_heroes_b07_5",
+    "skill": "lv6_g6_t2_heroes_b07",
     "type": "true_false",
-    "question": "[Nói — Trình bày ý kiến] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Thế giới cổ tích: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv6_speak_4",
-    "skill": "lv6_speak",
+    "id": "q_lv6_g6_t2_heroes_b08_1",
+    "skill": "lv6_g6_t2_heroes_b08",
+    "type": "multiple_choice",
+    "question": "Khác biệt và gần gũi: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Tôn trọng sự khác biệt, sống hòa nhập",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Tôn trọng sự khác biệt, sống hòa nhập",
+    "hint": "Tôn trọng sự khác biệt, sống hòa nhập."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b08_2",
+    "skill": "lv6_g6_t2_heroes_b08",
+    "type": "true_false",
+    "question": "«Xem người ta kìa!»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b08_3",
+    "skill": "lv6_g6_t2_heroes_b08",
+    "type": "multiple_choice",
+    "question": "Khác biệt và gần gũi: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b08_4",
+    "skill": "lv6_g6_t2_heroes_b08",
     "type": "input",
-    "question": "[Nói — Trình bày ý kiến] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Khác biệt và gần gũi: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv6_speak_5",
-    "skill": "lv6_speak",
-    "type": "multiple_choice",
-    "question": "[Nói — Trình bày ý kiến] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_literary_1",
-    "skill": "lv7_literary",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản văn học] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_literary_2",
-    "skill": "lv7_literary",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản văn học] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_literary_3",
-    "skill": "lv7_literary",
+    "id": "q_lv6_g6_t2_heroes_b08_5",
+    "skill": "lv6_g6_t2_heroes_b08",
     "type": "true_false",
-    "question": "[Đọc — Văn bản văn học] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Khác biệt và gần gũi: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_literary_4",
-    "skill": "lv7_literary",
+    "id": "q_lv6_g6_t2_heroes_b09_1",
+    "skill": "lv6_g6_t2_heroes_b09",
+    "type": "multiple_choice",
+    "question": "Trái Đất - ngôi nhà chung: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Bảo vệ môi trường, sống hài hòa với thiên nhiên",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Bảo vệ môi trường, sống hài hòa với thiên nhiên",
+    "hint": "Bảo vệ môi trường, sống hài hòa với thiên nhiên."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b09_2",
+    "skill": "lv6_g6_t2_heroes_b09",
+    "type": "true_false",
+    "question": "«Trái Đất - cái nôi của sự sống»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b09_3",
+    "skill": "lv6_g6_t2_heroes_b09",
+    "type": "multiple_choice",
+    "question": "Trái Đất - ngôi nhà chung: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b09_4",
+    "skill": "lv6_g6_t2_heroes_b09",
     "type": "input",
-    "question": "[Đọc — Văn bản văn học] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Trái Đất - ngôi nhà chung: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_literary_5",
-    "skill": "lv7_literary",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản văn học] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_expository_1",
-    "skill": "lv7_expository",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản thông tin] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_expository_2",
-    "skill": "lv7_expository",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản thông tin] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_expository_3",
-    "skill": "lv7_expository",
+    "id": "q_lv6_g6_t2_heroes_b09_5",
+    "skill": "lv6_g6_t2_heroes_b09",
     "type": "true_false",
-    "question": "[Đọc — Văn bản thông tin] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Trái Đất - ngôi nhà chung: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_expository_4",
-    "skill": "lv7_expository",
+    "id": "q_lv6_g6_t2_heroes_b10_1",
+    "skill": "lv6_g6_t2_heroes_b10",
+    "type": "multiple_choice",
+    "question": "Cuốn sách tôi yêu: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Yêu sách, đọc sách mở rộng tri thức",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Yêu sách, đọc sách mở rộng tri thức",
+    "hint": "Yêu sách, đọc sách mở rộng tri thức."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b10_2",
+    "skill": "lv6_g6_t2_heroes_b10",
+    "type": "true_false",
+    "question": "«Mỗi ngày một cuốn sách»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b10_3",
+    "skill": "lv6_g6_t2_heroes_b10",
+    "type": "multiple_choice",
+    "question": "Cuốn sách tôi yêu: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv6_g6_t2_heroes_b10_4",
+    "skill": "lv6_g6_t2_heroes_b10",
     "type": "input",
-    "question": "[Đọc — Văn bản thông tin] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Cuốn sách tôi yêu: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_expository_5",
-    "skill": "lv7_expository",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản thông tin] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_sentence_1",
-    "skill": "lv7_sentence",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu và thành phần] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_sentence_2",
-    "skill": "lv7_sentence",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu và thành phần] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_sentence_3",
-    "skill": "lv7_sentence",
+    "id": "q_lv6_g6_t2_heroes_b10_5",
+    "skill": "lv6_g6_t2_heroes_b10",
     "type": "true_false",
-    "question": "[Tiếng Việt — Câu và thành phần] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Cuốn sách tôi yêu: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_sentence_4",
-    "skill": "lv7_sentence",
+    "id": "q_lv6_g6_t2_review_b01_1",
+    "skill": "lv6_g6_t2_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv6_g6_t2_review_b01_2",
+    "skill": "lv6_g6_t2_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv6_g6_t2_review_b01_3",
+    "skill": "lv6_g6_t2_review_b01",
     "type": "input",
-    "question": "[Tiếng Việt — Câu và thành phần] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_sentence_5",
-    "skill": "lv7_sentence",
+    "id": "q_lv6_g6_t2_review_b01_4",
+    "skill": "lv6_g6_t2_review_b01",
     "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu và thành phần] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv7_compound_1",
-    "skill": "lv7_compound",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu ghép] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_compound_2",
-    "skill": "lv7_compound",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu ghép] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_compound_3",
-    "skill": "lv7_compound",
+    "id": "q_lv6_g6_t2_review_b01_5",
+    "skill": "lv6_g6_t2_review_b01",
     "type": "true_false",
-    "question": "[Tiếng Việt — Câu ghép] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv7_compound_4",
-    "skill": "lv7_compound",
+    "id": "q_lv7_g7_t1_childhood_b01_1",
+    "skill": "lv7_g7_t1_childhood_b01",
+    "type": "multiple_choice",
+    "question": "Bầu trời tuổi thơ: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Cảm nhận vẻ đẹp tuổi thơ qua văn học",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Cảm nhận vẻ đẹp tuổi thơ qua văn học",
+    "hint": "Cảm nhận vẻ đẹp tuổi thơ qua văn học."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b01_2",
+    "skill": "lv7_g7_t1_childhood_b01",
+    "type": "true_false",
+    "question": "«Bầy chim chìa vôi»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b01_3",
+    "skill": "lv7_g7_t1_childhood_b01",
+    "type": "multiple_choice",
+    "question": "Bầu trời tuổi thơ: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b01_4",
+    "skill": "lv7_g7_t1_childhood_b01",
     "type": "input",
-    "question": "[Tiếng Việt — Câu ghép] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Bầu trời tuổi thơ: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_compound_5",
-    "skill": "lv7_compound",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu ghép] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_figures_1",
-    "skill": "lv7_figures",
-    "type": "multiple_choice",
-    "question": "[Biện pháp tu từ] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_figures_2",
-    "skill": "lv7_figures",
-    "type": "multiple_choice",
-    "question": "[Biện pháp tu từ] Vần lưng trong thơ lục bát thường ở câu?",
-    "choices": [
-      "Câu 6",
-      "Câu 8",
-      "Câu 6 và 8",
-      "Câu 7"
-    ],
-    "answer": "Câu 6 và 8",
-    "hint": "Lục bát: vần giữa câu 6 và cuối câu 8."
-  },
-  {
-    "id": "q_lv7_figures_3",
-    "skill": "lv7_figures",
+    "id": "q_lv7_g7_t1_childhood_b01_5",
+    "skill": "lv7_g7_t1_childhood_b01",
     "type": "true_false",
-    "question": "[Biện pháp tu từ] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Bầu trời tuổi thơ: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_figures_4",
-    "skill": "lv7_figures",
+    "id": "q_lv7_g7_t1_childhood_b02_1",
+    "skill": "lv7_g7_t1_childhood_b02",
+    "type": "multiple_choice",
+    "question": "«Đồng dao mùa xuân»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ ca dao và cảm xúc tâm hồn."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b02_2",
+    "skill": "lv7_g7_t1_childhood_b02",
+    "type": "true_false",
+    "question": "«Đồng dao mùa xuân»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b02_3",
+    "skill": "lv7_g7_t1_childhood_b02",
+    "type": "multiple_choice",
+    "question": "Khúc nhạc tâm hồn: Chủ đề chính?",
+    "choices": [
+      "Thơ ca dao và cảm xúc tâm hồn",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ ca dao và cảm xúc tâm hồn",
+    "hint": "Thơ ca dao và cảm xúc tâm hồn."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b02_4",
+    "skill": "lv7_g7_t1_childhood_b02",
     "type": "input",
-    "question": "[Biện pháp tu từ] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Khúc nhạc tâm hồn: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b02_5",
+    "skill": "lv7_g7_t1_childhood_b02",
+    "type": "true_false",
+    "question": "Khúc nhạc tâm hồn: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b03_1",
+    "skill": "lv7_g7_t1_childhood_b03",
+    "type": "multiple_choice",
+    "question": "Cội nguồn yêu thương: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Biết ơn thầy cô, tình cảm gia đình",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Biết ơn thầy cô, tình cảm gia đình",
+    "hint": "Biết ơn thầy cô, tình cảm gia đình."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b03_2",
+    "skill": "lv7_g7_t1_childhood_b03",
+    "type": "true_false",
+    "question": "«Người thầy đầu tiên»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b03_3",
+    "skill": "lv7_g7_t1_childhood_b03",
+    "type": "multiple_choice",
+    "question": "Cội nguồn yêu thương: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b03_4",
+    "skill": "lv7_g7_t1_childhood_b03",
+    "type": "input",
+    "question": "Cội nguồn yêu thương: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_figures_5",
-    "skill": "lv7_figures",
-    "type": "multiple_choice",
-    "question": "[Biện pháp tu từ] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_narrative_write_1",
-    "skill": "lv7_narrative_write",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn kể chuyện] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_narrative_write_2",
-    "skill": "lv7_narrative_write",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn kể chuyện] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_narrative_write_3",
-    "skill": "lv7_narrative_write",
+    "id": "q_lv7_g7_t1_childhood_b03_5",
+    "skill": "lv7_g7_t1_childhood_b03",
     "type": "true_false",
-    "question": "[Viết — Văn kể chuyện] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Cội nguồn yêu thương: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_narrative_write_4",
-    "skill": "lv7_narrative_write",
+    "id": "q_lv7_g7_t1_childhood_b04_1",
+    "skill": "lv7_g7_t1_childhood_b04",
+    "type": "multiple_choice",
+    "question": "«Mùa xuân nho nhỏ»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Tình yêu Tổ quốc qua thi ca."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b04_2",
+    "skill": "lv7_g7_t1_childhood_b04",
+    "type": "true_false",
+    "question": "«Mùa xuân nho nhỏ»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b04_3",
+    "skill": "lv7_g7_t1_childhood_b04",
+    "type": "multiple_choice",
+    "question": "Giai điệu đất nước: Chủ đề chính?",
+    "choices": [
+      "Tình yêu Tổ quốc qua thi ca",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Tình yêu Tổ quốc qua thi ca",
+    "hint": "Tình yêu Tổ quốc qua thi ca."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b04_4",
+    "skill": "lv7_g7_t1_childhood_b04",
     "type": "input",
-    "question": "[Viết — Văn kể chuyện] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Giai điệu đất nước: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b04_5",
+    "skill": "lv7_g7_t1_childhood_b04",
+    "type": "true_false",
+    "question": "Giai điệu đất nước: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b05_1",
+    "skill": "lv7_g7_t1_childhood_b05",
+    "type": "multiple_choice",
+    "question": "Màu sắc trăm miền: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Văn hóa truyền thống các vùng miền",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Văn hóa truyền thống các vùng miền",
+    "hint": "Văn hóa truyền thống các vùng miền."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b05_2",
+    "skill": "lv7_g7_t1_childhood_b05",
+    "type": "true_false",
+    "question": "«Tháng Giêng, mơ về trăng non rét ngọt»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b05_3",
+    "skill": "lv7_g7_t1_childhood_b05",
+    "type": "multiple_choice",
+    "question": "Màu sắc trăm miền: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t1_childhood_b05_4",
+    "skill": "lv7_g7_t1_childhood_b05",
+    "type": "input",
+    "question": "Màu sắc trăm miền: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_narrative_write_5",
-    "skill": "lv7_narrative_write",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn kể chuyện] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv7_express_1",
-    "skill": "lv7_express",
-    "type": "multiple_choice",
-    "question": "[Viết — Bày tỏ cảm xúc] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_express_2",
-    "skill": "lv7_express",
-    "type": "multiple_choice",
-    "question": "[Viết — Bày tỏ cảm xúc] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_express_3",
-    "skill": "lv7_express",
+    "id": "q_lv7_g7_t1_childhood_b05_5",
+    "skill": "lv7_g7_t1_childhood_b05",
     "type": "true_false",
-    "question": "[Viết — Bày tỏ cảm xúc] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Màu sắc trăm miền: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv7_express_4",
-    "skill": "lv7_express",
+    "id": "q_lv7_g7_t1_review_b01_1",
+    "skill": "lv7_g7_t1_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv7_g7_t1_review_b01_2",
+    "skill": "lv7_g7_t1_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv7_g7_t1_review_b01_3",
+    "skill": "lv7_g7_t1_review_b01",
     "type": "input",
-    "question": "[Viết — Bày tỏ cảm xúc] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_express_5",
-    "skill": "lv7_express",
+    "id": "q_lv7_g7_t1_review_b01_4",
+    "skill": "lv7_g7_t1_review_b01",
     "type": "multiple_choice",
-    "question": "[Viết — Bày tỏ cảm xúc] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv7_debate_1",
-    "skill": "lv7_debate",
-    "type": "multiple_choice",
-    "question": "[Nói — Thảo luận nhóm] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv7_debate_2",
-    "skill": "lv7_debate",
-    "type": "multiple_choice",
-    "question": "[Nói — Thảo luận nhóm] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv7_debate_3",
-    "skill": "lv7_debate",
+    "id": "q_lv7_g7_t1_review_b01_5",
+    "skill": "lv7_g7_t1_review_b01",
     "type": "true_false",
-    "question": "[Nói — Thảo luận nhóm] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv7_debate_4",
-    "skill": "lv7_debate",
+    "id": "q_lv7_g7_t2_life_b06_1",
+    "skill": "lv7_g7_t2_life_b06",
+    "type": "multiple_choice",
+    "question": "Bài học cuộc sống: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Bài học từ truyện ngụ ngôn, tục ngữ",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Bài học từ truyện ngụ ngôn, tục ngữ",
+    "hint": "Bài học từ truyện ngụ ngôn, tục ngữ."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b06_2",
+    "skill": "lv7_g7_t2_life_b06",
+    "type": "true_false",
+    "question": "«Đẽo cày giữa đường»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b06_3",
+    "skill": "lv7_g7_t2_life_b06",
+    "type": "multiple_choice",
+    "question": "Bài học cuộc sống: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b06_4",
+    "skill": "lv7_g7_t2_life_b06",
     "type": "input",
-    "question": "[Nói — Thảo luận nhóm] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Bài học cuộc sống: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv7_debate_5",
-    "skill": "lv7_debate",
-    "type": "multiple_choice",
-    "question": "[Nói — Thảo luận nhóm] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_novel_excerpt_1",
-    "skill": "lv8_novel_excerpt",
-    "type": "multiple_choice",
-    "question": "[Đọc — Trích đoạn truyện dài] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_novel_excerpt_2",
-    "skill": "lv8_novel_excerpt",
-    "type": "multiple_choice",
-    "question": "[Đọc — Trích đoạn truyện dài] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_novel_excerpt_3",
-    "skill": "lv8_novel_excerpt",
+    "id": "q_lv7_g7_t2_life_b06_5",
+    "skill": "lv7_g7_t2_life_b06",
     "type": "true_false",
-    "question": "[Đọc — Trích đoạn truyện dài] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Bài học cuộc sống: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_novel_excerpt_4",
-    "skill": "lv8_novel_excerpt",
+    "id": "q_lv7_g7_t2_life_b07_1",
+    "skill": "lv7_g7_t2_life_b07",
+    "type": "multiple_choice",
+    "question": "Thế giới viễn tưởng: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Khoa học viễn tưởng và trí tưởng tượng",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Khoa học viễn tưởng và trí tưởng tượng",
+    "hint": "Khoa học viễn tưởng và trí tưởng tượng."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b07_2",
+    "skill": "lv7_g7_t2_life_b07",
+    "type": "true_false",
+    "question": "«Cuộc chạm trán trên đại dương»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b07_3",
+    "skill": "lv7_g7_t2_life_b07",
+    "type": "multiple_choice",
+    "question": "Thế giới viễn tưởng: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b07_4",
+    "skill": "lv7_g7_t2_life_b07",
     "type": "input",
-    "question": "[Đọc — Trích đoạn truyện dài] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Thế giới viễn tưởng: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_novel_excerpt_5",
-    "skill": "lv8_novel_excerpt",
-    "type": "multiple_choice",
-    "question": "[Đọc — Trích đoạn truyện dài] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_essay_1",
-    "skill": "lv8_essay",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn nghị luận] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_essay_2",
-    "skill": "lv8_essay",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn nghị luận] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_essay_3",
-    "skill": "lv8_essay",
+    "id": "q_lv7_g7_t2_life_b07_5",
+    "skill": "lv7_g7_t2_life_b07",
     "type": "true_false",
-    "question": "[Đọc — Văn nghị luận] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Thế giới viễn tưởng: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_essay_4",
-    "skill": "lv8_essay",
+    "id": "q_lv7_g7_t2_life_b08_1",
+    "skill": "lv7_g7_t2_life_b08",
+    "type": "multiple_choice",
+    "question": "Trải nghiệm để trưởng thành: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Trưởng thành qua trải nghiệm thực tế",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Trưởng thành qua trải nghiệm thực tế",
+    "hint": "Trưởng thành qua trải nghiệm thực tế."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b08_2",
+    "skill": "lv7_g7_t2_life_b08",
+    "type": "true_false",
+    "question": "«Bản đồ dẫn đường»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b08_3",
+    "skill": "lv7_g7_t2_life_b08",
+    "type": "multiple_choice",
+    "question": "Trải nghiệm để trưởng thành: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b08_4",
+    "skill": "lv7_g7_t2_life_b08",
     "type": "input",
-    "question": "[Đọc — Văn nghị luận] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Trải nghiệm để trưởng thành: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_essay_5",
-    "skill": "lv8_essay",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn nghị luận] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_complex_1",
-    "skill": "lv8_complex",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu phức] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_complex_2",
-    "skill": "lv8_complex",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu phức] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_complex_3",
-    "skill": "lv8_complex",
+    "id": "q_lv7_g7_t2_life_b08_5",
+    "skill": "lv7_g7_t2_life_b08",
     "type": "true_false",
-    "question": "[Tiếng Việt — Câu phức] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Trải nghiệm để trưởng thành: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_complex_4",
-    "skill": "lv8_complex",
+    "id": "q_lv7_g7_t2_life_b09_1",
+    "skill": "lv7_g7_t2_life_b09",
+    "type": "multiple_choice",
+    "question": "Hòa điệu với tự nhiên: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Bảo vệ thiên nhiên, văn hóa dân tộc",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Bảo vệ thiên nhiên, văn hóa dân tộc",
+    "hint": "Bảo vệ thiên nhiên, văn hóa dân tộc."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b09_2",
+    "skill": "lv7_g7_t2_life_b09",
+    "type": "true_false",
+    "question": "«Thuỷ tiên tháng Một»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b09_3",
+    "skill": "lv7_g7_t2_life_b09",
+    "type": "multiple_choice",
+    "question": "Hòa điệu với tự nhiên: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b09_4",
+    "skill": "lv7_g7_t2_life_b09",
     "type": "input",
-    "question": "[Tiếng Việt — Câu phức] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Hòa điệu với tự nhiên: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_complex_5",
-    "skill": "lv8_complex",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Câu phức] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_style_1",
-    "skill": "lv8_style",
-    "type": "multiple_choice",
-    "question": "[Phong cách ngôn ngữ] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_style_2",
-    "skill": "lv8_style",
-    "type": "multiple_choice",
-    "question": "[Phong cách ngôn ngữ] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_style_3",
-    "skill": "lv8_style",
+    "id": "q_lv7_g7_t2_life_b09_5",
+    "skill": "lv7_g7_t2_life_b09",
     "type": "true_false",
-    "question": "[Phong cách ngôn ngữ] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Hòa điệu với tự nhiên: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_style_4",
-    "skill": "lv8_style",
+    "id": "q_lv7_g7_t2_life_b10_1",
+    "skill": "lv7_g7_t2_life_b10",
+    "type": "multiple_choice",
+    "question": "Trang sách và cuộc sống: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Văn học gắn với cuộc sống, văn hóa đọc",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Văn học gắn với cuộc sống, văn hóa đọc",
+    "hint": "Văn học gắn với cuộc sống, văn hóa đọc."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b10_2",
+    "skill": "lv7_g7_t2_life_b10",
+    "type": "true_false",
+    "question": "«Chinh phục những cuốn sách mới»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b10_3",
+    "skill": "lv7_g7_t2_life_b10",
+    "type": "multiple_choice",
+    "question": "Trang sách và cuộc sống: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv7_g7_t2_life_b10_4",
+    "skill": "lv7_g7_t2_life_b10",
     "type": "input",
-    "question": "[Phong cách ngôn ngữ] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Trang sách và cuộc sống: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_style_5",
-    "skill": "lv8_style",
-    "type": "multiple_choice",
-    "question": "[Phong cách ngôn ngữ] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_poetry_analysis_1",
-    "skill": "lv8_poetry_analysis",
-    "type": "multiple_choice",
-    "question": "[Thơ — Phân tích thơ hiện đại] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_poetry_analysis_2",
-    "skill": "lv8_poetry_analysis",
-    "type": "multiple_choice",
-    "question": "[Thơ — Phân tích thơ hiện đại] Vần lưng trong thơ lục bát thường ở câu?",
-    "choices": [
-      "Câu 6",
-      "Câu 8",
-      "Câu 6 và 8",
-      "Câu 7"
-    ],
-    "answer": "Câu 6 và 8",
-    "hint": "Lục bát: vần giữa câu 6 và cuối câu 8."
-  },
-  {
-    "id": "q_lv8_poetry_analysis_3",
-    "skill": "lv8_poetry_analysis",
+    "id": "q_lv7_g7_t2_life_b10_5",
+    "skill": "lv7_g7_t2_life_b10",
     "type": "true_false",
-    "question": "[Thơ — Phân tích thơ hiện đại] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Trang sách và cuộc sống: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_poetry_analysis_4",
-    "skill": "lv8_poetry_analysis",
+    "id": "q_lv7_g7_t2_review_b01_1",
+    "skill": "lv7_g7_t2_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv7_g7_t2_review_b01_2",
+    "skill": "lv7_g7_t2_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv7_g7_t2_review_b01_3",
+    "skill": "lv7_g7_t2_review_b01",
     "type": "input",
-    "question": "[Thơ — Phân tích thơ hiện đại] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_poetry_analysis_5",
-    "skill": "lv8_poetry_analysis",
+    "id": "q_lv7_g7_t2_review_b01_4",
+    "skill": "lv7_g7_t2_review_b01",
     "type": "multiple_choice",
-    "question": "[Thơ — Phân tích thơ hiện đại] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv8_argument_1",
-    "skill": "lv8_argument",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn nghị luận ngắn] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_argument_2",
-    "skill": "lv8_argument",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn nghị luận ngắn] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_argument_3",
-    "skill": "lv8_argument",
+    "id": "q_lv7_g7_t2_review_b01_5",
+    "skill": "lv7_g7_t2_review_b01",
     "type": "true_false",
-    "question": "[Viết — Văn nghị luận ngắn] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv8_argument_4",
-    "skill": "lv8_argument",
+    "id": "q_lv8_g8_t1_history_b01_1",
+    "skill": "lv8_g8_t1_history_b01",
+    "type": "multiple_choice",
+    "question": "Câu chuyện của lịch sử: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Tự hào lịch sử dân tộc Việt Nam",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Tự hào lịch sử dân tộc Việt Nam",
+    "hint": "Tự hào lịch sử dân tộc Việt Nam."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b01_2",
+    "skill": "lv8_g8_t1_history_b01",
+    "type": "true_false",
+    "question": "«Lá cờ thêu sáu chữ vàng»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b01_3",
+    "skill": "lv8_g8_t1_history_b01",
+    "type": "multiple_choice",
+    "question": "Câu chuyện của lịch sử: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b01_4",
+    "skill": "lv8_g8_t1_history_b01",
     "type": "input",
-    "question": "[Viết — Văn nghị luận ngắn] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Câu chuyện của lịch sử: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_argument_5",
-    "skill": "lv8_argument",
-    "type": "multiple_choice",
-    "question": "[Viết — Văn nghị luận ngắn] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_report_1",
-    "skill": "lv8_report",
-    "type": "multiple_choice",
-    "question": "[Viết — Báo cáo tham luận] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_report_2",
-    "skill": "lv8_report",
-    "type": "multiple_choice",
-    "question": "[Viết — Báo cáo tham luận] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_report_3",
-    "skill": "lv8_report",
+    "id": "q_lv8_g8_t1_history_b01_5",
+    "skill": "lv8_g8_t1_history_b01",
     "type": "true_false",
-    "question": "[Viết — Báo cáo tham luận] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Câu chuyện của lịch sử: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_report_4",
-    "skill": "lv8_report",
+    "id": "q_lv8_g8_t1_history_b02_1",
+    "skill": "lv8_g8_t1_history_b02",
+    "type": "multiple_choice",
+    "question": "«Thiên Trường vãn vọng»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ Đường luật, thất ngôn bát cú."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b02_2",
+    "skill": "lv8_g8_t1_history_b02",
+    "type": "true_false",
+    "question": "«Thiên Trường vãn vọng»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b02_3",
+    "skill": "lv8_g8_t1_history_b02",
+    "type": "multiple_choice",
+    "question": "Vẻ đẹp cổ điển: Chủ đề chính?",
+    "choices": [
+      "Thơ Đường luật, thất ngôn bát cú",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ Đường luật, thất ngôn bát cú",
+    "hint": "Thơ Đường luật, thất ngôn bát cú."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b02_4",
+    "skill": "lv8_g8_t1_history_b02",
     "type": "input",
-    "question": "[Viết — Báo cáo tham luận] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Vẻ đẹp cổ điển: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b02_5",
+    "skill": "lv8_g8_t1_history_b02",
+    "type": "true_false",
+    "question": "Vẻ đẹp cổ điển: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b03_1",
+    "skill": "lv8_g8_t1_history_b03",
+    "type": "multiple_choice",
+    "question": "«Nam quốc sơn hà»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Tinh thần yêu nước qua thi ca."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b03_2",
+    "skill": "lv8_g8_t1_history_b03",
+    "type": "true_false",
+    "question": "«Nam quốc sơn hà»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b03_3",
+    "skill": "lv8_g8_t1_history_b03",
+    "type": "multiple_choice",
+    "question": "Lời sông núi: Chủ đề chính?",
+    "choices": [
+      "Tinh thần yêu nước qua thi ca",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Tinh thần yêu nước qua thi ca",
+    "hint": "Tinh thần yêu nước qua thi ca."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b03_4",
+    "skill": "lv8_g8_t1_history_b03",
+    "type": "input",
+    "question": "Lời sông núi: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b03_5",
+    "skill": "lv8_g8_t1_history_b03",
+    "type": "true_false",
+    "question": "Lời sông núi: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b04_1",
+    "skill": "lv8_g8_t1_history_b04",
+    "type": "multiple_choice",
+    "question": "«Lễ xướng danh khoa Đinh Dậu»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ trào phúng phê phán hiện thực."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b04_2",
+    "skill": "lv8_g8_t1_history_b04",
+    "type": "true_false",
+    "question": "«Lễ xướng danh khoa Đinh Dậu»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b04_3",
+    "skill": "lv8_g8_t1_history_b04",
+    "type": "multiple_choice",
+    "question": "Tiếng cười trào phúng trong thơ: Chủ đề chính?",
+    "choices": [
+      "Thơ trào phúng phê phán hiện thực",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ trào phúng phê phán hiện thực",
+    "hint": "Thơ trào phúng phê phán hiện thực."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b04_4",
+    "skill": "lv8_g8_t1_history_b04",
+    "type": "input",
+    "question": "Tiếng cười trào phúng trong thơ: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b04_5",
+    "skill": "lv8_g8_t1_history_b04",
+    "type": "true_false",
+    "question": "Tiếng cười trào phúng trong thơ: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b05_1",
+    "skill": "lv8_g8_t1_history_b05",
+    "type": "multiple_choice",
+    "question": "Những câu chuyện hài: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Hài hước, phê phán thói xấu xã hội",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Hài hước, phê phán thói xấu xã hội",
+    "hint": "Hài hước, phê phán thói xấu xã hội."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b05_2",
+    "skill": "lv8_g8_t1_history_b05",
+    "type": "true_false",
+    "question": "«Trưởng giả học làm sang»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b05_3",
+    "skill": "lv8_g8_t1_history_b05",
+    "type": "multiple_choice",
+    "question": "Những câu chuyện hài: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv8_g8_t1_history_b05_4",
+    "skill": "lv8_g8_t1_history_b05",
+    "type": "input",
+    "question": "Những câu chuyện hài: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_report_5",
-    "skill": "lv8_report",
-    "type": "multiple_choice",
-    "question": "[Viết — Báo cáo tham luận] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv8_media_1",
-    "skill": "lv8_media",
-    "type": "multiple_choice",
-    "question": "[Đọc đa phương tiện] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv8_media_2",
-    "skill": "lv8_media",
-    "type": "multiple_choice",
-    "question": "[Đọc đa phương tiện] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv8_media_3",
-    "skill": "lv8_media",
+    "id": "q_lv8_g8_t1_history_b05_5",
+    "skill": "lv8_g8_t1_history_b05",
     "type": "true_false",
-    "question": "[Đọc đa phương tiện] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Những câu chuyện hài: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv8_media_4",
-    "skill": "lv8_media",
+    "id": "q_lv8_g8_t1_review_b01_1",
+    "skill": "lv8_g8_t1_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv8_g8_t1_review_b01_2",
+    "skill": "lv8_g8_t1_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv8_g8_t1_review_b01_3",
+    "skill": "lv8_g8_t1_review_b01",
     "type": "input",
-    "question": "[Đọc đa phương tiện] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv8_media_5",
-    "skill": "lv8_media",
+    "id": "q_lv8_g8_t1_review_b01_4",
+    "skill": "lv8_g8_t1_review_b01",
     "type": "multiple_choice",
-    "question": "[Đọc đa phương tiện] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv9_classics_1",
-    "skill": "lv9_classics",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kinh điển] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_classics_2",
-    "skill": "lv9_classics",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kinh điển] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_classics_3",
-    "skill": "lv9_classics",
+    "id": "q_lv8_g8_t1_review_b01_5",
+    "skill": "lv8_g8_t1_review_b01",
     "type": "true_false",
-    "question": "[Đọc — Văn bản kinh điển] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv9_classics_4",
-    "skill": "lv9_classics",
+    "id": "q_lv8_g8_t2_life_b06_1",
+    "skill": "lv8_g8_t2_life_b06",
+    "type": "multiple_choice",
+    "question": "Chân dung cuộc sống: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Phân tích truyện ngắn hiện đại",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Phân tích truyện ngắn hiện đại",
+    "hint": "Phân tích truyện ngắn hiện đại."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b06_2",
+    "skill": "lv8_g8_t2_life_b06",
+    "type": "true_false",
+    "question": "«Lặng lẽ Sa Pa»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b06_3",
+    "skill": "lv8_g8_t2_life_b06",
+    "type": "multiple_choice",
+    "question": "Chân dung cuộc sống: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b06_4",
+    "skill": "lv8_g8_t2_life_b06",
     "type": "input",
-    "question": "[Đọc — Văn bản kinh điển] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Chân dung cuộc sống: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_classics_5",
-    "skill": "lv9_classics",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản kinh điển] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_social_1",
-    "skill": "lv9_social",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản xã hội] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_social_2",
-    "skill": "lv9_social",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản xã hội] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_social_3",
-    "skill": "lv9_social",
+    "id": "q_lv8_g8_t2_life_b06_5",
+    "skill": "lv8_g8_t2_life_b06",
     "type": "true_false",
-    "question": "[Đọc — Văn bản xã hội] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Chân dung cuộc sống: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_social_4",
-    "skill": "lv9_social",
+    "id": "q_lv8_g8_t2_life_b07_1",
+    "skill": "lv8_g8_t2_life_b07",
+    "type": "multiple_choice",
+    "question": "«Những ngôi sao xa xôi»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ tự do và khát vọng tuổi trẻ."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b07_2",
+    "skill": "lv8_g8_t2_life_b07",
+    "type": "true_false",
+    "question": "«Những ngôi sao xa xôi»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b07_3",
+    "skill": "lv8_g8_t2_life_b07",
+    "type": "multiple_choice",
+    "question": "Tin yêu và ước vọng: Chủ đề chính?",
+    "choices": [
+      "Thơ tự do và khát vọng tuổi trẻ",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ tự do và khát vọng tuổi trẻ",
+    "hint": "Thơ tự do và khát vọng tuổi trẻ."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b07_4",
+    "skill": "lv8_g8_t2_life_b07",
     "type": "input",
-    "question": "[Đọc — Văn bản xã hội] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Tin yêu và ước vọng: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b07_5",
+    "skill": "lv8_g8_t2_life_b07",
+    "type": "true_false",
+    "question": "Tin yêu và ước vọng: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b08_1",
+    "skill": "lv8_g8_t2_life_b08",
+    "type": "multiple_choice",
+    "question": "Nhà văn và trang viết: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Vai trò văn học trong đời sống",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Vai trò văn học trong đời sống",
+    "hint": "Vai trò văn học trong đời sống."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b08_2",
+    "skill": "lv8_g8_t2_life_b08",
+    "type": "true_false",
+    "question": "«Nhà thơ của quê hương làng cảnh Việt Nam»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b08_3",
+    "skill": "lv8_g8_t2_life_b08",
+    "type": "multiple_choice",
+    "question": "Nhà văn và trang viết: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b08_4",
+    "skill": "lv8_g8_t2_life_b08",
+    "type": "input",
+    "question": "Nhà văn và trang viết: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_social_5",
-    "skill": "lv9_social",
-    "type": "multiple_choice",
-    "question": "[Đọc — Văn bản xã hội] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_rhetoric_1",
-    "skill": "lv9_rhetoric",
-    "type": "multiple_choice",
-    "question": "[Tu từ học nâng cao] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_rhetoric_2",
-    "skill": "lv9_rhetoric",
-    "type": "multiple_choice",
-    "question": "[Tu từ học nâng cao] Vần lưng trong thơ lục bát thường ở câu?",
-    "choices": [
-      "Câu 6",
-      "Câu 8",
-      "Câu 6 và 8",
-      "Câu 7"
-    ],
-    "answer": "Câu 6 và 8",
-    "hint": "Lục bát: vần giữa câu 6 và cuối câu 8."
-  },
-  {
-    "id": "q_lv9_rhetoric_3",
-    "skill": "lv9_rhetoric",
+    "id": "q_lv8_g8_t2_life_b08_5",
+    "skill": "lv8_g8_t2_life_b08",
     "type": "true_false",
-    "question": "[Tu từ học nâng cao] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Nhà văn và trang viết: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_rhetoric_4",
-    "skill": "lv9_rhetoric",
+    "id": "q_lv8_g8_t2_life_b09_1",
+    "skill": "lv8_g8_t2_life_b09",
+    "type": "multiple_choice",
+    "question": "Hôm nay và ngày mai: Văn bản đa phương tiện kết hợp?",
+    "choices": [
+      "Chữ, hình ảnh, sơ đồ",
+      "Chỉ chữ",
+      "Chỉ nhạc",
+      "Chỉ video"
+    ],
+    "answer": "Chữ, hình ảnh, sơ đồ",
+    "hint": "Đọc đa kênh thông tin."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b09_2",
+    "skill": "lv8_g8_t2_life_b09",
+    "type": "true_false",
+    "question": "Hôm nay và ngày mai: Cần đọc cả chữ và hình minh họa.",
+    "answer": "Đúng",
+    "hint": "Thông tin phân tán trên nhiều yếu tố."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b09_3",
+    "skill": "lv8_g8_t2_life_b09",
+    "type": "multiple_choice",
+    "question": "Hôm nay và ngày mai: Chủ đề?",
+    "choices": [
+      "Văn bản đa phương tiện, môi trường",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Văn bản đa phương tiện, môi trường",
+    "hint": "Văn bản đa phương tiện, môi trường."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b09_4",
+    "skill": "lv8_g8_t2_life_b09",
     "type": "input",
-    "question": "[Tu từ học nâng cao] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Hôm nay và ngày mai: Tóm tắt văn bản cần nêu? (2 từ: ý chính)",
+    "answer": "ý chính",
+    "hint": "Thông tin trọng tâm."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b09_5",
+    "skill": "lv8_g8_t2_life_b09",
+    "type": "true_false",
+    "question": "Hôm nay và ngày mai: Có thể liên hệ vấn đề môi trường thực tế.",
+    "answer": "Đúng",
+    "hint": "Gắn bài học với đời sống."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b10_1",
+    "skill": "lv8_g8_t2_life_b10",
+    "type": "multiple_choice",
+    "question": "Sách – người bạn đồng hành: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Văn hóa đọc và sáng tạo với sách",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Văn hóa đọc và sáng tạo với sách",
+    "hint": "Văn hóa đọc và sáng tạo với sách."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b10_2",
+    "skill": "lv8_g8_t2_life_b10",
+    "type": "true_false",
+    "question": "«Đọc như một hành trình»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b10_3",
+    "skill": "lv8_g8_t2_life_b10",
+    "type": "multiple_choice",
+    "question": "Sách – người bạn đồng hành: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv8_g8_t2_life_b10_4",
+    "skill": "lv8_g8_t2_life_b10",
+    "type": "input",
+    "question": "Sách – người bạn đồng hành: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_rhetoric_5",
-    "skill": "lv9_rhetoric",
-    "type": "multiple_choice",
-    "question": "[Tu từ học nâng cao] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_grammar_adv_1",
-    "skill": "lv9_grammar_adv",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Ôn tập câu] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_grammar_adv_2",
-    "skill": "lv9_grammar_adv",
-    "type": "multiple_choice",
-    "question": "[Tiếng Việt — Ôn tập câu] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_grammar_adv_3",
-    "skill": "lv9_grammar_adv",
+    "id": "q_lv8_g8_t2_life_b10_5",
+    "skill": "lv8_g8_t2_life_b10",
     "type": "true_false",
-    "question": "[Tiếng Việt — Ôn tập câu] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Sách – người bạn đồng hành: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_grammar_adv_4",
-    "skill": "lv9_grammar_adv",
+    "id": "q_lv8_g8_t2_review_b01_1",
+    "skill": "lv8_g8_t2_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv8_g8_t2_review_b01_2",
+    "skill": "lv8_g8_t2_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv8_g8_t2_review_b01_3",
+    "skill": "lv8_g8_t2_review_b01",
     "type": "input",
-    "question": "[Tiếng Việt — Ôn tập câu] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_grammar_adv_5",
-    "skill": "lv9_grammar_adv",
+    "id": "q_lv8_g8_t2_review_b01_4",
+    "skill": "lv8_g8_t2_review_b01",
     "type": "multiple_choice",
-    "question": "[Tiếng Việt — Ôn tập câu] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
   },
   {
-    "id": "q_lv9_literary_genre_1",
-    "skill": "lv9_literary_genre",
-    "type": "multiple_choice",
-    "question": "[Thể loại văn học] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_literary_genre_2",
-    "skill": "lv9_literary_genre",
-    "type": "multiple_choice",
-    "question": "[Thể loại văn học] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_literary_genre_3",
-    "skill": "lv9_literary_genre",
+    "id": "q_lv8_g8_t2_review_b01_5",
+    "skill": "lv8_g8_t2_review_b01",
     "type": "true_false",
-    "question": "[Thể loại văn học] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "Luyện nhiều lần nhớ lâu."
   },
   {
-    "id": "q_lv9_literary_genre_4",
-    "skill": "lv9_literary_genre",
+    "id": "q_lv9_g9_t1_fantasy_b01_1",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "type": "multiple_choice",
+    "question": "Thế giới kì ảo: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Con người trong mối quan hệ với tự nhiên",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Con người trong mối quan hệ với tự nhiên",
+    "hint": "Con người trong mối quan hệ với tự nhiên."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b01_2",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "type": "true_false",
+    "question": "«Chuyện người con gái Nam Xương»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b01_3",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "type": "multiple_choice",
+    "question": "Thế giới kì ảo: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b01_4",
+    "skill": "lv9_g9_t1_fantasy_b01",
     "type": "input",
-    "question": "[Thể loại văn học] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Thế giới kì ảo: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_literary_genre_5",
-    "skill": "lv9_literary_genre",
-    "type": "multiple_choice",
-    "question": "[Thể loại văn học] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_essay_full_1",
-    "skill": "lv9_essay_full",
-    "type": "multiple_choice",
-    "question": "[Viết — Nghị luận xã hội] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_essay_full_2",
-    "skill": "lv9_essay_full",
-    "type": "multiple_choice",
-    "question": "[Viết — Nghị luận xã hội] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_essay_full_3",
-    "skill": "lv9_essay_full",
+    "id": "q_lv9_g9_t1_fantasy_b01_5",
+    "skill": "lv9_g9_t1_fantasy_b01",
     "type": "true_false",
-    "question": "[Viết — Nghị luận xã hội] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Thế giới kì ảo: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_essay_full_4",
-    "skill": "lv9_essay_full",
+    "id": "q_lv9_g9_t1_fantasy_b02_1",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "type": "multiple_choice",
+    "question": "«Tiếng đàn mưa»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ song thất lục bát, cảm xúc nội tâm."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b02_2",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "type": "true_false",
+    "question": "«Tiếng đàn mưa»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b02_3",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "type": "multiple_choice",
+    "question": "Những cung bậc tâm trạng: Chủ đề chính?",
+    "choices": [
+      "Thơ song thất lục bát, cảm xúc nội tâm",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ song thất lục bát, cảm xúc nội tâm",
+    "hint": "Thơ song thất lục bát, cảm xúc nội tâm."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b02_4",
+    "skill": "lv9_g9_t1_fantasy_b02",
     "type": "input",
-    "question": "[Viết — Nghị luận xã hội] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Những cung bậc tâm trạng: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b02_5",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "type": "true_false",
+    "question": "Những cung bậc tâm trạng: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b03_1",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "type": "multiple_choice",
+    "question": "Hồn nước nằm trong tiếng mẹ cha: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Di sản văn học dân tộc, Truyện Kiều",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Di sản văn học dân tộc, Truyện Kiều",
+    "hint": "Di sản văn học dân tộc, Truyện Kiều."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b03_2",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "type": "true_false",
+    "question": "«Kim - Kiều gặp gỡ»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b03_3",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "type": "multiple_choice",
+    "question": "Hồn nước nằm trong tiếng mẹ cha: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b03_4",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "type": "input",
+    "question": "Hồn nước nằm trong tiếng mẹ cha: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_essay_full_5",
-    "skill": "lv9_essay_full",
-    "type": "multiple_choice",
-    "question": "[Viết — Nghị luận xã hội] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_creative_1",
-    "skill": "lv9_creative",
-    "type": "multiple_choice",
-    "question": "[Viết — Sáng tạo có hướng dẫn] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_creative_2",
-    "skill": "lv9_creative",
-    "type": "multiple_choice",
-    "question": "[Viết — Sáng tạo có hướng dẫn] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_creative_3",
-    "skill": "lv9_creative",
+    "id": "q_lv9_g9_t1_fantasy_b03_5",
+    "skill": "lv9_g9_t1_fantasy_b03",
     "type": "true_false",
-    "question": "[Viết — Sáng tạo có hướng dẫn] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Hồn nước nằm trong tiếng mẹ cha: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_creative_4",
-    "skill": "lv9_creative",
+    "id": "q_lv9_g9_t1_fantasy_b04_1",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "type": "multiple_choice",
+    "question": "Khám phá vẻ đẹp văn chương: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Phân tích tác phẩm văn học",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Phân tích tác phẩm văn học",
+    "hint": "Phân tích tác phẩm văn học."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b04_2",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "type": "true_false",
+    "question": "«Người con gái Nam Xương - một bi kịch của con người»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b04_3",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "type": "multiple_choice",
+    "question": "Khám phá vẻ đẹp văn chương: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b04_4",
+    "skill": "lv9_g9_t1_fantasy_b04",
     "type": "input",
-    "question": "[Viết — Sáng tạo có hướng dẫn] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Khám phá vẻ đẹp văn chương: Cốt truyện thường gồm mấy phần? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_creative_5",
-    "skill": "lv9_creative",
-    "type": "multiple_choice",
-    "question": "[Viết — Sáng tạo có hướng dẫn] Thể loại nào kể chuyện có cốt truyện?",
-    "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
-    ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
-  },
-  {
-    "id": "q_lv9_exam_prep_1",
-    "skill": "lv9_exam_prep",
-    "type": "multiple_choice",
-    "question": "[Luyện thi — Đọc hiểu THCS] Đọc hiểu: Mục đích đọc lướt là gì?",
-    "choices": [
-      "Ghi nhớ từng chữ",
-      "Nắm ý chính toàn bài",
-      "Học thuộc lòng",
-      "Phân tích ngữ pháp"
-    ],
-    "answer": "Nắm ý chính toàn bài",
-    "hint": "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-  },
-  {
-    "id": "q_lv9_exam_prep_2",
-    "skill": "lv9_exam_prep",
-    "type": "multiple_choice",
-    "question": "[Luyện thi — Đọc hiểu THCS] Thành phần câu: \"Mẹ em\" thường là?",
-    "choices": [
-      "Vị ngữ",
-      "Chủ ngữ",
-      "Trạng ngữ",
-      "Tân ngữ"
-    ],
-    "answer": "Chủ ngữ",
-    "hint": "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-  },
-  {
-    "id": "q_lv9_exam_prep_3",
-    "skill": "lv9_exam_prep",
+    "id": "q_lv9_g9_t1_fantasy_b04_5",
+    "skill": "lv9_g9_t1_fantasy_b04",
     "type": "true_false",
-    "question": "[Luyện thi — Đọc hiểu THCS] Biện pháp nhân hóa gán tính người cho sự vật.",
+    "question": "Khám phá vẻ đẹp văn chương: Thực hành tiếng Việt giúp viết câu đúng, hay.",
     "answer": "Đúng",
-    "hint": "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
+    "hint": "LTVC nền tảng cho viết văn."
   },
   {
-    "id": "q_lv9_exam_prep_4",
-    "skill": "lv9_exam_prep",
+    "id": "q_lv9_g9_t1_fantasy_b05_1",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "type": "multiple_choice",
+    "question": "«Rô-mê-ô và Giu-li-ét»: Kịch có đặc điểm?",
+    "choices": [
+      "Nhân vật, đối thoại, xung đột",
+      "Chỉ có mô tả",
+      "Không có cốt truyện",
+      "Chỉ là thơ"
+    ],
+    "answer": "Nhân vật, đối thoại, xung đột",
+    "hint": "Thể loại sân khấu."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b05_2",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "type": "true_false",
+    "question": "«Rô-mê-ô và Giu-li-ét»: Xung đột thúc đẩy diễn biến kịch.",
+    "answer": "Đúng",
+    "hint": "Mâu thuẫn tạo cao trào."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b05_3",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "type": "multiple_choice",
+    "question": "Đối diện với nỗi đau: Thông điệp?",
+    "choices": [
+      "Bi kịch, kịch và nghệ thuật sân khấu",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Bi kịch, kịch và nghệ thuật sân khấu",
+    "hint": "Bi kịch, kịch và nghệ thuật sân khấu."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b05_4",
+    "skill": "lv9_g9_t1_fantasy_b05",
     "type": "input",
-    "question": "[Luyện thi — Đọc hiểu THCS] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)",
+    "question": "Đối diện với nỗi đau: Phân tích nhân vật cần nêu? (2 từ: tính cách)",
+    "answer": "tính cách",
+    "hint": "Tính cách, hành động, vai trò."
+  },
+  {
+    "id": "q_lv9_g9_t1_fantasy_b05_5",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "type": "true_false",
+    "question": "Đối diện với nỗi đau: Có thể bình luận về bi kịch trong kịch.",
+    "answer": "Đúng",
+    "hint": "Bi kịch gắn với số phận nhân vật."
+  },
+  {
+    "id": "q_lv9_g9_t1_review_b01_1",
+    "skill": "lv9_g9_t1_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv9_g9_t1_review_b01_2",
+    "skill": "lv9_g9_t1_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv9_g9_t1_review_b01_3",
+    "skill": "lv9_g9_t1_review_b01",
+    "type": "input",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
     "answer": "3",
     "hint": "Mở — thân — kết."
   },
   {
-    "id": "q_lv9_exam_prep_5",
-    "skill": "lv9_exam_prep",
+    "id": "q_lv9_g9_t1_review_b01_4",
+    "skill": "lv9_g9_t1_review_b01",
     "type": "multiple_choice",
-    "question": "[Luyện thi — Đọc hiểu THCS] Thể loại nào kể chuyện có cốt truyện?",
+    "question": ": Trước kiểm tra em nên?",
     "choices": [
-      "Thơ",
-      "Truyện ngắn",
-      "Báo cáo",
-      "Biên bản"
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
     ],
-    "answer": "Truyện ngắn",
-    "hint": "Truyện có nhân vật, sự việc, diễn biến."
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t1_review_b01_5",
+    "skill": "lv9_g9_t1_review_b01",
+    "type": "true_false",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
+    "answer": "Đúng",
+    "hint": "Luyện nhiều lần nhớ lâu."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b06_1",
+    "skill": "lv9_g9_t2_world_b06",
+    "type": "multiple_choice",
+    "question": "Giải mã những bí mật: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Truyện trinh thám, sáng tạo kể chuyện",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Truyện trinh thám, sáng tạo kể chuyện",
+    "hint": "Truyện trinh thám, sáng tạo kể chuyện."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b06_2",
+    "skill": "lv9_g9_t2_world_b06",
+    "type": "true_false",
+    "question": "«Ba chàng sinh viên»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b06_3",
+    "skill": "lv9_g9_t2_world_b06",
+    "type": "multiple_choice",
+    "question": "Giải mã những bí mật: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b06_4",
+    "skill": "lv9_g9_t2_world_b06",
+    "type": "input",
+    "question": "Giải mã những bí mật: Cốt truyện thường gồm mấy phần? (số)",
+    "answer": "3",
+    "hint": "Mở — thân — kết."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b06_5",
+    "skill": "lv9_g9_t2_world_b06",
+    "type": "true_false",
+    "question": "Giải mã những bí mật: Thực hành tiếng Việt giúp viết câu đúng, hay.",
+    "answer": "Đúng",
+    "hint": "LTVC nền tảng cho viết văn."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b07_1",
+    "skill": "lv9_g9_t2_world_b07",
+    "type": "multiple_choice",
+    "question": "«Tiếng Việt»: Phân tích thơ cần chú ý?",
+    "choices": [
+      "Hình ảnh, nhịp điệu, biện pháp tu từ",
+      "Chỉ đếm chữ",
+      "Chỉ học thuộc",
+      "Không cần hiểu"
+    ],
+    "answer": "Hình ảnh, nhịp điệu, biện pháp tu từ",
+    "hint": "Thơ tám chữ, vẻ đẹp ngôn ngữ Việt."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b07_2",
+    "skill": "lv9_g9_t2_world_b07",
+    "type": "true_false",
+    "question": "«Tiếng Việt»: Thơ có thể gợi cảm xúc qua hình ảnh.",
+    "answer": "Đúng",
+    "hint": "Từ ngữ gợi tả, gợi cảm."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b07_3",
+    "skill": "lv9_g9_t2_world_b07",
+    "type": "multiple_choice",
+    "question": "Hồn thơ muôn điệu: Chủ đề chính?",
+    "choices": [
+      "Thơ tám chữ, vẻ đẹp ngôn ngữ Việt",
+      "Không có",
+      "Chỉ vui",
+      "Bỏ qua"
+    ],
+    "answer": "Thơ tám chữ, vẻ đẹp ngôn ngữ Việt",
+    "hint": "Thơ tám chữ, vẻ đẹp ngôn ngữ Việt."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b07_4",
+    "skill": "lv9_g9_t2_world_b07",
+    "type": "input",
+    "question": "Hồn thơ muôn điệu: Biện pháp so sánh thường dùng từ? (như hoặc tựa)",
+    "answer": "như",
+    "hint": "So sánh: A như/tựa B."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b07_5",
+    "skill": "lv9_g9_t2_world_b07",
+    "type": "true_false",
+    "question": "Hồn thơ muôn điệu: Có thể viết đoạn cảm nhận về bài thơ.",
+    "answer": "Đúng",
+    "hint": "Bày tỏ cảm xúc cá nhân."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b08_1",
+    "skill": "lv9_g9_t2_world_b08",
+    "type": "multiple_choice",
+    "question": "Tiếng nói của lương tri: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Nghị luận xã hội, trách nhiệm công dân",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Nghị luận xã hội, trách nhiệm công dân",
+    "hint": "Nghị luận xã hội, trách nhiệm công dân."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b08_2",
+    "skill": "lv9_g9_t2_world_b08",
+    "type": "true_false",
+    "question": "«Đấu tranh cho một thế giới hòa bình»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b08_3",
+    "skill": "lv9_g9_t2_world_b08",
+    "type": "multiple_choice",
+    "question": "Tiếng nói của lương tri: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b08_4",
+    "skill": "lv9_g9_t2_world_b08",
+    "type": "input",
+    "question": "Tiếng nói của lương tri: Cốt truyện thường gồm mấy phần? (số)",
+    "answer": "3",
+    "hint": "Mở — thân — kết."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b08_5",
+    "skill": "lv9_g9_t2_world_b08",
+    "type": "true_false",
+    "question": "Tiếng nói của lương tri: Thực hành tiếng Việt giúp viết câu đúng, hay.",
+    "answer": "Đúng",
+    "hint": "LTVC nền tảng cho viết văn."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b09_1",
+    "skill": "lv9_g9_t2_world_b09",
+    "type": "multiple_choice",
+    "question": "Đi và suy ngẫm: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Thuyết minh di tích, danh lam thắng cảnh",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Thuyết minh di tích, danh lam thắng cảnh",
+    "hint": "Thuyết minh di tích, danh lam thắng cảnh."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b09_2",
+    "skill": "lv9_g9_t2_world_b09",
+    "type": "true_false",
+    "question": "«Yên Tử, núi thiêng»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b09_3",
+    "skill": "lv9_g9_t2_world_b09",
+    "type": "multiple_choice",
+    "question": "Đi và suy ngẫm: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b09_4",
+    "skill": "lv9_g9_t2_world_b09",
+    "type": "input",
+    "question": "Đi và suy ngẫm: Cốt truyện thường gồm mấy phần? (số)",
+    "answer": "3",
+    "hint": "Mở — thân — kết."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b09_5",
+    "skill": "lv9_g9_t2_world_b09",
+    "type": "true_false",
+    "question": "Đi và suy ngẫm: Thực hành tiếng Việt giúp viết câu đúng, hay.",
+    "answer": "Đúng",
+    "hint": "LTVC nền tảng cho viết văn."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b10_1",
+    "skill": "lv9_g9_t2_world_b10",
+    "type": "multiple_choice",
+    "question": "Văn học - lịch sử tâm hồn: Chủ đề SGK tập trung vào?",
+    "choices": [
+      "Văn hóa đọc, dự án văn học tổng hợp",
+      "Không có bài học",
+      "Chỉ giải trí",
+      "Không cần đọc"
+    ],
+    "answer": "Văn hóa đọc, dự án văn học tổng hợp",
+    "hint": "Văn hóa đọc, dự án văn học tổng hợp."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b10_2",
+    "skill": "lv9_g9_t2_world_b10",
+    "type": "true_false",
+    "question": "«Đọc để trưởng thành»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.",
+    "answer": "Đúng",
+    "hint": "Chi tiết minh họa chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b10_3",
+    "skill": "lv9_g9_t2_world_b10",
+    "type": "multiple_choice",
+    "question": "Văn học - lịch sử tâm hồn: Một bài học SGK Ngữ văn THCS gồm?",
+    "choices": [
+      "Tri thức NV, đọc, THVN, viết, nói-nghe",
+      "Chỉ đọc",
+      "Chỉ viết",
+      "Chỉ nghe"
+    ],
+    "answer": "Tri thức NV, đọc, THVN, viết, nói-nghe",
+    "hint": "Cấu trúc bài học KNT."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b10_4",
+    "skill": "lv9_g9_t2_world_b10",
+    "type": "input",
+    "question": "Văn học - lịch sử tâm hồn: Cốt truyện thường gồm mấy phần? (số)",
+    "answer": "3",
+    "hint": "Mở — thân — kết."
+  },
+  {
+    "id": "q_lv9_g9_t2_world_b10_5",
+    "skill": "lv9_g9_t2_world_b10",
+    "type": "true_false",
+    "question": "Văn học - lịch sử tâm hồn: Thực hành tiếng Việt giúp viết câu đúng, hay.",
+    "answer": "Đúng",
+    "hint": "LTVC nền tảng cho viết văn."
+  },
+  {
+    "id": "q_lv9_g9_t2_review_b01_1",
+    "skill": "lv9_g9_t2_review_b01",
+    "type": "multiple_choice",
+    "question": ": Ôn tập gồm?",
+    "choices": [
+      "Đọc, viết, THVN, nói-nghe",
+      "Chỉ toán",
+      "Chỉ thể dục",
+      "Chỉ hát"
+    ],
+    "answer": "Đọc, viết, THVN, nói-nghe",
+    "hint": "Tổng hợp kiến thức học kì."
+  },
+  {
+    "id": "q_lv9_g9_t2_review_b01_2",
+    "skill": "lv9_g9_t2_review_b01",
+    "type": "true_false",
+    "question": ": Cần ôn tri thức ngữ văn và thực hành tiếng Việt.",
+    "answer": "Đúng",
+    "hint": "Hai phần cốt lõi SGK Ngữ văn."
+  },
+  {
+    "id": "q_lv9_g9_t2_review_b01_3",
+    "skill": "lv9_g9_t2_review_b01",
+    "type": "input",
+    "question": ": Bài văn nghị luận gồm mấy phần chính? (số)",
+    "answer": "3",
+    "hint": "Mở — thân — kết."
+  },
+  {
+    "id": "q_lv9_g9_t2_review_b01_4",
+    "skill": "lv9_g9_t2_review_b01",
+    "type": "multiple_choice",
+    "question": ": Trước kiểm tra em nên?",
+    "choices": [
+      "Ôn theo chủ đề SGK",
+      "Không ôn",
+      "Chỉ xem phim",
+      "Bỏ qua SGK"
+    ],
+    "answer": "Ôn theo chủ đề SGK",
+    "hint": "Bám 10 bài/chủ đề."
+  },
+  {
+    "id": "q_lv9_g9_t2_review_b01_5",
+    "skill": "lv9_g9_t2_review_b01",
+    "type": "true_false",
+    "question": ": Luyện tập giúp củng cố kỹ năng.",
+    "answer": "Đúng",
+    "hint": "Luyện nhiều lần nhớ lâu."
   }
 ]

@@ -8,65 +8,18 @@ import { getGrade2Units, GRADE2_META } from "./grade2-kntt-curriculum.mjs";
 import { getGrade3Units, GRADE3_META } from "./grade3-kntt-curriculum.mjs";
 import { getGrade4Units, GRADE4_META } from "./grade4-kntt-curriculum.mjs";
 import { getGrade5Units, GRADE5_META } from "./grade5-kntt-curriculum.mjs";
+import { getGrade6Units, GRADE6_META } from "./grade6-kntt-curriculum.mjs";
+import { getGrade7Units, GRADE7_META } from "./grade7-kntt-curriculum.mjs";
+import { getGrade8Units, GRADE8_META } from "./grade8-kntt-curriculum.mjs";
+import { getGrade9Units, GRADE9_META } from "./grade9-kntt-curriculum.mjs";
 
 function isPrimaryGrade(grade) {
   return grade >= 1 && grade <= 5;
 }
 
-const grades = {
-  6: {
-    book: "Ngữ văn 6 — Kết nối tri thức",
-    units: [
-      { id: "lv6_folktale", title: "Đọc — Truyện dân gian", chapter: "Đọc hiểu", viz: "readingSteps", desc: "Đọc truyện dân gian; nhận biết chi tiết, tình tiết, ý nghĩa." },
-      { id: "lv6_narrative", title: "Đọc — Văn bản kể chuyện", chapter: "Đọc hiểu", viz: "plotDiagram", desc: "Phân tích cốt truyện: mở–thân–kết; nhân vật và chi tiết tiêu biểu." },
-      { id: "lv6_noun", title: "Tiếng Việt — Danh từ", chapter: "Tiếng Việt", viz: "sentenceParts", desc: "Danh từ, tính từ, số lượng; xác định thành phần trong câu." },
-      { id: "lv6_verb", title: "Tiếng Việt — Động từ", chapter: "Tiếng Việt", viz: "sentenceParts", desc: "Động từ, trạng từ; chia thì và cách dùng cơ bản." },
-      { id: "lv6_vocab", title: "Từ ngữ trong ngữ cảnh", chapter: "Tiếng Việt", viz: "literaryDevices", desc: "Hiểu nghĩa từ theo ngữ cảnh; từ đồng nghĩa, trái nghĩa." },
-      { id: "lv6_poetry", title: "Thơ — Vần điệu & hình ảnh", chapter: "Văn học", viz: "literaryDevices", desc: "Vần, lượng, nhịp; biện pháp tu từ cơ bản trong thơ." },
-      { id: "lv6_describe", title: "Viết — Đoạn văn miêu tả", chapter: "Nói và viết", viz: "writingSteps", desc: "Cấu trúc đoạn văn; câu mở, thân, kết; miêu tả người, vật." },
-      { id: "lv6_speak", title: "Nói — Trình bày ý kiến", chapter: "Nói và viết", viz: "readingSteps", desc: "Nói ngắn gọn, rõ ràng; lập luận đơn giản có dẫn chứng." }
-    ]
-  },
-  7: {
-    book: "Ngữ văn 7 — Kết nối tri thức",
-    units: [
-      { id: "lv7_literary", title: "Đọc — Văn bản văn học", chapter: "Đọc hiểu", viz: "plotDiagram", desc: "Đọc truyện ngắn, tản văn; nắm chủ đề và thái độ tác giả." },
-      { id: "lv7_expository", title: "Đọc — Văn bản thông tin", chapter: "Đọc hiểu", viz: "readingSteps", desc: "Tìm thông tin chính, phụ; liên hệ thực tế." },
-      { id: "lv7_sentence", title: "Tiếng Việt — Câu và thành phần", chapter: "Tiếng Viết", viz: "sentenceParts", desc: "Câu đơn, câu ghép; CN, VN, TN, trạng ngữ." },
-      { id: "lv7_compound", title: "Tiếng Việt — Câu ghép", chapter: "Tiếng Việt", viz: "sentenceParts", desc: "Liên từ, dấu câu nối các vế câu." },
-      { id: "lv7_figures", title: "Biện pháp tu từ", chapter: "Văn học", viz: "literaryDevices", desc: "So sánh, nhân hóa, ẩn dụ, điệp ngữ, điệp âm." },
-      { id: "lv7_narrative_write", title: "Viết — Văn kể chuyện", chapter: "Nói và viết", viz: "writingSteps", desc: "Kể chuyện có cốt truyện rõ; sắp xếp tình tiết hợp lý." },
-      { id: "lv7_express", title: "Viết — Bày tỏ cảm xúc", chapter: "Nói và viết", viz: "writingSteps", desc: "Viết đoạn cảm nghĩ; dùng từ gợi tả, gợi cảm." },
-      { id: "lv7_debate", title: "Nói — Thảo luận nhóm", chapter: "Nói và viết", viz: "readingSteps", desc: "Trao đổi, phản biện lịch sự; lắng nghe ý kiến." }
-    ]
-  },
-  8: {
-    book: "Ngữ văn 8 — Kết nối tri thức",
-    units: [
-      { id: "lv8_novel_excerpt", title: "Đọc — Trích đoạn truyện dài", chapter: "Đọc hiểu", viz: "characterMap", desc: "Phân tích nhân vật, xung đột, cao trào." },
-      { id: "lv8_essay", title: "Đọc — Văn nghị luận", chapter: "Đọc hiểu", viz: "readingSteps", desc: "Luận điểm, luận cứ, kết luận trong văn nghị luận." },
-      { id: "lv8_complex", title: "Tiếng Việt — Câu phức", chapter: "Tiếng Việt", viz: "sentenceParts", desc: "Câu phức, mệnh đề phụ; quan hệ từ." },
-      { id: "lv8_style", title: "Phong cách ngôn ngữ", chapter: "Tiếng Việt", viz: "literaryDevices", desc: "Giọng văn trang trọng, thân mật; từ ngữ gợi tả." },
-      { id: "lv8_poetry_analysis", title: "Thơ — Phân tích thơ hiện đại", chapter: "Văn học", viz: "literaryDevices", desc: "Chủ đề, hình ảnh, nhịp điệu trong thơ." },
-      { id: "lv8_argument", title: "Viết — Văn nghị luận ngắn", chapter: "Nói và viết", viz: "writingSteps", desc: "Mở bài, thân bài, kết bài; lập luận chặt chẽ." },
-      { id: "lv8_report", title: "Viết — Báo cáo tham luận", chapter: "Nói và viết", viz: "writingSteps", desc: "Cấu trúc bài nói; dẫn chứng và kết luận." },
-      { id: "lv8_media", title: "Đọc đa phương tiện", chapter: "Đọc hiểu", viz: "readingSteps", desc: "Đọc văn bản kết hợp hình ảnh, sơ đồ, infographic." }
-    ]
-  },
-  9: {
-    book: "Ngữ văn 9 — Kết nối tri thức",
-    units: [
-      { id: "lv9_classics", title: "Đọc — Văn bản kinh điển", chapter: "Đọc hiểu", viz: "plotDiagram", desc: "Đọc truyện/trích đoạn kinh điển; giá trị nhân văn." },
-      { id: "lv9_social", title: "Đọc — Văn bản xã hội", chapter: "Đọc hiểu", viz: "readingSteps", desc: "Phân tích vấn đề xã hội qua văn bản." },
-      { id: "lv9_rhetoric", title: "Tu từ học nâng cao", chapter: "Văn học", viz: "literaryDevices", desc: "Hoán dụ, chuyển từ ngữ nghĩa, đối lập, điệp cấu trúc." },
-      { id: "lv9_grammar_adv", title: "Tiếng Việt — Ôn tập câu", chapter: "Tiếng Việt", viz: "sentenceParts", desc: "Phân loại câu theo mục đích; câu cảm, cầu khiến." },
-      { id: "lv9_literary_genre", title: "Thể loại văn học", chapter: "Văn học", viz: "genreMap", desc: "Truyện, kịch, thơ, tản văn; đặc trưng từng thể loại." },
-      { id: "lv9_essay_full", title: "Viết — Nghị luận xã hội", chapter: "Nói và viết", viz: "writingSteps", desc: "Nghị luận về hiện tượng đời sống; mở–thân–kết chuẩn." },
-      { id: "lv9_creative", title: "Viết — Sáng tạo có hướng dẫn", chapter: "Nói và viết", viz: "writingSteps", desc: "Viết truyện ngắn, thơ; phát triển ý tưởng sáng tạo." },
-      { id: "lv9_exam_prep", title: "Luyện thi — Đọc hiểu THCS", chapter: "Ôn tập", viz: "readingSteps", desc: "Chiến lược làm bài đọc hiểu; trả lời câu hỏi mở." }
-    ]
-  }
-};
+function isSecondaryGrade(grade) {
+  return grade >= 6 && grade <= 9;
+}
 
 function buildPrimarySkills(units, grade) {
   return units.map((u, i) => ({
@@ -85,7 +38,7 @@ function buildPrimarySkills(units, grade) {
     litKind: u.kind,
     litFocus: u.focus || "",
     litSample: u.sample || "",
-    litStory: u.storyTitle || ((u.kind === "read" || u.kind === "story") ? u.title.replace(/^Bài \d+\. /, "") : ""),
+    litStory: u.storyTitle || ((u.kind === "read" || u.kind === "story" || u.kind === "unit") ? u.title.replace(/^Bài \d+\. /, "") : ""),
     litMoral: u.moral || ""
   }));
 }
@@ -102,24 +55,10 @@ function buildSkills() {
   appendGradeSkills(skills, getGrade3Units(), 3);
   appendGradeSkills(skills, getGrade4Units(), 4);
   appendGradeSkills(skills, getGrade5Units(), 5);
-  for (const [grade, cfg] of Object.entries(grades)) {
-    const units = cfg.units;
-    units.forEach((u, i) => {
-      skills.push({
-        id: u.id,
-        title: u.title,
-        grade: Number(grade),
-        book: cfg.book,
-        chapter: u.chapter,
-        chapterIndex: Math.floor(i / 2) + 1,
-        lessonNo: (i % 2) + 1,
-        prerequisite: i > 0 ? [units[i - 1].id] : [],
-        description: u.desc,
-        visualization: u.viz,
-        category: u.chapter
-      });
-    });
-  }
+  appendGradeSkills(skills, getGrade6Units(), 6);
+  appendGradeSkills(skills, getGrade7Units(), 7);
+  appendGradeSkills(skills, getGrade8Units(), 8);
+  appendGradeSkills(skills, getGrade9Units(), 9);
   return skills;
 }
 
@@ -148,7 +87,6 @@ function lessonSteps(skill) {
 }
 
 function keypointsFor(skill) {
-  const id = skill.id;
   if (isPrimaryGrade(skill.grade)) {
     if (skill.litKind === "phonics") {
       return [
@@ -178,14 +116,26 @@ function keypointsFor(skill) {
     }
     return ["Ôn lại bài đã học.", "Luyện đọc, viết, nói.", "Chuẩn bị kiểm tra."];
   }
-  const map = {
-    lv6_folktale: ["Đọc lướt nắm cốt truyện, đọc kỹ tìm chi tiết.", "Chú ý lời thoại và hành động nhân vật.", "Rút ra bài học ý nghĩa cuộc sống."],
-    lv6_poetry: ["Thơ có vần, nhịp, hình ảnh.", "Biện pháp so sánh, nhân hóa làm thơ sinh động.", "Đọc thuộc lòng giúp cảm nhận nhịp điệu."],
-    lv7_figures: ["So sánh: tìm sự giống/khác.", "Nhân hóa: gán tính người cho sự vật.", "Ẩn dụ: gọi tên này chỉ sự vật khác."],
-    lv8_argument: ["Mở bài: giới thiệu vấn đề.", "Thân bài: 2–3 luận điểm + dẫn chứng.", "Kết bài: khẳng định, mở rộng hoặc liên hệ."],
-    lv9_rhetoric: ["Hoán dụ thay tên gọi.", "Điệp ngữ nhấn mạnh ý.", "Đối lập tạo sức nặng cho văn bản."]
-  };
-  return map[id] || [
+  if (isSecondaryGrade(skill.grade)) {
+    if (skill.litKind === "review") {
+      return ["Ôn tri thức ngữ văn và thực hành tiếng Việt.", "Luyện đọc hiểu, viết, nói-nghe.", "Chuẩn bị kiểm tra học kì."];
+    }
+    if (skill.litKind === "poetry") {
+      return [`Tác phẩm: «${skill.litSample}».`, "Phân tích hình ảnh, nhịp điệu, biện pháp tu từ.", `Chủ đề: ${skill.litMoral}`];
+    }
+    if (skill.litKind === "drama") {
+      return [`Kịch: «${skill.litSample}».`, "Nắm xung đột, cao trào, nhân vật.", `Thông điệp: ${skill.litMoral}`];
+    }
+    if (skill.litKind === "media") {
+      return ["Đọc văn bản đa phương tiện.", "Kết hợp chữ, hình ảnh, sơ đồ.", "Tìm thông tin chính và liên hệ thực tế."];
+    }
+    return [
+      `Chủ đề: ${skill.title.replace(/^Bài \d+\. /, "")}.`,
+      skill.litSample ? `Văn bản tiêu biểu: «${skill.litSample}».` : "Đọc hiểu, THVN, viết và nói-nghe.",
+      skill.litMoral
+    ];
+  }
+  return [
     "Đọc kỹ yêu cầu đề bài.",
     "Gạch chân từ khóa quan trọng.",
     "Trả lời đủ ý, rõ ràng, mạch lạc."
@@ -193,7 +143,6 @@ function keypointsFor(skill) {
 }
 
 function exampleFor(skill) {
-  const id = skill.id;
   if (isPrimaryGrade(skill.grade)) {
     if (skill.litKind === "phonics") {
       return `Tiếng mẫu: ${skill.litSample}. Ghép âm thành tiếng rồi đọc trơn.`;
@@ -203,13 +152,61 @@ function exampleFor(skill) {
     }
     return `Đọc lại bài «${skill.title.replace(/^Bài \d+\. /, "")}» trong SGK và trả lời 1–2 câu hỏi cuối bài.`;
   }
-  const map = {
-    lv6_folktale: "Truyện «Sơn Tinh, Thủy Tinh»: xung đột giữa hai nhân vật thể hiện ý chí con người chinh phục thiên nhiên.",
-    lv7_figures: "«Trăng ơi… từ đâu đến?» — nhân hóa mặt trăng như người bạn gần gũi.",
-    lv8_essay: "Đoạn mở bài nghị luận: nêu vấn đề, khẳng định luận điểm chính.",
-    lv9_classics: "Trích «Vợ nhặt» — hình ảnh người phụ nữ nghèo khổ nhưng giàu lòng nhân hậu."
-  };
-  return map[id] || "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học.";
+  if (isSecondaryGrade(skill.grade)) {
+    if (skill.litSample) {
+      return `Phân tích «${skill.litSample}» trong chủ đề «${skill.title.replace(/^Bài \d+\. /, "")}»; nêu ý nghĩa và bài học.`;
+    }
+    return `Hoàn thành các hoạt động đọc – viết – nói nghe trong ${skill.title}.`;
+  }
+  return "Hãy đọc lại văn bản trong SGK và tìm một chi tiết tiêu biểu minh họa cho kiến thức vừa học.";
+}
+
+function secondaryLitQuestions(skill) {
+  const short = skill.title.replace(/^Bài \d+\. /, "").replace(/^Ôn tập[^:]*:?\s*/, "");
+  const sample = skill.litSample || short;
+  if (skill.litKind === "review") {
+    return [
+      { type: "multiple_choice", q: `${short}: Ôn tập gồm?`, choices: ["Đọc, viết, THVN, nói-nghe", "Chỉ toán", "Chỉ thể dục", "Chỉ hát"], a: "Đọc, viết, THVN, nói-nghe", hint: "Tổng hợp kiến thức học kì." },
+      { type: "true_false", q: `${short}: Cần ôn tri thức ngữ văn và thực hành tiếng Việt.`, a: "Đúng", hint: "Hai phần cốt lõi SGK Ngữ văn." },
+      { type: "input", q: `${short}: Bài văn nghị luận gồm mấy phần chính? (số)`, a: "3", hint: "Mở — thân — kết." },
+      { type: "multiple_choice", q: `${short}: Trước kiểm tra em nên?`, choices: ["Ôn theo chủ đề SGK", "Không ôn", "Chỉ xem phim", "Bỏ qua SGK"], a: "Ôn theo chủ đề SGK", hint: "Bám 10 bài/chủ đề." },
+      { type: "true_false", q: `${short}: Luyện tập giúp củng cố kỹ năng.`, a: "Đúng", hint: "Luyện nhiều lần nhớ lâu." }
+    ];
+  }
+  if (skill.litKind === "poetry") {
+    return [
+      { type: "multiple_choice", q: `«${sample}»: Phân tích thơ cần chú ý?`, choices: ["Hình ảnh, nhịp điệu, biện pháp tu từ", "Chỉ đếm chữ", "Chỉ học thuộc", "Không cần hiểu"], a: "Hình ảnh, nhịp điệu, biện pháp tu từ", hint: skill.litMoral },
+      { type: "true_false", q: `«${sample}»: Thơ có thể gợi cảm xúc qua hình ảnh.`, a: "Đúng", hint: "Từ ngữ gợi tả, gợi cảm." },
+      { type: "multiple_choice", q: `${short}: Chủ đề chính?`, choices: [skill.litMoral.split(/[.;]/)[0], "Không có", "Chỉ vui", "Bỏ qua"], a: skill.litMoral.split(/[.;]/)[0], hint: skill.litMoral },
+      { type: "input", q: `${short}: Biện pháp so sánh thường dùng từ? (như hoặc tựa)`, a: "như", hint: "So sánh: A như/tựa B." },
+      { type: "true_false", q: `${short}: Có thể viết đoạn cảm nhận về bài thơ.`, a: "Đúng", hint: "Bày tỏ cảm xúc cá nhân." }
+    ];
+  }
+  if (skill.litKind === "drama") {
+    return [
+      { type: "multiple_choice", q: `«${sample}»: Kịch có đặc điểm?`, choices: ["Nhân vật, đối thoại, xung đột", "Chỉ có mô tả", "Không có cốt truyện", "Chỉ là thơ"], a: "Nhân vật, đối thoại, xung đột", hint: "Thể loại sân khấu." },
+      { type: "true_false", q: `«${sample}»: Xung đột thúc đẩy diễn biến kịch.`, a: "Đúng", hint: "Mâu thuẫn tạo cao trào." },
+      { type: "multiple_choice", q: `${short}: Thông điệp?`, choices: [skill.litMoral.split(/[.;]/)[0], "Không có", "Chỉ vui", "Bỏ qua"], a: skill.litMoral.split(/[.;]/)[0], hint: skill.litMoral },
+      { type: "input", q: `${short}: Phân tích nhân vật cần nêu? (2 từ: tính cách)`, a: "tính cách", hint: "Tính cách, hành động, vai trò." },
+      { type: "true_false", q: `${short}: Có thể bình luận về bi kịch trong kịch.`, a: "Đúng", hint: "Bi kịch gắn với số phận nhân vật." }
+    ];
+  }
+  if (skill.litKind === "media") {
+    return [
+      { type: "multiple_choice", q: `${short}: Văn bản đa phương tiện kết hợp?`, choices: ["Chữ, hình ảnh, sơ đồ", "Chỉ chữ", "Chỉ nhạc", "Chỉ video"], a: "Chữ, hình ảnh, sơ đồ", hint: "Đọc đa kênh thông tin." },
+      { type: "true_false", q: `${short}: Cần đọc cả chữ và hình minh họa.`, a: "Đúng", hint: "Thông tin phân tán trên nhiều yếu tố." },
+      { type: "multiple_choice", q: `${short}: Chủ đề?`, choices: [skill.litMoral.split(/[.;]/)[0], "Không có", "Chỉ vui", "Bỏ qua"], a: skill.litMoral.split(/[.;]/)[0], hint: skill.litMoral },
+      { type: "input", q: `${short}: Tóm tắt văn bản cần nêu? (2 từ: ý chính)`, a: "ý chính", hint: "Thông tin trọng tâm." },
+      { type: "true_false", q: `${short}: Có thể liên hệ vấn đề môi trường thực tế.`, a: "Đúng", hint: "Gắn bài học với đời sống." }
+    ];
+  }
+  return [
+    { type: "multiple_choice", q: `${short}: Chủ đề SGK tập trung vào?`, choices: [skill.litMoral.split(/[.;]/)[0], "Không có bài học", "Chỉ giải trí", "Không cần đọc"], a: skill.litMoral.split(/[.;]/)[0], hint: skill.litMoral },
+    { type: "true_false", q: `«${sample}»: Đọc hiểu cần nắm ý chính và chi tiết tiêu biểu.`, a: "Đúng", hint: "Chi tiết minh họa chủ đề." },
+    { type: "multiple_choice", q: `${short}: Một bài học SGK Ngữ văn THCS gồm?`, choices: ["Tri thức NV, đọc, THVN, viết, nói-nghe", "Chỉ đọc", "Chỉ viết", "Chỉ nghe"], a: "Tri thức NV, đọc, THVN, viết, nói-nghe", hint: "Cấu trúc bài học KNT." },
+    { type: "input", q: `${short}: Cốt truyện thường gồm mấy phần? (số)`, a: "3", hint: "Mở — thân — kết." },
+    { type: "true_false", q: `${short}: Thực hành tiếng Việt giúp viết câu đúng, hay.`, a: "Đúng", hint: "LTVC nền tảng cho viết văn." }
+  ];
 }
 
 function primaryLitQuestions(skill) {
@@ -486,66 +483,18 @@ function questionsFor(skill) {
       hint: item.hint
     }));
   }
-  const base = [
-    {
-      type: "multiple_choice",
-      q: `[${skill.title}] Đọc hiểu: Mục đích đọc lướt là gì?`,
-      choices: ["Ghi nhớ từng chữ", "Nắm ý chính toàn bài", "Học thuộc lòng", "Phân tích ngữ pháp"],
-      a: "Nắp ý chính toàn bài",
-      hint: "Đọc lướt giúp nắm cốt truyện hoặc luận điểm chung."
-    }
-  ];
-  base[0].a = "Nắm ý chính toàn bài";
-
-  const qs = [
-    base[0],
-    {
-      type: "multiple_choice",
-      q: `[${skill.title}] Thành phần câu: "Mẹ em" thường là?`,
-      choices: ["Vị ngữ", "Chủ ngữ", "Trạng ngữ", "Tân ngữ"],
-      a: "Chủ ngữ",
-      hint: "Chủ ngữ trả lời câu hỏi Ai? Cái gì?"
-    },
-    {
-      type: "true_false",
-      q: `[${skill.title}] Biện pháp nhân hóa gán tính người cho sự vật.`,
-      a: "Đúng",
-      hint: "Nhân hóa làm sự vật hiện như có cảm xúc, hành động."
-    },
-    {
-      type: "input",
-      q: `[${skill.title}] Một đoạn văn thường gồm mấy phần cơ bản? (gõ số)`,
-      a: "3",
-      hint: "Mở — thân — kết."
-    },
-    {
-      type: "multiple_choice",
-      q: `[${skill.title}] Thể loại nào kể chuyện có cốt truyện?`,
-      choices: ["Thơ", "Truyện ngắn", "Báo cáo", "Biên bản"],
-      a: "Truyện ngắn",
-      hint: "Truyện có nhân vật, sự việc, diễn biến."
-    }
-  ];
-
-  if (id.includes("poetry") || id.includes("figures") || id.includes("rhetoric")) {
-    qs[1] = {
-      type: "multiple_choice",
-      q: `[${skill.title}] Vần lưng trong thơ lục bát thường ở câu?`,
-      choices: ["Câu 6", "Câu 8", "Câu 6 và 8", "Câu 7"],
-      a: "Câu 6 và 8",
-      hint: "Lục bát: vần giữa câu 6 và cuối câu 8."
-    };
+  if (isSecondaryGrade(skill.grade)) {
+    return secondaryLitQuestions(skill).map((item, i) => ({
+      id: `q_${id}_${i + 1}`,
+      skill: id,
+      type: item.type,
+      question: item.q,
+      ...(item.choices ? { choices: item.choices } : {}),
+      answer: item.a,
+      hint: item.hint
+    }));
   }
-
-  return qs.map((item, i) => ({
-    id: `q_${id}_${i + 1}`,
-    skill: id,
-    type: item.type,
-    question: item.q,
-    ...(item.choices ? { choices: item.choices } : {}),
-    answer: item.a,
-    hint: item.hint
-  }));
+  return [];
 }
 
 function errorsFor(skills) {
@@ -572,26 +521,18 @@ function errorsFor(skills) {
         recommendation: s.id
       }];
     }
-    return [
-      {
-        pattern: "khong biet",
+    if (isSecondaryGrade(s.grade)) {
+      return [{
+        pattern: "doc nham",
         skill: s.id,
-        errorType: "reading_skim",
-        title: "Đọc lướt qua chi tiết quan trọng",
-        message: "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
-        hint: "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+        errorType: "reading_detail",
+        title: "Đọc chưa kỹ chi tiết",
+        message: `Đọc lại ${s.title} trong SGK; tìm thông tin then chốt trước khi trả lời.`,
+        hint: "Gạch chân từ khóa; nắm ý chính và chi tiết tiêu biểu.",
         recommendation: s.id
-      },
-      {
-        pattern: "sai ngu phap",
-        skill: s.id,
-        errorType: "grammar_confusion",
-        title: "Nhầm thành phần câu",
-        message: "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
-        hint: "Đặt câu hỏi cho từng bộ phận.",
-        recommendation: s.id
-      }
-    ];
+      }];
+    }
+    return [];
   });
 }
 
@@ -629,31 +570,37 @@ function exercisesFor(skills) {
         }
       ];
     }
-    return [
-    {
-      id: `ex_${s.id}_sgk_1`,
-      skill: s.id,
-      source: "sgk",
-      type: "input",
-      section: "B. Luyện tập",
-      question: `[SGK] ${s.title}: Viết 2–3 câu nêu ý chính bài vừa học.`,
-      answer: "tu do",
-      hint: "Nêu rõ kiến thức trọng tâm.",
-      solution: "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
-    },
-    {
-      id: `ex_${s.id}_sbt_1`,
-      skill: s.id,
-      source: "sbt",
-      type: "multiple_choice",
-      section: "C. Vận dụng",
-      question: `[SBT] ${s.title}: Khi làm bài đọc hiểu, bước đầu tiên nên?`,
-      choices: ["Trả lời ngay", "Đọc kỹ câu hỏi", "Chép nguyên văn bản", "Bỏ qua đoạn khó"],
-      answer: "Đọc kỹ câu hỏi",
-      hint: "Hiểu yêu cầu trước khi tìm thông tin.",
-      solution: "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    if (isSecondaryGrade(s.grade)) {
+      const sgkQ = s.litKind === "review"
+        ? `[SGK] ${s.title}: Ôn tập kiến thức và kỹ năng học kì.`
+        : `[SGK] ${s.title}: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.`;
+      return [
+        {
+          id: `ex_${s.id}_sgk_1`,
+          skill: s.id,
+          source: "sgk",
+          type: "input",
+          section: "B. Luyện tập",
+          question: sgkQ,
+          answer: "tu do",
+          hint: "Làm theo hướng dẫn trong SGK.",
+          solution: "Giáo viên hướng dẫn chấm theo rubric SGK."
+        },
+        {
+          id: `ex_${s.id}_sbt_1`,
+          skill: s.id,
+          source: "sbt",
+          type: "multiple_choice",
+          section: "C. Vận dụng",
+          question: `[SBT] ${s.title}: Phân tích văn bản cần?`,
+          choices: ["Nắm ý chính và chi tiết tiêu biểu", "Chỉ đọc lướt", "Chép nguyên văn", "Bỏ qua"],
+          answer: "Nắm ý chính và chi tiết tiêu biểu",
+          hint: "Đọc hiểu có hệ thống.",
+          solution: "Gạch chân từ khóa; liên hệ chủ đề bài học."
+        }
+      ];
     }
-    ];
+    return [];
   });
 }
 
@@ -817,6 +764,10 @@ async function main() {
   console.log(`✓ Lớp 3 (KNT): ${g3} bài · Tập 1 ${GRADE3_META.tap1Lessons} + Tập 2 ${GRADE3_META.tap2Lessons} + ${GRADE3_META.reviewBlocks} ôn tập`);
   console.log(`✓ Lớp 4 (KNT): ${g4} bài · Tập 1 ${GRADE4_META.tap1Lessons} + Tập 2 ${GRADE4_META.tap2Lessons} + ${GRADE4_META.reviewBlocks} ôn tập`);
   console.log(`✓ Lớp 5 (KNT): ${g5} bài · Tập 1 ${GRADE5_META.tap1Lessons} + Tập 2 ${GRADE5_META.tap2Lessons} + ${GRADE5_META.reviewBlocks} ôn tập`);
+  for (const [g, meta] of [[6, GRADE6_META], [7, GRADE7_META], [8, GRADE8_META], [9, GRADE9_META]]) {
+    const n = skills.filter((s) => s.grade === g).length;
+    console.log(`✓ Lớp ${g} (KNT): ${n} bài · ${meta.lessons} chủ đề + ${meta.reviewBlocks} ôn tập`);
+  }
   console.log(`✓ ${skills.length} skills, ${lessons.length} lessons, ${questions.length} questions`);
   console.log(`✓ ${errors.length} errors, ${exercises.length} exercises`);
   console.log(`✓ summer g6-g7: ${summer.topics.length} topics, ${summer.exams.length} exams, ${summer.questions.length} câu`);

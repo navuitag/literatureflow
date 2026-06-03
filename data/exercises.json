@@ -11340,899 +11340,1347 @@
     "solution": "Đọc kỹ yêu cầu và gạch chân từ khóa."
   },
   {
-    "id": "ex_lv6_folktale_sgk_1",
-    "skill": "lv6_folktale",
+    "id": "ex_lv6_g6_t1_friends_b01_sgk_1",
+    "skill": "lv6_g6_t1_friends_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Truyện dân gian: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 1. Tôi và các bạn: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_folktale_sbt_1",
-    "skill": "lv6_folktale",
+    "id": "ex_lv6_g6_t1_friends_b01_sbt_1",
+    "skill": "lv6_g6_t1_friends_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Truyện dân gian: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 1. Tôi và các bạn: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_narrative_sgk_1",
-    "skill": "lv6_narrative",
+    "id": "ex_lv6_g6_t1_friends_b02_sgk_1",
+    "skill": "lv6_g6_t1_friends_b02",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn bản kể chuyện: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 2. Gõ cửa trái tim: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_narrative_sbt_1",
-    "skill": "lv6_narrative",
+    "id": "ex_lv6_g6_t1_friends_b02_sbt_1",
+    "skill": "lv6_g6_t1_friends_b02",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn bản kể chuyện: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 2. Gõ cửa trái tim: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_noun_sgk_1",
-    "skill": "lv6_noun",
+    "id": "ex_lv6_g6_t1_friends_b03_sgk_1",
+    "skill": "lv6_g6_t1_friends_b03",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Danh từ: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 3. Yêu thương và chia sẻ: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_noun_sbt_1",
-    "skill": "lv6_noun",
+    "id": "ex_lv6_g6_t1_friends_b03_sbt_1",
+    "skill": "lv6_g6_t1_friends_b03",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Danh từ: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 3. Yêu thương và chia sẻ: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_verb_sgk_1",
-    "skill": "lv6_verb",
+    "id": "ex_lv6_g6_t1_friends_b04_sgk_1",
+    "skill": "lv6_g6_t1_friends_b04",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Động từ: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 4. Quê hương yêu dấu: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_verb_sbt_1",
-    "skill": "lv6_verb",
+    "id": "ex_lv6_g6_t1_friends_b04_sbt_1",
+    "skill": "lv6_g6_t1_friends_b04",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Động từ: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 4. Quê hương yêu dấu: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_vocab_sgk_1",
-    "skill": "lv6_vocab",
+    "id": "ex_lv6_g6_t1_friends_b05_sgk_1",
+    "skill": "lv6_g6_t1_friends_b05",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Từ ngữ trong ngữ cảnh: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 5. Những nẻo đường xứ sở: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_vocab_sbt_1",
-    "skill": "lv6_vocab",
+    "id": "ex_lv6_g6_t1_friends_b05_sbt_1",
+    "skill": "lv6_g6_t1_friends_b05",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Từ ngữ trong ngữ cảnh: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 5. Những nẻo đường xứ sở: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_poetry_sgk_1",
-    "skill": "lv6_poetry",
+    "id": "ex_lv6_g6_t1_review_b01_sgk_1",
+    "skill": "lv6_g6_t1_review_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Thơ — Vần điệu & hình ảnh: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Ôn tập học kì 1: Ôn tập kiến thức và kỹ năng học kì.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_poetry_sbt_1",
-    "skill": "lv6_poetry",
+    "id": "ex_lv6_g6_t1_review_b01_sbt_1",
+    "skill": "lv6_g6_t1_review_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Thơ — Vần điệu & hình ảnh: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Ôn tập học kì 1: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_describe_sgk_1",
-    "skill": "lv6_describe",
+    "id": "ex_lv6_g6_t2_heroes_b06_sgk_1",
+    "skill": "lv6_g6_t2_heroes_b06",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Đoạn văn miêu tả: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 6. Chuyện kể về những người anh hùng: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_describe_sbt_1",
-    "skill": "lv6_describe",
+    "id": "ex_lv6_g6_t2_heroes_b06_sbt_1",
+    "skill": "lv6_g6_t2_heroes_b06",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Đoạn văn miêu tả: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 6. Chuyện kể về những người anh hùng: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv6_speak_sgk_1",
-    "skill": "lv6_speak",
+    "id": "ex_lv6_g6_t2_heroes_b07_sgk_1",
+    "skill": "lv6_g6_t2_heroes_b07",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Nói — Trình bày ý kiến: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 7. Thế giới cổ tích: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv6_speak_sbt_1",
-    "skill": "lv6_speak",
+    "id": "ex_lv6_g6_t2_heroes_b07_sbt_1",
+    "skill": "lv6_g6_t2_heroes_b07",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Nói — Trình bày ý kiến: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 7. Thế giới cổ tích: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_literary_sgk_1",
-    "skill": "lv7_literary",
+    "id": "ex_lv6_g6_t2_heroes_b08_sgk_1",
+    "skill": "lv6_g6_t2_heroes_b08",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn bản văn học: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 8. Khác biệt và gần gũi: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_literary_sbt_1",
-    "skill": "lv7_literary",
+    "id": "ex_lv6_g6_t2_heroes_b08_sbt_1",
+    "skill": "lv6_g6_t2_heroes_b08",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn bản văn học: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 8. Khác biệt và gần gũi: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_expository_sgk_1",
-    "skill": "lv7_expository",
+    "id": "ex_lv6_g6_t2_heroes_b09_sgk_1",
+    "skill": "lv6_g6_t2_heroes_b09",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn bản thông tin: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 9. Trái Đất - ngôi nhà chung: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_expository_sbt_1",
-    "skill": "lv7_expository",
+    "id": "ex_lv6_g6_t2_heroes_b09_sbt_1",
+    "skill": "lv6_g6_t2_heroes_b09",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn bản thông tin: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 9. Trái Đất - ngôi nhà chung: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_sentence_sgk_1",
-    "skill": "lv7_sentence",
+    "id": "ex_lv6_g6_t2_heroes_b10_sgk_1",
+    "skill": "lv6_g6_t2_heroes_b10",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Câu và thành phần: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 10. Cuốn sách tôi yêu: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_sentence_sbt_1",
-    "skill": "lv7_sentence",
+    "id": "ex_lv6_g6_t2_heroes_b10_sbt_1",
+    "skill": "lv6_g6_t2_heroes_b10",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Câu và thành phần: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 10. Cuốn sách tôi yêu: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_compound_sgk_1",
-    "skill": "lv7_compound",
+    "id": "ex_lv6_g6_t2_review_b01_sgk_1",
+    "skill": "lv6_g6_t2_review_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Câu ghép: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Ôn tập học kì 2: Ôn tập kiến thức và kỹ năng học kì.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_compound_sbt_1",
-    "skill": "lv7_compound",
+    "id": "ex_lv6_g6_t2_review_b01_sbt_1",
+    "skill": "lv6_g6_t2_review_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Câu ghép: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Ôn tập học kì 2: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_figures_sgk_1",
-    "skill": "lv7_figures",
+    "id": "ex_lv7_g7_t1_childhood_b01_sgk_1",
+    "skill": "lv7_g7_t1_childhood_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Biện pháp tu từ: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 1. Bầu trời tuổi thơ: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_figures_sbt_1",
-    "skill": "lv7_figures",
+    "id": "ex_lv7_g7_t1_childhood_b01_sbt_1",
+    "skill": "lv7_g7_t1_childhood_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Biện pháp tu từ: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 1. Bầu trời tuổi thơ: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_narrative_write_sgk_1",
-    "skill": "lv7_narrative_write",
+    "id": "ex_lv7_g7_t1_childhood_b02_sgk_1",
+    "skill": "lv7_g7_t1_childhood_b02",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Văn kể chuyện: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 2. Khúc nhạc tâm hồn: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_narrative_write_sbt_1",
-    "skill": "lv7_narrative_write",
+    "id": "ex_lv7_g7_t1_childhood_b02_sbt_1",
+    "skill": "lv7_g7_t1_childhood_b02",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Văn kể chuyện: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 2. Khúc nhạc tâm hồn: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_express_sgk_1",
-    "skill": "lv7_express",
+    "id": "ex_lv7_g7_t1_childhood_b03_sgk_1",
+    "skill": "lv7_g7_t1_childhood_b03",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Bày tỏ cảm xúc: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 3. Cội nguồn yêu thương: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_express_sbt_1",
-    "skill": "lv7_express",
+    "id": "ex_lv7_g7_t1_childhood_b03_sbt_1",
+    "skill": "lv7_g7_t1_childhood_b03",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Bày tỏ cảm xúc: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 3. Cội nguồn yêu thương: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv7_debate_sgk_1",
-    "skill": "lv7_debate",
+    "id": "ex_lv7_g7_t1_childhood_b04_sgk_1",
+    "skill": "lv7_g7_t1_childhood_b04",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Nói — Thảo luận nhóm: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 4. Giai điệu đất nước: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv7_debate_sbt_1",
-    "skill": "lv7_debate",
+    "id": "ex_lv7_g7_t1_childhood_b04_sbt_1",
+    "skill": "lv7_g7_t1_childhood_b04",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Nói — Thảo luận nhóm: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 4. Giai điệu đất nước: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_novel_excerpt_sgk_1",
-    "skill": "lv8_novel_excerpt",
+    "id": "ex_lv7_g7_t1_childhood_b05_sgk_1",
+    "skill": "lv7_g7_t1_childhood_b05",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Trích đoạn truyện dài: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 5. Màu sắc trăm miền: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_novel_excerpt_sbt_1",
-    "skill": "lv8_novel_excerpt",
+    "id": "ex_lv7_g7_t1_childhood_b05_sbt_1",
+    "skill": "lv7_g7_t1_childhood_b05",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Trích đoạn truyện dài: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 5. Màu sắc trăm miền: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_essay_sgk_1",
-    "skill": "lv8_essay",
+    "id": "ex_lv7_g7_t1_review_b01_sgk_1",
+    "skill": "lv7_g7_t1_review_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn nghị luận: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Ôn tập học kì 1: Ôn tập kiến thức và kỹ năng học kì.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_essay_sbt_1",
-    "skill": "lv8_essay",
+    "id": "ex_lv7_g7_t1_review_b01_sbt_1",
+    "skill": "lv7_g7_t1_review_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn nghị luận: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Ôn tập học kì 1: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_complex_sgk_1",
-    "skill": "lv8_complex",
+    "id": "ex_lv7_g7_t2_life_b06_sgk_1",
+    "skill": "lv7_g7_t2_life_b06",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Câu phức: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 6. Bài học cuộc sống: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_complex_sbt_1",
-    "skill": "lv8_complex",
+    "id": "ex_lv7_g7_t2_life_b06_sbt_1",
+    "skill": "lv7_g7_t2_life_b06",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Câu phức: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 6. Bài học cuộc sống: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_style_sgk_1",
-    "skill": "lv8_style",
+    "id": "ex_lv7_g7_t2_life_b07_sgk_1",
+    "skill": "lv7_g7_t2_life_b07",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Phong cách ngôn ngữ: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 7. Thế giới viễn tưởng: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_style_sbt_1",
-    "skill": "lv8_style",
+    "id": "ex_lv7_g7_t2_life_b07_sbt_1",
+    "skill": "lv7_g7_t2_life_b07",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Phong cách ngôn ngữ: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 7. Thế giới viễn tưởng: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_poetry_analysis_sgk_1",
-    "skill": "lv8_poetry_analysis",
+    "id": "ex_lv7_g7_t2_life_b08_sgk_1",
+    "skill": "lv7_g7_t2_life_b08",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Thơ — Phân tích thơ hiện đại: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 8. Trải nghiệm để trưởng thành: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_poetry_analysis_sbt_1",
-    "skill": "lv8_poetry_analysis",
+    "id": "ex_lv7_g7_t2_life_b08_sbt_1",
+    "skill": "lv7_g7_t2_life_b08",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Thơ — Phân tích thơ hiện đại: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 8. Trải nghiệm để trưởng thành: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_argument_sgk_1",
-    "skill": "lv8_argument",
+    "id": "ex_lv7_g7_t2_life_b09_sgk_1",
+    "skill": "lv7_g7_t2_life_b09",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Văn nghị luận ngắn: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 9. Hòa điệu với tự nhiên: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_argument_sbt_1",
-    "skill": "lv8_argument",
+    "id": "ex_lv7_g7_t2_life_b09_sbt_1",
+    "skill": "lv7_g7_t2_life_b09",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Văn nghị luận ngắn: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 9. Hòa điệu với tự nhiên: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_report_sgk_1",
-    "skill": "lv8_report",
+    "id": "ex_lv7_g7_t2_life_b10_sgk_1",
+    "skill": "lv7_g7_t2_life_b10",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Báo cáo tham luận: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 10. Trang sách và cuộc sống: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_report_sbt_1",
-    "skill": "lv8_report",
+    "id": "ex_lv7_g7_t2_life_b10_sbt_1",
+    "skill": "lv7_g7_t2_life_b10",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Báo cáo tham luận: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 10. Trang sách và cuộc sống: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv8_media_sgk_1",
-    "skill": "lv8_media",
+    "id": "ex_lv7_g7_t2_review_b01_sgk_1",
+    "skill": "lv7_g7_t2_review_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc đa phương tiện: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Ôn tập học kì 2: Ôn tập kiến thức và kỹ năng học kì.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv8_media_sbt_1",
-    "skill": "lv8_media",
+    "id": "ex_lv7_g7_t2_review_b01_sbt_1",
+    "skill": "lv7_g7_t2_review_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc đa phương tiện: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Ôn tập học kì 2: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_classics_sgk_1",
-    "skill": "lv9_classics",
+    "id": "ex_lv8_g8_t1_history_b01_sgk_1",
+    "skill": "lv8_g8_t1_history_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn bản kinh điển: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 1. Câu chuyện của lịch sử: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_classics_sbt_1",
-    "skill": "lv9_classics",
+    "id": "ex_lv8_g8_t1_history_b01_sbt_1",
+    "skill": "lv8_g8_t1_history_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn bản kinh điển: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 1. Câu chuyện của lịch sử: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_social_sgk_1",
-    "skill": "lv9_social",
+    "id": "ex_lv8_g8_t1_history_b02_sgk_1",
+    "skill": "lv8_g8_t1_history_b02",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Đọc — Văn bản xã hội: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 2. Vẻ đẹp cổ điển: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_social_sbt_1",
-    "skill": "lv9_social",
+    "id": "ex_lv8_g8_t1_history_b02_sbt_1",
+    "skill": "lv8_g8_t1_history_b02",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Đọc — Văn bản xã hội: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 2. Vẻ đẹp cổ điển: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_rhetoric_sgk_1",
-    "skill": "lv9_rhetoric",
+    "id": "ex_lv8_g8_t1_history_b03_sgk_1",
+    "skill": "lv8_g8_t1_history_b03",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tu từ học nâng cao: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 3. Lời sông núi: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_rhetoric_sbt_1",
-    "skill": "lv9_rhetoric",
+    "id": "ex_lv8_g8_t1_history_b03_sbt_1",
+    "skill": "lv8_g8_t1_history_b03",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tu từ học nâng cao: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 3. Lời sông núi: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_grammar_adv_sgk_1",
-    "skill": "lv9_grammar_adv",
+    "id": "ex_lv8_g8_t1_history_b04_sgk_1",
+    "skill": "lv8_g8_t1_history_b04",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Tiếng Việt — Ôn tập câu: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 4. Tiếng cười trào phúng trong thơ: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_grammar_adv_sbt_1",
-    "skill": "lv9_grammar_adv",
+    "id": "ex_lv8_g8_t1_history_b04_sbt_1",
+    "skill": "lv8_g8_t1_history_b04",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Tiếng Việt — Ôn tập câu: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 4. Tiếng cười trào phúng trong thơ: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_literary_genre_sgk_1",
-    "skill": "lv9_literary_genre",
+    "id": "ex_lv8_g8_t1_history_b05_sgk_1",
+    "skill": "lv8_g8_t1_history_b05",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Thể loại văn học: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 5. Những câu chuyện hài: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_literary_genre_sbt_1",
-    "skill": "lv9_literary_genre",
+    "id": "ex_lv8_g8_t1_history_b05_sbt_1",
+    "skill": "lv8_g8_t1_history_b05",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Thể loại văn học: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 5. Những câu chuyện hài: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_essay_full_sgk_1",
-    "skill": "lv9_essay_full",
+    "id": "ex_lv8_g8_t1_review_b01_sgk_1",
+    "skill": "lv8_g8_t1_review_b01",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Nghị luận xã hội: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Ôn tập học kì 1: Ôn tập kiến thức và kỹ năng học kì.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_essay_full_sbt_1",
-    "skill": "lv9_essay_full",
+    "id": "ex_lv8_g8_t1_review_b01_sbt_1",
+    "skill": "lv8_g8_t1_review_b01",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Nghị luận xã hội: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Ôn tập học kì 1: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_creative_sgk_1",
-    "skill": "lv9_creative",
+    "id": "ex_lv8_g8_t2_life_b06_sgk_1",
+    "skill": "lv8_g8_t2_life_b06",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Viết — Sáng tạo có hướng dẫn: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 6. Chân dung cuộc sống: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_creative_sbt_1",
-    "skill": "lv9_creative",
+    "id": "ex_lv8_g8_t2_life_b06_sbt_1",
+    "skill": "lv8_g8_t2_life_b06",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Viết — Sáng tạo có hướng dẫn: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 6. Chân dung cuộc sống: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   },
   {
-    "id": "ex_lv9_exam_prep_sgk_1",
-    "skill": "lv9_exam_prep",
+    "id": "ex_lv8_g8_t2_life_b07_sgk_1",
+    "skill": "lv8_g8_t2_life_b07",
     "source": "sgk",
     "type": "input",
     "section": "B. Luyện tập",
-    "question": "[SGK] Luyện thi — Đọc hiểu THCS: Viết 2–3 câu nêu ý chính bài vừa học.",
+    "question": "[SGK] Bài 7. Tin yêu và ước vọng: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
     "answer": "tu do",
-    "hint": "Nêu rõ kiến thức trọng tâm.",
-    "solution": "Đáp án mẫu tùy nội dung bài; giáo viên hướng dẫn chấm."
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
   },
   {
-    "id": "ex_lv9_exam_prep_sbt_1",
-    "skill": "lv9_exam_prep",
+    "id": "ex_lv8_g8_t2_life_b07_sbt_1",
+    "skill": "lv8_g8_t2_life_b07",
     "source": "sbt",
     "type": "multiple_choice",
     "section": "C. Vận dụng",
-    "question": "[SBT] Luyện thi — Đọc hiểu THCS: Khi làm bài đọc hiểu, bước đầu tiên nên?",
+    "question": "[SBT] Bài 7. Tin yêu và ước vọng: Phân tích văn bản cần?",
     "choices": [
-      "Trả lời ngay",
-      "Đọc kỹ câu hỏi",
-      "Chép nguyên văn bản",
-      "Bỏ qua đoạn khó"
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
     ],
-    "answer": "Đọc kỹ câu hỏi",
-    "hint": "Hiểu yêu cầu trước khi tìm thông tin.",
-    "solution": "Đọc kỹ câu hỏi và gạch chân từ khóa."
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b08_sgk_1",
+    "skill": "lv8_g8_t2_life_b08",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 8. Nhà văn và trang viết: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b08_sbt_1",
+    "skill": "lv8_g8_t2_life_b08",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 8. Nhà văn và trang viết: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b09_sgk_1",
+    "skill": "lv8_g8_t2_life_b09",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 9. Hôm nay và ngày mai: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b09_sbt_1",
+    "skill": "lv8_g8_t2_life_b09",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 9. Hôm nay và ngày mai: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b10_sgk_1",
+    "skill": "lv8_g8_t2_life_b10",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 10. Sách – người bạn đồng hành: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv8_g8_t2_life_b10_sbt_1",
+    "skill": "lv8_g8_t2_life_b10",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 10. Sách – người bạn đồng hành: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv8_g8_t2_review_b01_sgk_1",
+    "skill": "lv8_g8_t2_review_b01",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Ôn tập học kì 2: Ôn tập kiến thức và kỹ năng học kì.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv8_g8_t2_review_b01_sbt_1",
+    "skill": "lv8_g8_t2_review_b01",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Ôn tập học kì 2: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b01_sgk_1",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 1. Thế giới kì ảo: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b01_sbt_1",
+    "skill": "lv9_g9_t1_fantasy_b01",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 1. Thế giới kì ảo: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b02_sgk_1",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 2. Những cung bậc tâm trạng: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b02_sbt_1",
+    "skill": "lv9_g9_t1_fantasy_b02",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 2. Những cung bậc tâm trạng: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b03_sgk_1",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 3. Hồn nước nằm trong tiếng mẹ cha: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b03_sbt_1",
+    "skill": "lv9_g9_t1_fantasy_b03",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 3. Hồn nước nằm trong tiếng mẹ cha: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b04_sgk_1",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 4. Khám phá vẻ đẹp văn chương: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b04_sbt_1",
+    "skill": "lv9_g9_t1_fantasy_b04",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 4. Khám phá vẻ đẹp văn chương: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b05_sgk_1",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 5. Đối diện với nỗi đau: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_fantasy_b05_sbt_1",
+    "skill": "lv9_g9_t1_fantasy_b05",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 5. Đối diện với nỗi đau: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t1_review_b01_sgk_1",
+    "skill": "lv9_g9_t1_review_b01",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Ôn tập học kì 1: Ôn tập kiến thức và kỹ năng học kì.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t1_review_b01_sbt_1",
+    "skill": "lv9_g9_t1_review_b01",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Ôn tập học kì 1: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b06_sgk_1",
+    "skill": "lv9_g9_t2_world_b06",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 6. Giải mã những bí mật: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b06_sbt_1",
+    "skill": "lv9_g9_t2_world_b06",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 6. Giải mã những bí mật: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b07_sgk_1",
+    "skill": "lv9_g9_t2_world_b07",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 7. Hồn thơ muôn điệu: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b07_sbt_1",
+    "skill": "lv9_g9_t2_world_b07",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 7. Hồn thơ muôn điệu: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b08_sgk_1",
+    "skill": "lv9_g9_t2_world_b08",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 8. Tiếng nói của lương tri: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b08_sbt_1",
+    "skill": "lv9_g9_t2_world_b08",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 8. Tiếng nói của lương tri: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b09_sgk_1",
+    "skill": "lv9_g9_t2_world_b09",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 9. Đi và suy ngẫm: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b09_sbt_1",
+    "skill": "lv9_g9_t2_world_b09",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 9. Đi và suy ngẫm: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b10_sgk_1",
+    "skill": "lv9_g9_t2_world_b10",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Bài 10. Văn học - lịch sử tâm hồn: Hoàn thành hoạt động đọc – THVN – viết – nói nghe trong SGK.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_world_b10_sbt_1",
+    "skill": "lv9_g9_t2_world_b10",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Bài 10. Văn học - lịch sử tâm hồn: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
+  },
+  {
+    "id": "ex_lv9_g9_t2_review_b01_sgk_1",
+    "skill": "lv9_g9_t2_review_b01",
+    "source": "sgk",
+    "type": "input",
+    "section": "B. Luyện tập",
+    "question": "[SGK] Ôn tập học kì 2: Ôn tập kiến thức và kỹ năng học kì.",
+    "answer": "tu do",
+    "hint": "Làm theo hướng dẫn trong SGK.",
+    "solution": "Giáo viên hướng dẫn chấm theo rubric SGK."
+  },
+  {
+    "id": "ex_lv9_g9_t2_review_b01_sbt_1",
+    "skill": "lv9_g9_t2_review_b01",
+    "source": "sbt",
+    "type": "multiple_choice",
+    "section": "C. Vận dụng",
+    "question": "[SBT] Ôn tập học kì 2: Phân tích văn bản cần?",
+    "choices": [
+      "Nắm ý chính và chi tiết tiêu biểu",
+      "Chỉ đọc lướt",
+      "Chép nguyên văn",
+      "Bỏ qua"
+    ],
+    "answer": "Nắm ý chính và chi tiết tiêu biểu",
+    "hint": "Đọc hiểu có hệ thống.",
+    "solution": "Gạch chân từ khóa; liên hệ chủ đề bài học."
   }
 ]
