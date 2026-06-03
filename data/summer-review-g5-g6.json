@@ -1,0 +1,2123 @@
+{
+  "meta": {
+    "id": "summer_lit_g5_g6",
+    "packId": "g5-g6",
+    "title": "Ôn hè Tiếng Việt lớp 5 → lớp 6",
+    "subtitle": "6 chủ đề tương tác + 15 đề tổng hợp",
+    "gradeFrom": 5,
+    "gradeTo": 6,
+    "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp)."
+  },
+  "topics": [
+    {
+      "id": "sr5_word",
+      "order": 1,
+      "title": "Tiếng và từ",
+      "emoji": "🔤",
+      "description": "Từ đơn, từ phức; phân định ranh giới từ (chêm xen, chuyển nghĩa, thế đối lập).",
+      "prerequisite": [],
+      "xp": 40
+    },
+    {
+      "id": "sr5_compound",
+      "order": 2,
+      "title": "Từ ghép và từ láy",
+      "emoji": "🌿",
+      "description": "Ghép tổng hợp/phân loại; láy âm đầu, vần, cả âm và vần.",
+      "prerequisite": [
+        "sr5_word"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr5_class",
+      "order": 3,
+      "title": "Từ loại và quan hệ từ",
+      "emoji": "📚",
+      "description": "Danh từ, động từ, tính từ; đại từ; quan hệ từ (vì…nên…, tuy…nhưng…).",
+      "prerequisite": [
+        "sr5_compound"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr5_sentence",
+      "order": 4,
+      "title": "Câu đơn, câu ghép và liên kết",
+      "emoji": "✍️",
+      "description": "Mẫu câu; câu ghép; liên kết bằng thay thế, lặp từ, từ nối.",
+      "prerequisite": [
+        "sr5_class"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr5_punct",
+      "order": 5,
+      "title": "Dấu câu, từ nhiều nghĩa và điệp ngữ",
+      "emoji": "❗",
+      "description": "Dấu phẩy, hai chấm, ngoặc kép; đồng nghĩa; nghĩa chuyển; điệp ngữ.",
+      "prerequisite": [
+        "sr5_sentence"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr5_spelling",
+      "order": 6,
+      "title": "Chính tả và viết hoa",
+      "emoji": "📝",
+      "description": "l/n, s/x, d/gi/r; viết hoa tên riêng, cơ quan, huân chương.",
+      "prerequisite": [
+        "sr5_punct"
+      ],
+      "xp": 50
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr5_word",
+      "title": "Tiếng và từ",
+      "topic": "sr5_word",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 40,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Từ đơn, từ phức; phân định ranh giới từ (chêm xen, chuyển nghĩa, thế đối lập)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Tiếng gồm âm đầu (có thể không có), vần và thanh.",
+            "Từ đơn: một tiếng có nghĩa; từ phức: hai+ tiếng ghép nghĩa chung.",
+            "Chêm xen được → hai từ đơn (tung cánh / tung đôi cánh).",
+            "Không chêm xen, cố định → từ phức (chuồn chuồn nước, mặt hồ)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_compound",
+      "title": "Từ ghép và từ láy",
+      "topic": "sr5_compound",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Ghép tổng hợp/phân loại; láy âm đầu, vần, cả âm và vần."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Ghép tổng hợp: thay đổi, buồn vui, xe đạp.",
+            "Ghép phân loại: xanh thẳm, nụ hoa, uống nước.",
+            "Láy âm đầu: mơ màng, ầm ầm; láy vần: sôi nổi.",
+            "Láy cả âm và vần: cong queo, lấp ló."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_class",
+      "title": "Từ loại và quan hệ từ",
+      "topic": "sr5_class",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Danh từ, động từ, tính từ; đại từ; quan hệ từ (vì…nên…, tuy…nhưng…)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "ĐT chỉ hoạt động (đọc, chạy) hoặc trạng thái (là, nằm).",
+            "TT chỉ đặc điểm sự vật, hoạt động, trạng thái.",
+            "QHT: vì…nên… (nguyên nhân–kết quả); tuy…nhưng… (tương phản).",
+            "Không những…mà còn… (tăng tiến)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_sentence",
+      "title": "Câu đơn, câu ghép và liên kết",
+      "topic": "sr5_sentence",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Mẫu câu; câu ghép; liên kết bằng thay thế, lặp từ, từ nối."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Câu ghép: hai+ vế, mỗi vế có CN–VN riêng.",
+            "Liên kết: thay thế từ (đó), lặp từ, từ nối (vậy mà).",
+            "CN trả lời Ai?/Cái gì?; VN nói về CN.",
+            "Trạng ngữ: Khi nào? Ở đau? Vì sao?"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_punct",
+      "title": "Dấu câu, từ nhiều nghĩa và điệp ngữ",
+      "topic": "sr5_punct",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Dấu phẩy, hai chấm, ngoặc kép; đồng nghĩa; nghĩa chuyển; điệp ngữ."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Dấu phẩy: ngăn TN, bộ phận cùng chức vụ, vế câu ghép.",
+            "Dấu hai chấm: liệt kê, lời giải thích, lời nói trực tiếp.",
+            "Từ nhiều nghĩa: chạy (chạy bộ / bán chạy / chạy qua làng).",
+            "Điệp ngữ nhấn mạnh: Việt Nam! Việt Nam ơi!"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr5_spelling",
+      "title": "Chính tả và viết hoa",
+      "topic": "sr5_spelling",
+      "source": "CHUYÊN ĐỀ / ĐÁP ÁN ÔN HÈ TIẾNG VIỆT LỚP 5 - LÊN 6 (LiteratureFlow — 6 chủ đề + 15 đề tổng hợp).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "l/n, s/x, d/gi/r; viết hoa tên riêng, cơ quan, huân chương."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "l/n: làm, nên, non, nước, lên.",
+            "s/x: sẻ, xẻ, sách, xinh.",
+            "d/gi/r: dòng, giọt, rung.",
+            "Viết hoa: Nhà xuất bản Giáo dục, Huân chương Kháng chiến."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam5_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "sr5_word"
+      ]
+    },
+    {
+      "id": "exam5_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_1"
+      ]
+    },
+    {
+      "id": "exam5_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_2"
+      ]
+    },
+    {
+      "id": "exam5_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_3"
+      ]
+    },
+    {
+      "id": "exam5_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_4"
+      ]
+    },
+    {
+      "id": "exam5_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_5"
+      ]
+    },
+    {
+      "id": "exam5_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_6"
+      ]
+    },
+    {
+      "id": "exam5_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_7"
+      ]
+    },
+    {
+      "id": "exam5_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_8"
+      ]
+    },
+    {
+      "id": "exam5_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_9"
+      ]
+    },
+    {
+      "id": "exam5_11",
+      "order": 11,
+      "title": "Đề ôn số 11",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_10"
+      ]
+    },
+    {
+      "id": "exam5_12",
+      "order": 12,
+      "title": "Đề ôn số 12",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_11"
+      ]
+    },
+    {
+      "id": "exam5_13",
+      "order": 13,
+      "title": "Đề ôn số 13",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_12"
+      ]
+    },
+    {
+      "id": "exam5_14",
+      "order": 14,
+      "title": "Đề ôn số 14",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_13"
+      ]
+    },
+    {
+      "id": "exam5_15",
+      "order": 15,
+      "title": "Đề ôn số 15",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam5_14"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr5_word_q1",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "multiple_choice",
+      "question": "«chuồn chuồn nước» là?",
+      "choices": [
+        "Từ phức",
+        "Hai từ đơn",
+        "Từ láy",
+        "Từ đơn"
+      ],
+      "answer": "Từ phức",
+      "hint": "Không thể chêm xen tách nghĩa."
+    },
+    {
+      "id": "sr5_word_q2",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "multiple_choice",
+      "question": "«tung cánh» là?",
+      "choices": [
+        "Hai từ đơn",
+        "Từ phức",
+        "Từ láy",
+        "Danh từ riêng"
+      ],
+      "answer": "Hai từ đơn",
+      "hint": "Có thể chêm «đôi»."
+    },
+    {
+      "id": "sr5_word_q3",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "multiple_choice",
+      "question": "«bánh dày» (tên bánh) là?",
+      "choices": [
+        "Từ phức",
+        "Hai từ đơn",
+        "Từ láy",
+        "Cụm từ"
+      ],
+      "answer": "Từ phức",
+      "hint": "«dày» mờ nghĩa gốc."
+    },
+    {
+      "id": "sr5_word_q4",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "multiple_choice",
+      "question": "«hoa hồng» (loài hoa) là?",
+      "choices": [
+        "Từ phức",
+        "Hai từ đơn",
+        "Từ láy",
+        "Từ đơn"
+      ],
+      "answer": "Từ phức",
+      "hint": "Tên loài hoa."
+    },
+    {
+      "id": "sr5_word_q5",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "true_false",
+      "question": "«mặt hồ» là từ phức.",
+      "answer": "Đúng",
+      "hint": "Không chêm «của» được."
+    },
+    {
+      "id": "sr5_word_q6",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "input",
+      "question": "Từ phức trong «Em mơ làm mây trắng»?",
+      "answer": "mây trắng",
+      "hint": "Hoặc: làm mây."
+    },
+    {
+      "id": "sr5_word_q7",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "multiple_choice",
+      "question": "«Tổ quốc» trong câu tả là?",
+      "choices": [
+        "Từ phức",
+        "Từ đơn",
+        "Từ láy",
+        "Danh từ riêng"
+      ],
+      "answer": "Từ phức",
+      "hint": "tổ + quốc."
+    },
+    {
+      "id": "sr5_word_q8",
+      "skill": "sr5_word",
+      "topic": "sr5_word",
+      "type": "true_false",
+      "question": "Tiếng nào cũng phải có vần và thanh.",
+      "answer": "Đúng",
+      "hint": "Có thể không có âm đầu."
+    },
+    {
+      "id": "sr5_compound_q1",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "«thay đổi» trong đoạn về biển là?",
+      "choices": [
+        "Từ ghép",
+        "Từ láy",
+        "Từ đơn",
+        "Thành ngữ"
+      ],
+      "answer": "Từ ghép",
+      "hint": "Ghép tổng hợp."
+    },
+    {
+      "id": "sr5_compound_q2",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "«mơ màng» là?",
+      "choices": [
+        "Từ láy",
+        "Từ ghép",
+        "Từ đơn",
+        "Danh từ"
+      ],
+      "answer": "Từ láy",
+      "hint": "Láy âm đầu."
+    },
+    {
+      "id": "sr5_compound_q3",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "«xanh thẳm» thuộc nhóm?",
+      "choices": [
+        "Ghép phân loại",
+        "Ghép tổng hợp",
+        "Từ láy",
+        "Từ đơn"
+      ],
+      "answer": "Ghép phân loại",
+      "hint": "xanh + thẳm."
+    },
+    {
+      "id": "sr5_compound_q4",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "«san sẻ» là?",
+      "choices": [
+        "Từ láy",
+        "Từ ghép phân loại",
+        "Từ ghép tổng hợp",
+        "Từ đơn"
+      ],
+      "answer": "Từ láy",
+      "hint": "Láy vần/âm."
+    },
+    {
+      "id": "sr5_compound_q5",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "«sôi nổi» là?",
+      "choices": [
+        "Từ láy",
+        "Từ ghép",
+        "Từ đơn",
+        "Thành ngữ"
+      ],
+      "answer": "Từ láy",
+      "hint": "Láy vần."
+    },
+    {
+      "id": "sr5_compound_q6",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "input",
+      "question": "«Công cha ... núi Thái Sơn» (tr/ch)",
+      "answer": "tr",
+      "hint": "trong tục ngữ."
+    },
+    {
+      "id": "sr5_compound_q7",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "true_false",
+      "question": "«học hành» là từ láy.",
+      "answer": "Đúng",
+      "hint": "Theo đáp án đề 1 g4→5 tương tự."
+    },
+    {
+      "id": "sr5_compound_q8",
+      "skill": "sr5_compound",
+      "topic": "sr5_compound",
+      "type": "multiple_choice",
+      "question": "Nhóm toàn từ láy?",
+      "choices": [
+        "lẩy bẩy, khập khiễng, rạng rỡ",
+        "xe đạp, nụ hoa",
+        "học trò, giáo viên",
+        "Tổ quốc, đất nước"
+      ],
+      "answer": "lẩy bẩy, khập khiễng, rạng rỡ",
+      "hint": "Láy âm/vần."
+    },
+    {
+      "id": "sr5_class_q1",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "«phẳng lặng» là?",
+      "choices": [
+        "Tính từ",
+        "Danh từ",
+        "Động từ",
+        "Trạng ngữ"
+      ],
+      "answer": "Tính từ",
+      "hint": "Đặc điểm dòng sông."
+    },
+    {
+      "id": "sr5_class_q2",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "«Nước chảy đá mòn» — động từ?",
+      "choices": [
+        "chảy",
+        "Nước",
+        "đá",
+        "mòn"
+      ],
+      "answer": "chảy",
+      "hint": "Hoạt động."
+    },
+    {
+      "id": "sr5_class_q3",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "«học giỏi» — «giỏi» là?",
+      "choices": [
+        "Tính từ",
+        "Danh từ",
+        "Động từ",
+        "Thán từ"
+      ],
+      "answer": "Tính từ",
+      "hint": "Chỉ đặc điểm hoạt động."
+    },
+    {
+      "id": "sr5_class_q4",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "input",
+      "question": "«Vì trời mưa ... đường lầy lội» — QHT kết quả",
+      "answer": "nên",
+      "hint": "Vì…nên…"
+    },
+    {
+      "id": "sr5_class_q5",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "«Chẳng những Lan chăm học mà còn chăm làm việc nhà» — QHT?",
+      "choices": [
+        "Tăng tiến",
+        "Nguyên nhân",
+        "Giả thiết",
+        "Tương phản"
+      ],
+      "answer": "Tăng tiến",
+      "hint": "Không những…mà còn…"
+    },
+    {
+      "id": "sr5_class_q6",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "Đại từ trong «Được, nhưng rải thế nào anh phải chỉ vẽ, em mới làm được chớ!» — số lượng?",
+      "choices": [
+        "2 đại từ",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2 đại từ",
+      "hint": "em, anh (xưng hô)."
+    },
+    {
+      "id": "sr5_class_q7",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "true_false",
+      "question": "«suy nghĩ» (Anh ấy đang suy nghĩ) là động từ.",
+      "answer": "Đúng",
+      "hint": "Chỉ hoạt động."
+    },
+    {
+      "id": "sr5_class_q8",
+      "skill": "sr5_class",
+      "topic": "sr5_class",
+      "type": "multiple_choice",
+      "question": "«Tuy vậy» trong đoạn Hồ Chí Minh có tác dụng?",
+      "choices": [
+        "Biểu thị sự đối lập",
+        "Liệt kê",
+        "Giải thích",
+        "Hỏi"
+      ],
+      "answer": "Biểu thị sự đối lập",
+      "hint": "Nối ý trên–dưới."
+    },
+    {
+      "id": "sr5_sentence_q1",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Thân nó xù xì… vậy mà lá thì xanh mởn» — nối vế bằng?",
+      "choices": [
+        "vậy mà",
+        "vì",
+        "nên",
+        "tuy"
+      ],
+      "answer": "vậy mà",
+      "hint": "Tương phản."
+    },
+    {
+      "id": "sr5_sentence_q2",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Dân tộc ta có một lòng nồng nàn yêu nước. Đó là truyền thống quý báu» — liên kết?",
+      "choices": [
+        "Dùng từ thay thế",
+        "Lặp từ",
+        "Chỉ từ nối",
+        "Không liên kết"
+      ],
+      "answer": "Dùng từ thay thế",
+      "hint": "«Đó» thay «lòng yêu nước»."
+    },
+    {
+      "id": "sr5_sentence_q3",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Cây gạo buồn thiu, những chiếc lá cụp xuống, ủ ê» — loại câu?",
+      "choices": [
+        "Câu ghép",
+        "Câu đơn",
+        "Câu hỏi",
+        "Câu cảm"
+      ],
+      "answer": "Câu ghép",
+      "hint": "Nhiều vế."
+    },
+    {
+      "id": "sr5_sentence_q4",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Phút yên tĩnh của rừng ban mai dần biến mất» — VN?",
+      "choices": [
+        "dần biến mất",
+        "Phút yên tĩnh",
+        "rừng ban mai",
+        "của rừng"
+      ],
+      "answer": "dần biến mất",
+      "hint": "Nói về phút yên tĩnh."
+    },
+    {
+      "id": "sr5_sentence_q5",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Tôi / rảo bước và truyền đơn» — CN?",
+      "choices": [
+        "Tôi",
+        "rảo bước",
+        "truyền đơn",
+        "đất"
+      ],
+      "answer": "Tôi",
+      "hint": "Ai?"
+    },
+    {
+      "id": "sr5_sentence_q6",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "true_false",
+      "question": "«Buổi chiều, nắng vừa nhạt, sương đã buông xuống» có thể là câu ghép.",
+      "answer": "Đúng",
+      "hint": "Hai vế song song."
+    },
+    {
+      "id": "sr5_sentence_q7",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "input",
+      "question": "Mẫu câu «Bác Hồ là vị anh hùng thiên tài»?",
+      "answer": "Ai là gì?",
+      "hint": "CN + VN."
+    },
+    {
+      "id": "sr5_sentence_q8",
+      "skill": "sr5_sentence",
+      "topic": "sr5_sentence",
+      "type": "multiple_choice",
+      "question": "«Cuối đông, lá bàng… Vậy màu xanh của lá biến đi đâu nhỉ?» — nối?",
+      "choices": [
+        "Thay thế từ ngữ",
+        "Lặp từ",
+        "Chỉ từ nối",
+        "Dùng từ nối và lặp"
+      ],
+      "answer": "Thay thế từ ngữ",
+      "hint": "Đề 11 đáp án C."
+    },
+    {
+      "id": "sr5_punct_q1",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "Dấu phẩy sau «Tan học» có tác dụng?",
+      "choices": [
+        "Ngăn TN với CN–VN",
+        "Kết câu",
+        "Hỏi",
+        "Liệt kê danh từ"
+      ],
+      "answer": "Ngăn TN với CN–VN",
+      "hint": "Đề 2."
+    },
+    {
+      "id": "sr5_punct_q2",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "«Hàng tết bán rất chạy» — «chạy»?",
+      "choices": [
+        "Nghĩa chuyển",
+        "Nghĩa gốc",
+        "Danh từ",
+        "Tính từ"
+      ],
+      "answer": "Nghĩa chuyển",
+      "hint": "Bán nhanh."
+    },
+    {
+      "id": "sr5_punct_q3",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "Đồng nghĩa «sửng sốt»?",
+      "choices": [
+        "ngạc nhiên",
+        "lo lắng",
+        "hoảng hốt",
+        "buồn bã"
+      ],
+      "answer": "ngạc nhiên",
+      "hint": "Đề 11 — đáp án B."
+    },
+    {
+      "id": "sr5_punct_q4",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "«Tôi không biết bạn có thích chơi diều không?» — loại câu?",
+      "choices": [
+        "Câu kể (không phải câu hỏi)",
+        "Câu hỏi",
+        "Câu cảm",
+        "Câu khiến"
+      ],
+      "answer": "Câu kể (không phải câu hỏi)",
+      "hint": "Không dùng dấu ? đúng nghĩa hỏi."
+    },
+    {
+      "id": "sr5_punct_q5",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "Thành ngữ về lòng tự trọng?",
+      "choices": [
+        "Giấy rách phải giữ lấy lề",
+        "Cây ngay không sợ chết đứng",
+        "Thuốc đắng dã tật",
+        "Thẳng như ruột ngựa"
+      ],
+      "answer": "Giấy rách phải giữ lấy lề",
+      "hint": "Đề 4 đáp án B."
+    },
+    {
+      "id": "sr5_punct_q6",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "input",
+      "question": "Điền «bảo» phù hợp: «Chúng em tích cực ... vệ môi trường»",
+      "answer": "bảo",
+      "hint": "bảo vệ."
+    },
+    {
+      "id": "sr5_punct_q7",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "true_false",
+      "question": "Điệp ngữ «Việt Nam» ba lần nhấn tình yêu đất nước.",
+      "answer": "Đúng",
+      "hint": "Đề 4 câu 9."
+    },
+    {
+      "id": "sr5_punct_q8",
+      "skill": "sr5_punct",
+      "topic": "sr5_punct",
+      "type": "multiple_choice",
+      "question": "Dấu hai chấm liệt kê màu xanh trong «một màu xanh có nhiều sắc độ: màu xanh thẳm…»?",
+      "choices": [
+        "Báo hiệu liệt kê",
+        "Lời nói nhân vật",
+        "Kết thúc câu",
+        "Hỏi"
+      ],
+      "answer": "Báo hiệu liệt kê",
+      "hint": "Đề 11 câu 7A."
+    },
+    {
+      "id": "sr5_spelling_q1",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«Bàn tay ta ...àm ...ên tất cả» — «làm»",
+      "answer": "l",
+      "hint": "Đề 1."
+    },
+    {
+      "id": "sr5_spelling_q2",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«...ắng tốt dưa mưa tốt ...úa» — «lúa»",
+      "answer": "l",
+      "hint": "Tục ngữ."
+    },
+    {
+      "id": "sr5_spelling_q3",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«Nhường cơm ...ẻ áo» (s/x)",
+      "answer": "s",
+      "hint": "Đề 3."
+    },
+    {
+      "id": "sr5_spelling_q4",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«...ẻ dọc Trường Sơn» (s/x)",
+      "answer": "x",
+      "hint": "Ca dao."
+    },
+    {
+      "id": "sr5_spelling_q5",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "multiple_choice",
+      "question": "Viết hoa đúng tổ chức?",
+      "choices": [
+        "Chủ nhiệm Ủy ban Khoa học và Kĩ thuật Nhà nước",
+        "Huân chương chiến công giải phóng",
+        "huy chương anh hùng",
+        "nhà xuất bản giáo dục"
+      ],
+      "answer": "Chủ nhiệm Ủy ban Khoa học và Kĩ thuật Nhà nước",
+      "hint": "Đề 2 đáp án A."
+    },
+    {
+      "id": "sr5_spelling_q6",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«Đầu hè không thấy ...ọt sương» (gi/r/d)",
+      "answer": "gi",
+      "hint": "Trần Đăng Khoa."
+    },
+    {
+      "id": "sr5_spelling_q7",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "multiple_choice",
+      "question": "Tên riêng viết đúng?",
+      "choices": [
+        "Pu- tin",
+        "Bin Clin Tơn",
+        "Cat Xtơ rô",
+        "Ô ba ma"
+      ],
+      "answer": "Pu- tin",
+      "hint": "Đề 13 đáp án B."
+    },
+    {
+      "id": "sr5_spelling_q8",
+      "skill": "sr5_spelling",
+      "topic": "sr5_spelling",
+      "type": "input",
+      "question": "«Nhà xuất bản Giáo dục» — viết «Giáo dục» với chữ?",
+      "answer": "G",
+      "hint": "Viết hoa danh từ riêng."
+    },
+    {
+      "id": "exam5_1_q1",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Chim họa mi từ đâu bay đến?",
+      "choices": [
+        "Không rõ từ phương nào",
+        "Từ phương đông",
+        "Từ phương Bắc",
+        "Từ phương Nam"
+      ],
+      "answer": "Không rõ từ phương nào",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_1_q2",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Buổi chiều tiếng hót họa mi như thế nào?",
+      "choices": [
+        "Êm đềm, rộn rã",
+        "Trong trẻo, réo rắt",
+        "Hót vang lừng chào nắng sớm",
+        "Lảnh lót, ngân nga"
+      ],
+      "answer": "Êm đềm, rộn rã",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_1_q3",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Sáng họa mi kéo cổ hót vì?",
+      "choices": [
+        "Muốn các bạn xa gần lắng nghe",
+        "Khoe giọng",
+        "Luyện giọng",
+        "Thích hót"
+      ],
+      "answer": "Muốn các bạn xa gần lắng nghe",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_1_q4",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Dòng có từ in đậm là từ nhiều nghĩa?",
+      "choices": [
+        "Nó từ từ nhắm hai mắt lại. Quả na đã mở mắt",
+        "Nó không biết tự phương nào bay đến",
+        "Con họa mi lại hót vang lừng",
+        "Bạn Lan đang hót rác"
+      ],
+      "answer": "Nó từ từ nhắm hai mắt lại. Quả na đã mở mắt",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_1_q5",
+      "skill": "exam5_1",
+      "exam": "exam5_1",
+      "type": "input",
+      "question": "[Đề 1] «Một cây ...àm chẳng ...ên non» — «làm»",
+      "answer": "l",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_2_q1",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Mơ giúp mẹ ngoài giờ học?",
+      "choices": [
+        "Tưới rau rồi chẻ củi, nấu cơm",
+        "Chẻ củi, nấu cơm",
+        "Tưới rau",
+        "Nhặt rau"
+      ],
+      "answer": "Tưới rau rồi chẻ củi, nấu cơm",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_2_q2",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Dấu phẩy sau «Tan học»?",
+      "choices": [
+        "Ngăn TN và ngăn bộ phận cùng chức vụ",
+        "Chỉ ngăn TN",
+        "Chỉ ngăn cùng chức vụ",
+        "Ngăn vế câu ghép"
+      ],
+      "answer": "Ngăn TN và ngăn bộ phận cùng chức vụ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_2_q3",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] «truyền thống, truyền nghề, truyền ngôi» — «truyền» nghĩa?",
+      "choices": [
+        "Trao lại cho thế hệ sau",
+        "Lan rộng ra",
+        "Nhập vào cơ thể",
+        "Phát sóng"
+      ],
+      "answer": "Trao lại cho thế hệ sau",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_2_q4",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Viết hoa đúng?",
+      "choices": [
+        "Chủ nhiệm Ủy ban Khoa học và Kĩ thuật Nhà nước",
+        "Huân chương chiến công giải phóng",
+        "Huy chương Anh hùng lực lượng vũ trang",
+        "Huân chương Kháng Chiến"
+      ],
+      "answer": "Chủ nhiệm Ủy ban Khoa học và Kĩ thuật Nhà nước",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_2_q5",
+      "skill": "exam5_2",
+      "exam": "exam5_2",
+      "type": "true_false",
+      "question": "[Đề 2] «Ngoài vườn, các loài hoa đua nhau khoe sắc» là câu có dấu phẩy ngăn TN.",
+      "answer": "Đúng",
+      "hint": "Đúng hoặc Sai."
+    },
+    {
+      "id": "exam5_3_q1",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Tâm trạng chị Út khi nhận nhiệm vụ?",
+      "choices": [
+        "Bồn chồn, thấp thỏm",
+        "Vui mừng, rộn rã",
+        "Bình thường",
+        "Vui nhưng lo"
+      ],
+      "answer": "Bồn chồn, thấp thỏm",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_3_q2",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Chi tiết hồi hộp khi nhận việc?",
+      "choices": [
+        "Chị dậy từ nửa đêm nghĩ cách giấu truyền đơn",
+        "Chỉ vui mừng",
+        "Chỉ ngủ không yên",
+        "Không hồi hộp"
+      ],
+      "answer": "Chị dậy từ nửa đêm nghĩ cách giấu truyền đơn",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_3_q3",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Cách rải truyền đơn?",
+      "choices": [
+        "Giả bán cá, bó giắt lưng, truyền đơn rơi dần",
+        "Một tay bê rổ một tay cầm bó",
+        "Đưa từng tờ cho người gặp",
+        "Giấu dưới rổ"
+      ],
+      "answer": "Giả bán cá, bó giắt lưng, truyền đơn rơi dần",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_3_q4",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Dấu phẩy «Về đến nhà, tôi khoe…»?",
+      "choices": [
+        "Ngăn TN với CN–VN",
+        "Ngăn cùng chức vụ",
+        "Ngăn CN–VN",
+        "Ngăn vế ghép"
+      ],
+      "answer": "Ngăn TN với CN–VN",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_3_q5",
+      "skill": "exam5_3",
+      "exam": "exam5_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] «Được, nhưng rải… em mới làm được chớ!» — số đại từ?",
+      "choices": [
+        "2 đại từ",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2 đại từ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_4_q1",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Cậu bé tự tin vì?",
+      "choices": [
+        "Nhận được sự giúp đỡ từ cô bé",
+        "Hết đói",
+        "Có tiền học",
+        "Không bán hàng"
+      ],
+      "answer": "Nhận được sự giúp đỡ từ cô bé",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_4_q2",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Bác sĩ bất ngờ khi nhớ chuyện?",
+      "choices": [
+        "Một tia sáng lóe lên trong mắt ông",
+        "Ông nhận khám",
+        "Ông đứng dậy",
+        "Ông cứu chữa"
+      ],
+      "answer": "Một tia sáng lóe lên trong mắt ông",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_4_q3",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] «Một ly sữa» nói về?",
+      "choices": [
+        "Sự chia sẻ",
+        "Sự cố gắng",
+        "Sự tự tin",
+        "Lòng can đảm"
+      ],
+      "answer": "Sự chia sẻ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_4_q4",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Thành ngữ về lòng tự trọng?",
+      "choices": [
+        "Giấy rách phải giữ lấy lề",
+        "Cây ngay không sợ chết đứng",
+        "Thẳng như ruột ngựa",
+        "Thuốc đắng dã tật"
+      ],
+      "answer": "Giấy rách phải giữ lấy lề",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_4_q5",
+      "skill": "exam5_4",
+      "exam": "exam5_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Hai câu về yêu nước liên kết bằng?",
+      "choices": [
+        "Dùng từ thay thế",
+        "Lặp từ",
+        "Chỉ từ nối",
+        "Thay thế và từ nối"
+      ],
+      "answer": "Dùng từ thay thế",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_5_q1",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Khổ thơ «Lúc ấy» (công trường sông Đà) — biện pháp nghệ thuật?",
+      "choices": [
+        "Nhân hóa",
+        "So sánh",
+        "Ẩn dụ",
+        "Nhân hóa và so sánh"
+      ],
+      "answer": "Nhân hóa",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_5_q2",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Vẻ đẹp đêm trăng công trường sông Đà?",
+      "choices": [
+        "Hòa quyện con người và thiên nhiên vừa tĩnh vừa sinh động",
+        "Công trường say ngủ",
+        "Cô gái Nga đánh đàn",
+        "Xe ủi nằm nghỉ"
+      ],
+      "answer": "Hòa quyện con người và thiên nhiên vừa tĩnh vừa sinh động",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_5_q3",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Đồng nghĩa «non sông»?",
+      "choices": [
+        "Nước nhà",
+        "Năm châu",
+        "Thế giới",
+        "Hoàn cầu"
+      ],
+      "answer": "Nước nhà",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_5_q4",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Nghĩa «hòa bình»?",
+      "choices": [
+        "Trạng thái không có chiến tranh",
+        "Bình thản",
+        "Hiền hòa yên ả",
+        "Yên lặng"
+      ],
+      "answer": "Trạng thái không có chiến tranh",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_5_q5",
+      "skill": "exam5_5",
+      "exam": "exam5_5",
+      "type": "input",
+      "question": "[Đề 5] Thành ngữ «Chậm như ...»",
+      "answer": "rùa",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_6_q1",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] «Những cánh buồm» tập trung tả?",
+      "choices": [
+        "Những cánh buồm",
+        "Con sông",
+        "Làng quê",
+        "Làng và sông"
+      ],
+      "answer": "Những cánh buồm",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_6_q2",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] «phẳng lặng» là?",
+      "choices": [
+        "Tính từ",
+        "Danh từ",
+        "Động từ",
+        "Đại từ"
+      ],
+      "answer": "Tính từ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_6_q3",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] Màu buồm so sánh với?",
+      "choices": [
+        "Màu áo người thân trong gia đình",
+        "Màu nắng",
+        "Chỉ màu áo chị",
+        "Màu áo nông dân"
+      ],
+      "answer": "Màu áo người thân trong gia đình",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_6_q4",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] So sánh màu áo thể hiện?",
+      "choices": [
+        "Tình yêu tác giả với cánh buồm quê hương",
+        "Màu chính xác",
+        "Buồm vất vả",
+        "Dễ liên tưởng"
+      ],
+      "answer": "Tình yêu tác giả với cánh buồm quê hương",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_6_q5",
+      "skill": "exam5_6",
+      "exam": "exam5_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] «lên ngược về xuôi» chứa?",
+      "choices": [
+        "Cặp từ trái nghĩa",
+        "Đồng nghĩa",
+        "Đồng âm",
+        "Nhiều nghĩa"
+      ],
+      "answer": "Cặp từ trái nghĩa",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_7_q1",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] «Một tiếng lá rơi… giật mình» nói rừng?",
+      "choices": [
+        "Rất yên tĩnh",
+        "Hoang vu",
+        "Vắng người",
+        "Rất đẹp"
+      ],
+      "answer": "Rất yên tĩnh",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_7_q2",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Mùi hoa tràm được tả?",
+      "choices": [
+        "Thơm ngây ngất, phảng phất khắp rừng",
+        "Thơm ngan ngát",
+        "Thơm ngọt theo gió",
+        "Thoang thoảng"
+      ],
+      "answer": "Thơm ngây ngất, phảng phất khắp rừng",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_7_q3",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Vật đổi màu để?",
+      "choices": [
+        "Phù hợp môi trường và tự bảo vệ",
+        "Làm đẹp rừng",
+        "Phô vẻ đẹp",
+        "Khoe với bạn"
+      ],
+      "answer": "Phù hợp môi trường và tự bảo vệ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_7_q4",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Trái nghĩa «im lặng»?",
+      "choices": [
+        "Ồn ào, náo nhiệt, huyên náo",
+        "Ồn ào, tĩnh lặng",
+        "Vui vẻ",
+        "Lao xao"
+      ],
+      "answer": "Ồn ào, náo nhiệt, huyên náo",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_7_q5",
+      "skill": "exam5_7",
+      "exam": "exam5_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] VN «Phút yên tĩnh của rừng ban mai dần biến mất»?",
+      "choices": [
+        "dần biến mất",
+        "Phút yên tĩnh",
+        "rừng ban mai",
+        "biến mất"
+      ],
+      "answer": "dần biến mất",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_8_q1",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] Ý chính bài Núi rừng Trường Sơn?",
+      "choices": [
+        "Sau mưa rừng bừng tỉnh, cảnh vật thêm sức sống",
+        "Mưa tạnh",
+        "Chỏm núi tím biếc",
+        "Mây ôm núi"
+      ],
+      "answer": "Sau mưa rừng bừng tỉnh, cảnh vật thêm sức sống",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_8_q2",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] Hình ảnh sau cơn mưa (đầy đủ)?",
+      "choices": [
+        "Mây xám, tia nắng, nước mưa; chồn, dũi; vòm lá, chim Klang; chỏm núi, dải mây",
+        "Chỉ trời và núi",
+        "Chỉ chim và mây",
+        "Chỉ nước mưa"
+      ],
+      "answer": "Mây xám, tia nắng, nước mưa; chồn, dũi; vòm lá, chim Klang; chỏm núi, dải mây",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_8_q3",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] «dải mây… như dải lụa… ôm ấp» — BP?",
+      "choices": [
+        "So sánh và nhân hóa",
+        "Chỉ so sánh",
+        "Chỉ nhân hóa",
+        "Không có"
+      ],
+      "answer": "So sánh và nhân hóa",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_8_q4",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] «rừng» nghĩa gốc?",
+      "choices": [
+        "Núi rừng Trường Sơn như bừng tỉnh",
+        "Một rừng cờ hoa",
+        "Một rừng người",
+        "Rừng cây xanh"
+      ],
+      "answer": "Núi rừng Trường Sơn như bừng tỉnh",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_8_q5",
+      "skill": "exam5_8",
+      "exam": "exam5_8",
+      "type": "input",
+      "question": "[Đề 8] «Bão ... to, cây đổ ... nhiều» — cặp từ",
+      "answer": "càng",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_9_q1",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Cây gạo có từ lâu vì?",
+      "choices": [
+        "Cây già; thân xù xì; Thương và bạn đã thấy nở hoa",
+        "Chỉ tán lá tròn",
+        "Nghe ông bà kể",
+        "Hoa đỏ ngút trời"
+      ],
+      "answer": "Cây già; thân xù xì; Thương và bạn đã thấy nở hoa",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_9_q2",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Dấu hiệu cây gạo lớn thêm tuổi?",
+      "choices": [
+        "Xoè thêm một tán lá tròn vươn cao",
+        "Thân gai góc hơn",
+        "Nở thêm mùa hoa",
+        "Rễ trơ ra"
+      ],
+      "answer": "Xoè thêm một tán lá tròn vươn cao",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_9_q3",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] «bừng» trong «Bến sông bừng lên đẹp»?",
+      "choices": [
+        "Hoa gạo làm bến sông sáng bừng",
+        "Mặt trời mọc",
+        "Mọi vật thức dậy",
+        "Cây tươi lại"
+      ],
+      "answer": "Hoa gạo làm bến sông sáng bừng",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_9_q4",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Câu ghép?",
+      "choices": [
+        "Cây gạo buồn thiu, những chiếc lá cụp xuống, ủ ê",
+        "Chiều nay Thương ùa ra cây gạo",
+        "Cây gạo như đám lửa",
+        "Cây gạo xoè thêm tán lá"
+      ],
+      "answer": "Cây gạo buồn thiu, những chiếc lá cụp xuống, ủ ê",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_9_q5",
+      "skill": "exam5_9",
+      "exam": "exam5_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] «Thân nó xù xì… vậy mà lá thì xanh mởn» — nối vế?",
+      "choices": [
+        "Nối bằng «vậy mà»",
+        "Nối bằng «mà»",
+        "Nối trực tiếp",
+        "Nối bằng «thì»"
+      ],
+      "answer": "Nối bằng «vậy mà»",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_10_q1",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Đồng nghĩa «hòa bình»?",
+      "choices": [
+        "bình yên, thái bình, thanh bình",
+        "bình yên, hiền hòa",
+        "thanh thản, lặng yên",
+        "bình thản, yên tĩnh"
+      ],
+      "answer": "bình yên, thái bình, thanh bình",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_10_q2",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] «chạy» nghĩa chuyển?",
+      "choices": [
+        "Hàng tết bán rất chạy",
+        "Chạy 100m",
+        "Đánh kẻ chạy đi",
+        "Chạy qua làng (gốc)"
+      ],
+      "answer": "Hàng tết bán rất chạy",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_10_q3",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Không phải câu hỏi (dù có ?)?",
+      "choices": [
+        "Tôi không biết bạn có thích chơi diều không?",
+        "Bạn có thích chơi diều không?",
+        "Hãy cho biết bạn thích trò nào?",
+        "Ai dạy bạn làm đèn ông sao?"
+      ],
+      "answer": "Tôi không biết bạn có thích chơi diều không?",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_10_q4",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] «thay đổi» trong đoạn biển — ghép?",
+      "choices": [
+        "Từ ghép tổng hợp",
+        "Từ ghép phân loại",
+        "Từ láy",
+        "Từ đơn"
+      ],
+      "answer": "Từ ghép tổng hợp",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_10_q5",
+      "skill": "exam5_10",
+      "exam": "exam5_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] «mơ màng» — loại?",
+      "choices": [
+        "Từ láy",
+        "Từ ghép",
+        "Từ đơn",
+        "Danh từ riêng"
+      ],
+      "answer": "Từ láy",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_11_q1",
+      "skill": "exam5_11",
+      "exam": "exam5_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Đồng nghĩa «sửng sốt»?",
+      "choices": [
+        "ngạc nhiên",
+        "hoảng hốt",
+        "lo lắng",
+        "bàng hoàng"
+      ],
+      "answer": "ngạc nhiên",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_11_q2",
+      "skill": "exam5_11",
+      "exam": "exam5_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Hai câu về lá bàng liên kết?",
+      "choices": [
+        "Thay thế từ ngữ",
+        "Lặp từ",
+        "Dùng từ nối",
+        "Từ nối và lặp"
+      ],
+      "answer": "Thay thế từ ngữ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_11_q3",
+      "skill": "exam5_11",
+      "exam": "exam5_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Dấu phẩy «Khi những trận mưa xuân đã hết, cây bàng lại xanh ròn…»?",
+      "choices": [
+        "Ngăn TN với CN–VN",
+        "Ngăn vế ghép",
+        "Ngăn cùng chức vụ",
+        "Ngăn CN–VN"
+      ],
+      "answer": "Ngăn TN với CN–VN",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_11_q4",
+      "skill": "exam5_11",
+      "exam": "exam5_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Tiếng «thiên» = «trời»?",
+      "choices": [
+        "Thiên tai, thiên thần, thiên văn",
+        "Thiên tài, thiên cổ",
+        "Thiên vị, biến thiên",
+        "Thiên đô"
+      ],
+      "answer": "Thiên tai, thiên thần, thiên văn",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_11_q5",
+      "skill": "exam5_11",
+      "exam": "exam5_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] «Buổi chiều, nắng vừa nhạt, sương đã buông…» — loại?",
+      "choices": [
+        "Câu ghép nối vế bằng QHT/dấu phẩy",
+        "Câu đơn có TN",
+        "Câu hỏi",
+        "Câu cảm"
+      ],
+      "answer": "Câu ghép nối vế bằng QHT/dấu phẩy",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_12_q1",
+      "skill": "exam5_12",
+      "exam": "exam5_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Đền Hùng ở đâu, thờ ai?",
+      "choices": [
+        "Phú Thọ, thờ các vua Hùng",
+        "Vĩnh Phúc, Hùng Vương",
+        "Phú Thọ, An Dương Vương",
+        "Hà Nội, vua Hùng"
+      ],
+      "answer": "Phú Thọ, thờ các vua Hùng",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_12_q2",
+      "skill": "exam5_12",
+      "exam": "exam5_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Tả cảnh đền Hùng — ý?",
+      "choices": [
+        "Ca ngợi cảnh thiên nhiên tráng lệ, hùng vĩ",
+        "Chỉ lịch sử",
+        "Giàu đẹp đất nước",
+        "Nhớ quê hương"
+      ],
+      "answer": "Ca ngợi cảnh thiên nhiên tráng lệ, hùng vĩ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_12_q3",
+      "skill": "exam5_12",
+      "exam": "exam5_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Núi Sóc Sơn, dấu chân ngựa sắt — truyền thuyết?",
+      "choices": [
+        "Thánh Gióng",
+        "Lạc Long Quân",
+        "Bánh chưng",
+        "Hai Bà Trưng"
+      ],
+      "answer": "Thánh Gióng",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_12_q4",
+      "skill": "exam5_12",
+      "exam": "exam5_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] «Dù ai đi ngược về xuôi…» — hiểu?",
+      "choices": [
+        "Nhắc không quên ngày giỗ Tổ, cội nguồn",
+        "Chỉ ca ngợi",
+        "Nhớ quê",
+        "Cả ba ý"
+      ],
+      "answer": "Nhắc không quên ngày giỗ Tổ, cội nguồn",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_12_q5",
+      "skill": "exam5_12",
+      "exam": "exam5_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Câu ghép?",
+      "choices": [
+        "Trước đền, khóm hải đường…, bướm bay dập dờn",
+        "Trong đền, dòng chữ vàng…",
+        "Đền Thượng nằm chót vót",
+        "Lăng vua Hùng kề bên đền"
+      ],
+      "answer": "Trước đền, khóm hải đường…, bướm bay dập dờn",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_13_q1",
+      "skill": "exam5_13",
+      "exam": "exam5_13",
+      "type": "multiple_choice",
+      "question": "[Đề 13] Hình chữ V gửi gì?",
+      "choices": [
+        "Tên Tổ quốc Việt Nam và lời chào chiến thắng",
+        "Tình yêu cá nhân",
+        "Khâm phục",
+        "Tin chiến thắng"
+      ],
+      "answer": "Tên Tổ quốc Việt Nam và lời chào chiến thắng",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_13_q2",
+      "skill": "exam5_13",
+      "exam": "exam5_13",
+      "type": "multiple_choice",
+      "question": "[Đề 13] Hộp thư được đặt?",
+      "choices": [
+        "Nơi dễ tìm, ít bị chú ý",
+        "Ven đường",
+        "Nơi khó tìm",
+        "Giữa đồng"
+      ],
+      "answer": "Nơi dễ tìm, ít bị chú ý",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_13_q3",
+      "skill": "exam5_13",
+      "exam": "exam5_13",
+      "type": "multiple_choice",
+      "question": "[Đề 13] Nghĩa «truyền thống»?",
+      "choices": [
+        "Lối sống hình thành lâu đời, truyền qua thế hệ",
+        "Cách sống nhiều nơi",
+        "Được ca ngợi",
+        "Phong tục tổ tiên"
+      ],
+      "answer": "Lối sống hình thành lâu đời, truyền qua thế hệ",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_13_q4",
+      "skill": "exam5_13",
+      "exam": "exam5_13",
+      "type": "multiple_choice",
+      "question": "[Đề 13] Tên riêng viết đúng?",
+      "choices": [
+        "Pu- tin",
+        "Bin Clin Tơn",
+        "Ô ba ma",
+        "Cat Xtơ rô"
+      ],
+      "answer": "Pu- tin",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_13_q5",
+      "skill": "exam5_13",
+      "exam": "exam5_13",
+      "type": "multiple_choice",
+      "question": "[Đề 13] Đại từ «Mặt trời… nhưng tôi cảm thấy…»?",
+      "choices": [
+        "Tôi",
+        "Tôi, mặt trời",
+        "Tôi, bóng",
+        "Tôi, sườn đồi"
+      ],
+      "answer": "Tôi",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_14_q1",
+      "skill": "exam5_14",
+      "exam": "exam5_14",
+      "type": "input",
+      "question": "[Đề 14] «Bạn Thảo chẳng những học giỏi ... Thảo còn là người con ngoan» — liên từ",
+      "answer": "mà",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_14_q2",
+      "skill": "exam5_14",
+      "exam": "exam5_14",
+      "type": "input",
+      "question": "[Đề 14] «Đầu hè không thấy ...ọt sương»",
+      "answer": "gi",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_14_q3",
+      "skill": "exam5_14",
+      "exam": "exam5_14",
+      "type": "multiple_choice",
+      "question": "[Đề 14] «Tuy vậy» — tác dụng?",
+      "choices": [
+        "Biểu thị đối lập ý trên–dưới",
+        "Liệt kê",
+        "Giải thích",
+        "Kết luận"
+      ],
+      "answer": "Biểu thị đối lập ý trên–dưới",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_14_q4",
+      "skill": "exam5_14",
+      "exam": "exam5_14",
+      "type": "input",
+      "question": "[Đề 14] «Chúng em tích cực ... vệ môi trường»",
+      "answer": "bảo",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam5_14_q5",
+      "skill": "exam5_14",
+      "exam": "exam5_14",
+      "type": "multiple_choice",
+      "question": "[Đề 14] «Tôi có cảm giác ... khi được cô bác sĩ khám»?",
+      "choices": [
+        "an tâm",
+        "an ninh",
+        "an toàn",
+        "an lành"
+      ],
+      "answer": "an tâm",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_15_q1",
+      "skill": "exam5_15",
+      "exam": "exam5_15",
+      "type": "multiple_choice",
+      "question": "[Đề 15] Hội thổi cơm Đồng Vân bắt nguồn?",
+      "choices": [
+        "Từ trẩy quân đánh giặc bên sông Đáy",
+        "Bên bờ sông Đáy (chung chung)",
+        "Hai bờ sông Hồng",
+        "Làng Đồng Vân"
+      ],
+      "answer": "Từ trẩy quân đánh giặc bên sông Đáy",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_15_q2",
+      "skill": "exam5_15",
+      "exam": "exam5_15",
+      "type": "multiple_choice",
+      "question": "[Đề 15] Hội thi bắt đầu bằng?",
+      "choices": [
+        "Lấy lửa",
+        "Giã thóc",
+        "Vót chông",
+        "Lấy nước"
+      ],
+      "answer": "Lấy lửa",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_15_q3",
+      "skill": "exam5_15",
+      "exam": "exam5_15",
+      "type": "multiple_choice",
+      "question": "[Đề 15] Dấu phẩy «Thế kỉ XX…, còn thế kỉ XXI…»?",
+      "choices": [
+        "Ngăn các vế câu ghép",
+        "Ngăn TN",
+        "Ngăn CN–VN",
+        "Ngăn cùng chức vụ"
+      ],
+      "answer": "Ngăn các vế câu ghép",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_15_q4",
+      "skill": "exam5_15",
+      "exam": "exam5_15",
+      "type": "multiple_choice",
+      "question": "[Đề 15] «Miệng hang» — «miệng»?",
+      "choices": [
+        "Nghĩa chuyển",
+        "Nghĩa gốc",
+        "Danh từ riêng",
+        "Từ láy"
+      ],
+      "answer": "Nghĩa chuyển",
+      "hint": "Xem đáp án trong tài liệu ôn hè lớp 5→6."
+    },
+    {
+      "id": "exam5_15_q5",
+      "skill": "exam5_15",
+      "exam": "exam5_15",
+      "type": "input",
+      "question": "[Đề 15] «Nhà xuất bản ... dục» — chữ hoa",
+      "answer": "Giáo",
+      "hint": "Gõ đúng chính tả."
+    }
+  ]
+}

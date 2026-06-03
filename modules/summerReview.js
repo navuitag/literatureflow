@@ -159,6 +159,21 @@ export function createSummerReviewModule(ctx) {
   }
 
   function examTags(packId) {
+    if (packId === "g1-g2") {
+      return ["Chính tả", "Âm tiết", "Vần", "Đọc hiểu", "Từ vựng"];
+    }
+    if (packId === "g2-g3") {
+      return ["Luyện từ và câu", "Chính tả", "Tập làm văn", "Đọc hiểu", "Dấu câu"];
+    }
+    if (packId === "g3-g4") {
+      return ["So sánh", "Nhân hóa", "Luyện từ", "Chính tả", "Đọc hiểu"];
+    }
+    if (packId === "g4-g5") {
+      return ["Từ loại", "Trạng ngữ", "Từ ghép", "Chính tả", "Tập làm văn"];
+    }
+    if (packId === "g5-g6") {
+      return ["Câu ghép", "Quan hệ từ", "Đọc hiểu", "Chính tả", "Tu từ"];
+    }
     if (packId === "g6-g7") {
       return ["Đọc hiểu", "Tiếng Việt", "Viết văn", "Thơ ca", "Văn học"];
     }

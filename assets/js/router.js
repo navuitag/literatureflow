@@ -262,9 +262,9 @@ function renderHome(state) {
   return `
     <section class="summer-banner">
       <div>
-        <span class="tag">Ôn hè · Lớp 6→7</span>
+        <span class="tag">Ôn hè · Lớp 1→6 & 6→7</span>
         <h2>Ôn hè Ngữ văn — chủ đề & đề tổng hợp</h2>
-        <p>Đọc hiểu, tiếng Việt, nói viết — game hóa với sao, combo XP và lộ trình mở khóa. ${srSummary}.</p>
+        <p>Tiếng Việt lớp 1–5 (từ loại, câu, tu từ) và Ngữ văn lớp 6 — game hóa với sao, combo XP và lộ trình mở khóa. ${srSummary}.</p>
       </div>
       <a class="btn primary" href="#/summer">Vào ôn hè ☀️</a>
     </section>

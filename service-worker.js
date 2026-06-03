@@ -1,4 +1,4 @@
-const CACHE_NAME = "literatureflow-vn-v5";
+const CACHE_NAME = "literatureflow-vn-v11";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -37,6 +37,11 @@ const APP_SHELL = [
   "./data/questions.json",
   "./data/errors.json",
   "./data/exercises.json",
+  "./data/summer-review-g1-g2.json",
+  "./data/summer-review-g2-g3.json",
+  "./data/summer-review-g3-g4.json",
+  "./data/summer-review-g4-g5.json",
+  "./data/summer-review-g5-g6.json",
   "./data/summer-review-g6-g7.json"
 ];
 

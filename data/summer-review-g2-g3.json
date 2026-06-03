@@ -1,0 +1,1739 @@
+{
+  "meta": {
+    "id": "summer_lit_g2_g3",
+    "packId": "g2-g3",
+    "title": "Ôn hè Tiếng Việt lớp 2 → lớp 3",
+    "subtitle": "6 chủ đề tương tác + 12 đề tổng hợp",
+    "gradeFrom": 2,
+    "gradeTo": 3,
+    "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè)."
+  },
+  "topics": [
+    {
+      "id": "sr2_vocab",
+      "order": 1,
+      "title": "Từ chỉ sự vật, hoạt động, đặc điểm",
+      "emoji": "📖",
+      "description": "Phân loại từ: chỉ sự vật, hoạt động–trạng thái, đặc điểm.",
+      "prerequisite": [],
+      "xp": 40
+    },
+    {
+      "id": "sr2_punct",
+      "order": 2,
+      "title": "Dấu câu",
+      "emoji": "❗",
+      "description": "Dấu chấm, phẩy, hỏi chấm, chấm than — khi nào dùng.",
+      "prerequisite": [
+        "sr2_vocab"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_sentence",
+      "order": 3,
+      "title": "Kiểu câu Ai là gì? Ai làm gì? Ai thế nào?",
+      "emoji": "✍️",
+      "description": "Nhận biết và đặt câu theo ba mẫu cơ bản lớp 2.",
+      "prerequisite": [
+        "sr2_punct"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_questions",
+      "order": 4,
+      "title": "Đặt và trả lời câu hỏi",
+      "emoji": "❓",
+      "description": "Khi nào, Ở đâu, Vì sao, Để làm gì, Như thế nào.",
+      "prerequisite": [
+        "sr2_sentence"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_spelling",
+      "order": 5,
+      "title": "Chính tả và từ ngữ",
+      "emoji": "🔤",
+      "description": "l/n, r/d/gi; mở rộng vốn từ theo chủ đề SGK lớp 2.",
+      "prerequisite": [
+        "sr2_questions"
+      ],
+      "xp": 45
+    },
+    {
+      "id": "sr2_writing",
+      "order": 6,
+      "title": "Nói – viết và tập làm văn",
+      "emoji": "💬",
+      "description": "Đáp lời chào, cảm ơn, xin lỗi; viết đoạn văn ngắn.",
+      "prerequisite": [
+        "sr2_spelling"
+      ],
+      "xp": 50
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr2_vocab",
+      "title": "Từ chỉ sự vật, hoạt động, đặc điểm",
+      "topic": "sr2_vocab",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 40,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Phân loại từ: chỉ sự vật, hoạt động–trạng thái, đặc điểm."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Từ chỉ sự vật: người, vật, cây cối, thiên nhiên, thời gian (bác sĩ, trâu, hoa, mưa…).",
+            "Từ chỉ hoạt động–trạng thái: đi, học, ngủ, vui, buồn, yêu…",
+            "Từ chỉ đặc điểm: màu sắc, hình dáng, tính nết (xanh, cao, chăm chỉ…).",
+            "Gạch chân đúng loại từ theo yêu cầu bài."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_punct",
+      "title": "Dấu câu",
+      "topic": "sr2_punct",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Dấu chấm, phẩy, hỏi chấm, chấm than — khi nào dùng."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Dấu chấm: kết thúc câu kể.",
+            "Dấu phẩy: ngăn từ cùng loại; ngăn bộ phận phụ đứng đầu câu.",
+            "Dấu hỏi chấm: sau câu hỏi.",
+            "Dấu chấm than: câu cảm, kêu gọi, yêu cầu."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_sentence",
+      "title": "Kiểu câu Ai là gì? Ai làm gì? Ai thế nào?",
+      "topic": "sr2_sentence",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Nhận biết và đặt câu theo ba mẫu cơ bản lớp 2."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Ai là gì? — nhận định, giới thiệu (Bạn Nam là lớp trưởng).",
+            "Ai làm gì? — kể hoạt động (Đàn trâu đang gặm cỏ).",
+            "Ai thế nào? — miêu tả đặc điểm (Bông hoa hồng rất đẹp).",
+            "Xác định bộ phận Ai? và phần còn lại."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_questions",
+      "title": "Đặt và trả lời câu hỏi",
+      "topic": "sr2_questions",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Khi nào, Ở đâu, Vì sao, Để làm gì, Như thế nào."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Khi nào? — thời gian (Tháng năm, hoa phượng nở đỏ rực…).",
+            "Ở đâu? — địa điểm (Chim hót trên cành cây).",
+            "Vì sao? — nguyên nhân (Vì mưa to, đường lầy lội).",
+            "Để làm gì? — mục đích (Để khỏe mạnh, chúng em tập thể dục)."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_spelling",
+      "title": "Chính tả và từ ngữ",
+      "topic": "sr2_spelling",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 45,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "l/n, r/d/gi; mở rộng vốn từ theo chủ đề SGK lớp 2."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Phân biệt l/n: no ấm, lo lắng, lung linh, nung nấu.",
+            "Phân biệt r/d: dòng sông, rộng, dào dạt.",
+            "Vốn từ học tập, gia đình, thiên nhiên, Bác Hồ.",
+            "Thành ngữ: nhanh như cắt, chậm như rùa, hiền như bụt…"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    },
+    {
+      "id": "sr2_writing",
+      "title": "Nói – viết và tập làm văn",
+      "topic": "sr2_writing",
+      "source": "Chuyên đề Ôn hè Tiếng Việt lớp 2 - lên 3 (nội dung tương tác biên soạn theo tài liệu ôn hè).",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu chủ đề",
+          "content": "Đáp lời chào, cảm ơn, xin lỗi; viết đoạn văn ngắn."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kiến thức cần nhớ",
+          "content": "Nắm vững các ý sau trước khi luyện:",
+          "points": [
+            "Đáp lời chào: lịch sự, giới thiệu tên/lớp nếu cần.",
+            "Đáp lời cảm ơn: «Không có gì», «Việc em nên làm»…",
+            "Đáp lời xin lỗi: «Không sao», «Bạn cẩn thận hơn nhé».",
+            "Viết đoạn: giới thiệu người thân, trường, mùa, con vật yêu thích."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Sẵn sàng thử thách?",
+          "content": "Hoàn thành 8 câu để nhận sao và mở khóa đề tiếp theo!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam2_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "sr2_vocab"
+      ]
+    },
+    {
+      "id": "exam2_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_1"
+      ]
+    },
+    {
+      "id": "exam2_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_2"
+      ]
+    },
+    {
+      "id": "exam2_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_3"
+      ]
+    },
+    {
+      "id": "exam2_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_4"
+      ]
+    },
+    {
+      "id": "exam2_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_5"
+      ]
+    },
+    {
+      "id": "exam2_7",
+      "order": 7,
+      "title": "Đề ôn số 7",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_6"
+      ]
+    },
+    {
+      "id": "exam2_8",
+      "order": 8,
+      "title": "Đề ôn số 8",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_7"
+      ]
+    },
+    {
+      "id": "exam2_9",
+      "order": 9,
+      "title": "Đề ôn số 9",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_8"
+      ]
+    },
+    {
+      "id": "exam2_10",
+      "order": 10,
+      "title": "Đề ôn số 10",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_9"
+      ]
+    },
+    {
+      "id": "exam2_11",
+      "order": 11,
+      "title": "Đề ôn số 11",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_10"
+      ]
+    },
+    {
+      "id": "exam2_12",
+      "order": 12,
+      "title": "Đề ôn số 12",
+      "questionCount": 5,
+      "xp": 50,
+      "passScore": 4,
+      "prerequisite": [
+        "exam2_11"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr2_vocab_q1",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "multiple_choice",
+      "question": "«bác sĩ» thuộc loại từ nào?",
+      "choices": [
+        "Chỉ sự vật",
+        "Chỉ hoạt động",
+        "Chỉ đặc điểm",
+        "Chỉ nơi chốn"
+      ],
+      "answer": "Chỉ sự vật",
+      "hint": "Chỉ tên người."
+    },
+    {
+      "id": "sr2_vocab_q2",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "multiple_choice",
+      "question": "«học bài» thuộc loại từ nào?",
+      "choices": [
+        "Chỉ hoạt động",
+        "Chỉ sự vật",
+        "Chỉ đặc điểm",
+        "Chỉ thời gian"
+      ],
+      "answer": "Chỉ hoạt động",
+      "hint": "Học = hoạt động."
+    },
+    {
+      "id": "sr2_vocab_q3",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "multiple_choice",
+      "question": "«xanh biếc» thuộc loại từ nào?",
+      "choices": [
+        "Chỉ đặc điểm",
+        "Chỉ sự vật",
+        "Chỉ hoạt động",
+        "Chỉ nghề nghiệp"
+      ],
+      "answer": "Chỉ đặc điểm",
+      "hint": "Màu sắc."
+    },
+    {
+      "id": "sr2_vocab_q4",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "input",
+      "question": "Từ chỉ sự vật trong: hoa, xinh đẹp, cái bút → một từ",
+      "answer": "hoa",
+      "hint": "hoa, bút, trâu…"
+    },
+    {
+      "id": "sr2_vocab_q5",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "input",
+      "question": "Từ chỉ hoạt động trong: cô giáo, viết, nghe giảng → một từ",
+      "answer": "viết",
+      "hint": "viết, nghe giảng."
+    },
+    {
+      "id": "sr2_vocab_q6",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "multiple_choice",
+      "question": "«ngoan ngoãn» là từ chỉ?",
+      "choices": [
+        "Đặc điểm tính nết",
+        "Sự vật",
+        "Hoạt động",
+        "Thời gian"
+      ],
+      "answer": "Đặc điểm tính nết",
+      "hint": "Phẩm chất con người."
+    },
+    {
+      "id": "sr2_vocab_q7",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "true_false",
+      "question": "«mưa» là từ chỉ thời tiết, thuộc nhóm chỉ sự vật.",
+      "answer": "Đúng",
+      "hint": "Thiên nhiên, thời tiết."
+    },
+    {
+      "id": "sr2_vocab_q8",
+      "skill": "sr2_vocab",
+      "topic": "sr2_vocab",
+      "type": "multiple_choice",
+      "question": "Trong «Đàn trâu đang gặm cỏ», «gặm cỏ» là?",
+      "choices": [
+        "Hoạt động",
+        "Sự vật",
+        "Đặc điểm",
+        "Địa điểm"
+      ],
+      "answer": "Hoạt động",
+      "hint": "Ai làm gì?"
+    },
+    {
+      "id": "sr2_punct_q1",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "multiple_choice",
+      "question": "«Em là học sinh lớp 3A.» — dấu cuối câu?",
+      "choices": [
+        "Chấm",
+        "Phẩy",
+        "Hỏi",
+        "Than"
+      ],
+      "answer": "Chấm",
+      "hint": "Câu kể."
+    },
+    {
+      "id": "sr2_punct_q2",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "multiple_choice",
+      "question": "«Mèo, chó, gà cùng sống…» — dấu phẩy ngăn?",
+      "choices": [
+        "Từ cùng chỉ sự vật",
+        "Hai câu",
+        "Câu hỏi",
+        "Cảm xúc"
+      ],
+      "answer": "Từ cùng chỉ sự vật",
+      "hint": "Mèo, chó, gà."
+    },
+    {
+      "id": "sr2_punct_q3",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "true_false",
+      "question": "«Trong lớp, chúng em đang nghe giảng» — phẩy ngăn bộ phận phụ.",
+      "answer": "Đúng",
+      "hint": "Trong lớp = Ở đâu?"
+    },
+    {
+      "id": "sr2_punct_q4",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "multiple_choice",
+      "question": "«Ai là học sinh lớp 6?» — dấu cuối?",
+      "choices": [
+        "Hỏi chấm",
+        "Chấm",
+        "Phẩy",
+        "Than"
+      ],
+      "answer": "Hỏi chấm",
+      "hint": "Câu hỏi."
+    },
+    {
+      "id": "sr2_punct_q5",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "multiple_choice",
+      "question": "«A, mẹ đã về!» — dấu cuối?",
+      "choices": [
+        "Chấm than",
+        "Chấm",
+        "Hỏi",
+        "Phẩy"
+      ],
+      "answer": "Chấm than",
+      "hint": "Cảm xúc."
+    },
+    {
+      "id": "sr2_punct_q6",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "input",
+      "question": "Điền dấu: Ngày xưa có đôi bạn là Diệc và Cò ( ) — chấm hay phẩy?",
+      "answer": "chấm",
+      "hint": "Kết thúc ý."
+    },
+    {
+      "id": "sr2_punct_q7",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "true_false",
+      "question": "Dấu phẩy có thể đặt giữa các hoạt động liệt kê: đánh răng, rửa mặt, chải đầu.",
+      "answer": "Đúng",
+      "hint": "Cùng loại hoạt động."
+    },
+    {
+      "id": "sr2_punct_q8",
+      "skill": "sr2_punct",
+      "topic": "sr2_punct",
+      "type": "multiple_choice",
+      "question": "«Việt Nam đất nước ta ơi!» là câu?",
+      "choices": [
+        "Gọi / cảm",
+        "Kể",
+        "Hỏi",
+        "Mệnh lệnh trần thuật"
+      ],
+      "answer": "Gọi / cảm",
+      "hint": "Câu gọi, cảm."
+    },
+    {
+      "id": "sr2_sentence_q1",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "multiple_choice",
+      "question": "«Bạn Nam là lớp trưởng» thuộc mẫu?",
+      "choices": [
+        "Ai là gì?",
+        "Ai làm gì?",
+        "Ai thế nào?",
+        "Câu hỏi"
+      ],
+      "answer": "Ai là gì?",
+      "hint": "Là lớp trưởng."
+    },
+    {
+      "id": "sr2_sentence_q2",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "multiple_choice",
+      "question": "«Đàn trâu đang gặm cỏ» — bộ phận làm gì?",
+      "choices": [
+        "đang gặm cỏ",
+        "Đàn trâu",
+        "là trâu",
+        "rất đẹp"
+      ],
+      "answer": "đang gặm cỏ",
+      "hint": "Ai làm gì?"
+    },
+    {
+      "id": "sr2_sentence_q3",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "multiple_choice",
+      "question": "«Bông hoa hồng rất đẹp» thuộc mẫu?",
+      "choices": [
+        "Ai thế nào?",
+        "Ai là gì?",
+        "Ai làm gì?",
+        "Ở đâu?"
+      ],
+      "answer": "Ai thế nào?",
+      "hint": "Rất đẹp."
+    },
+    {
+      "id": "sr2_sentence_q4",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "input",
+      "question": "«Bố em là bác sĩ» — Ai?",
+      "answer": "Bố em",
+      "hint": "Chủ ngữ."
+    },
+    {
+      "id": "sr2_sentence_q5",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "input",
+      "question": "«Chim công là nghệ sĩ múa của rừng xanh» — Là gì?",
+      "answer": "nghệ sĩ múa của rừng xanh",
+      "hint": "Vị ngữ."
+    },
+    {
+      "id": "sr2_sentence_q6",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "true_false",
+      "question": "«Đàn voi đi đủng đỉnh trong rừng» là câu Ai thế nào?",
+      "answer": "Đúng",
+      "hint": "Thế nào = đủng đỉnh."
+    },
+    {
+      "id": "sr2_sentence_q7",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "multiple_choice",
+      "question": "«Trường em là trường Tiểu học Lê Quý Đôn» — mẫu?",
+      "choices": [
+        "Ai là gì?",
+        "Ai làm gì?",
+        "Ai thế nào?",
+        "Vì sao?"
+      ],
+      "answer": "Ai là gì?",
+      "hint": "Là trường…"
+    },
+    {
+      "id": "sr2_sentence_q8",
+      "skill": "sr2_sentence",
+      "topic": "sr2_sentence",
+      "type": "input",
+      "question": "Đặt câu Ai làm gì với «Em» và «học bài»",
+      "answer": "Em học bài",
+      "hint": "Em đang học bài."
+    },
+    {
+      "id": "sr2_questions_q1",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "multiple_choice",
+      "question": "«Tháng năm, hoa phượng nở đỏ rực» — bộ phận trả lời?",
+      "choices": [
+        "Khi nào",
+        "Ở đâu",
+        "Vì sao",
+        "Ai"
+      ],
+      "answer": "Khi nào",
+      "hint": "Tháng năm."
+    },
+    {
+      "id": "sr2_questions_q2",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "multiple_choice",
+      "question": "«Chim hót líu lo trên cành cây» — bộ phận?",
+      "choices": [
+        "Ở đâu",
+        "Khi nào",
+        "Làm gì",
+        "Thế nào"
+      ],
+      "answer": "Ở đâu",
+      "hint": "Trên cành cây."
+    },
+    {
+      "id": "sr2_questions_q3",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "input",
+      "question": "«Vì mưa to, đường lầy lội» — hỏi gì?",
+      "answer": "Vì sao",
+      "hint": "Nguyên nhân."
+    },
+    {
+      "id": "sr2_questions_q4",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "input",
+      "question": "«Để khỏe mạnh, chúng em chăm tập thể dục» — hỏi gì?",
+      "answer": "Để làm gì",
+      "hint": "Mục đích."
+    },
+    {
+      "id": "sr2_questions_q5",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "multiple_choice",
+      "question": "Câu hỏi cho «Anh làm gì?» khi gạch «làm bài tập»?",
+      "choices": [
+        "Anh làm gì?",
+        "Ai làm bài tập?",
+        "Anh là ai?",
+        "Anh thế nào?"
+      ],
+      "answer": "Anh làm gì?",
+      "hint": "Hỏi hoạt động."
+    },
+    {
+      "id": "sr2_questions_q6",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "multiple_choice",
+      "question": "«Hổ gầm như thế nào?» hỏi về?",
+      "choices": [
+        "Cách thức / đặc điểm",
+        "Địa điểm",
+        "Thời gian",
+        "Mục đích"
+      ],
+      "answer": "Cách thức / đặc điểm",
+      "hint": "Như thế nào?"
+    },
+    {
+      "id": "sr2_questions_q7",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "true_false",
+      "question": "«Bao giờ hoa cúc nở vàng rực?» hỏi về thời gian.",
+      "answer": "Đúng",
+      "hint": "Khi nào?"
+    },
+    {
+      "id": "sr2_questions_q8",
+      "skill": "sr2_questions",
+      "topic": "sr2_questions",
+      "type": "input",
+      "question": "Đặt câu hỏi cho gạch chân «vì sao» trong câu có «Thỏ thua Rùa»",
+      "answer": "Thỏ thua Rùa vì sao?",
+      "hint": "Hỏi nguyên nhân."
+    },
+    {
+      "id": "sr2_spelling_q1",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "input",
+      "question": "«ăn ... ấm» (l/no)",
+      "answer": "no",
+      "hint": "ăn no."
+    },
+    {
+      "id": "sr2_spelling_q2",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "input",
+      "question": "«... lắng» (lo/no)",
+      "answer": "lo",
+      "hint": "lo lắng."
+    },
+    {
+      "id": "sr2_spelling_q3",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "input",
+      "question": "«gánh ...» (nặng/lặng)",
+      "answer": "nặng",
+      "hint": "gánh nặng."
+    },
+    {
+      "id": "sr2_spelling_q4",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "input",
+      "question": "«... sông» (dòng/ròng)",
+      "answer": "dòng",
+      "hint": "dòng sông."
+    },
+    {
+      "id": "sr2_spelling_q5",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "input",
+      "question": "«rộng ... mông» (mê/rê)",
+      "answer": "mênh",
+      "hint": "rộng mênh mông."
+    },
+    {
+      "id": "sr2_spelling_q6",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "multiple_choice",
+      "question": "«tấp nập» viết?",
+      "choices": [
+        "tấp nập",
+        "tấp lập",
+        "tấp nạp",
+        "tấp nạt"
+      ],
+      "answer": "tấp nập",
+      "hint": "Chính tả đúng."
+    },
+    {
+      "id": "sr2_spelling_q7",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "multiple_choice",
+      "question": "«nóng nực» viết?",
+      "choices": [
+        "nóng nực",
+        "lóng nực",
+        "nóng lực",
+        "nong nực"
+      ],
+      "answer": "nóng nực",
+      "hint": "Mùa hè."
+    },
+    {
+      "id": "sr2_spelling_q8",
+      "skill": "sr2_spelling",
+      "topic": "sr2_spelling",
+      "type": "true_false",
+      "question": "«Dế Mèn» viết D, không viết Gi.",
+      "answer": "Đúng",
+      "hint": "Tên riêng nhân vật."
+    },
+    {
+      "id": "sr2_writing_q1",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "multiple_choice",
+      "question": "Bạn nói «Cảm ơn cậu nhé!» — em đáp?",
+      "choices": [
+        "Không có gì",
+        "Tớ không biết",
+        "Đi đi",
+        "Im lặng"
+      ],
+      "answer": "Không có gì",
+      "hint": "Lịch sự."
+    },
+    {
+      "id": "sr2_writing_q2",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "multiple_choice",
+      "question": "Bạn xin lỗi vì đá cầu trúng — em đáp?",
+      "choices": [
+        "Không có gì",
+        "Trả đũa",
+        "Khóc",
+        "Mắng to"
+      ],
+      "answer": "Không có gì",
+      "hint": "Tha thứ."
+    },
+    {
+      "id": "sr2_writing_q3",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "true_false",
+      "question": "Gặp lần đầu nên chào và giới thiệu tên, lớp.",
+      "answer": "Đúng",
+      "hint": "Giao tiếp lịch sự."
+    },
+    {
+      "id": "sr2_writing_q4",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "input",
+      "question": "Chào cô hàng xóm hỏi mẹ có nhà — em đáp bắt đầu «Cháu chào cô»",
+      "answer": "Cháu chào cô, mẹ cháu ở nhà ạ",
+      "hint": "Lịch sự."
+    },
+    {
+      "id": "sr2_writing_q5",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "multiple_choice",
+      "question": "Viết về trường em cần?",
+      "choices": [
+        "Tên, địa điểm, cảnh quan, tình cảm",
+        "Chỉ tên trường",
+        "Chỉ điểm số",
+        "Không cần gì"
+      ],
+      "answer": "Tên, địa điểm, cảnh quan, tình cảm",
+      "hint": "Đủ ý."
+    },
+    {
+      "id": "sr2_writing_q6",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "multiple_choice",
+      "question": "«Cảm ơn Chích Bông xinh đẹp nhé!» thuộc?",
+      "choices": [
+        "Lời cảm ơn / viết thư",
+        "Câu hỏi",
+        "Chính tả",
+        "Toán"
+      ],
+      "answer": "Lời cảm ơn / viết thư",
+      "hint": "Tập làm văn."
+    },
+    {
+      "id": "sr2_writing_q7",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "true_false",
+      "question": "Đoạn văn tả mùa thu có thể nói về trời, hoa cúc, không khí.",
+      "answer": "Đúng",
+      "hint": "Quan sát mùa."
+    },
+    {
+      "id": "sr2_writing_q8",
+      "skill": "sr2_writing",
+      "topic": "sr2_writing",
+      "type": "input",
+      "question": "Câu mở đầu giới thiệu em gái: «Em gái của em tên là ...»",
+      "answer": "Bảo Châu",
+      "hint": "VD trong đáp án; học sinh tự điền tên."
+    },
+    {
+      "id": "exam2_1_q1",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Đề 1 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_1_q2",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Đề 1 — Đọc hiểu câu 2",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_1_q3",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "multiple_choice",
+      "question": "[Đề 1] Đề 1 — Đọc hiểu câu 3",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_1_q4",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "[Đề 1] Điền l/n: «ăn ... ấm»",
+      "answer": "no",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_1_q5",
+      "skill": "exam2_1",
+      "exam": "exam2_1",
+      "type": "input",
+      "question": "[Đề 1] Điền l/n: «gánh ...»",
+      "answer": "nặng",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_2_q1",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Đề 2 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_2_q2",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Đề 2 — Đọc hiểu câu 2",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_2_q3",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "input",
+      "question": "[Đề 2] «Cô giáo đang ... bài trên lớp» (hoạt động)",
+      "answer": "giảng",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_2_q4",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] Gạch «cô ca sĩ nhỏ» — câu hỏi?",
+      "choices": [
+        "Ai là cô ca sĩ nhỏ của lớp em?",
+        "Cô làm gì?",
+        "Cô ở đâu?",
+        "Cô thế nào?"
+      ],
+      "answer": "Ai là cô ca sĩ nhỏ của lớp em?",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_2_q5",
+      "skill": "exam2_2",
+      "exam": "exam2_2",
+      "type": "multiple_choice",
+      "question": "[Đề 2] «Cặp sách» — câu hỏi cho bộ phận gạch?",
+      "choices": [
+        "Cặp sách là gì?",
+        "Ai là cặp sách?",
+        "Cặp sách làm gì?",
+        "Cặp sách ở đâu?"
+      ],
+      "answer": "Cặp sách là gì?",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_3_q1",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Đề 3 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_3_q2",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Đề 3 — Đọc hiểu câu 3",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_3_q3",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "[Đề 3] Điền hoạt động: mẹ «... gạo»",
+      "answer": "đong",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_3_q4",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "input",
+      "question": "[Đề 3] Điền hoạt động: mẹ «... cơm»",
+      "answer": "nấu",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_3_q5",
+      "skill": "exam2_3",
+      "exam": "exam2_3",
+      "type": "multiple_choice",
+      "question": "[Đề 3] Dấu phẩy trong «Hoàng Minh thích chơi bóng bàn, bóng đá» để?",
+      "choices": [
+        "Ngăn hoạt động cùng loại",
+        "Kết thúc câu",
+        "Hỏi",
+        "Cảm"
+      ],
+      "answer": "Ngăn hoạt động cùng loại",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_4_q1",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Đề 4 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_4_q2",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "multiple_choice",
+      "question": "[Đề 4] Đề 4 — Đọc hiểu câu 2",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_4_q3",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "[Đề 4] «Bệnh viện là nơi ... cho mọi người»",
+      "answer": "khám chữa bệnh",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_4_q4",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "[Đề 4] «Trường học là nơi ... của học sinh»",
+      "answer": "học tập và rèn luyện",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_4_q5",
+      "skill": "exam2_4",
+      "exam": "exam2_4",
+      "type": "input",
+      "question": "[Đề 4] «Công viên là nơi ...»",
+      "answer": "vui chơi giải trí",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_5_q1",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Đề 5 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_5_q2",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] Đề 5 — Đọc hiểu câu 2",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_5_q3",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "[Đề 5] Trong thơ «Khi em bé khóc», anh «... dành» em",
+      "answer": "dỗ",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_5_q4",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "multiple_choice",
+      "question": "[Đề 5] «Anh // dỗ dành em bé» — tách câu đúng?",
+      "choices": [
+        "Đúng",
+        "Sai",
+        "Không biết",
+        "Bỏ qua"
+      ],
+      "answer": "Đúng",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_5_q5",
+      "skill": "exam2_5",
+      "exam": "exam2_5",
+      "type": "input",
+      "question": "[Đề 5] Mẫu Ai làm gì: «Em đang ...»",
+      "answer": "học bài",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_6_q1",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] Đề 6 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_6_q2",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] Đề 6 — Đọc hiểu câu 3",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_6_q3",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "[Đề 6] «Nước biển xanh ...» (màu)",
+      "answer": "biếc",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_6_q4",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "input",
+      "question": "[Đề 6] «Sóng biển ...» (âm thanh)",
+      "answer": "ào ào",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_6_q5",
+      "skill": "exam2_6",
+      "exam": "exam2_6",
+      "type": "multiple_choice",
+      "question": "[Đề 6] «Vì gió to, sóng biển cuộn lên ào ào» — hỏi gì?",
+      "choices": [
+        "Vì sao?",
+        "Ở đâu?",
+        "Khi nào?",
+        "Ai?"
+      ],
+      "answer": "Vì sao?",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_7_q1",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Đề 7 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_7_q2",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "[Đề 7] «... sông rộng mênh mông» (d/r)",
+      "answer": "dòng",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_7_q3",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "input",
+      "question": "[Đề 7] «bứt lên phía trước» — âm cuối ưt hay ưc?",
+      "answer": "ưc",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_7_q4",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Cá gì nghe ngỡ bay cao trên trời?",
+      "choices": [
+        "Cá chuồn",
+        "Cá voi",
+        "Cá rô",
+        "Cá mập"
+      ],
+      "answer": "Cá chuồn",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_7_q5",
+      "skill": "exam2_7",
+      "exam": "exam2_7",
+      "type": "multiple_choice",
+      "question": "[Đề 7] Cá gì vượt thác hóa rồng?",
+      "choices": [
+        "Cá chép",
+        "Cá chuồn",
+        "Cá basa",
+        "Cá thu"
+      ],
+      "answer": "Cá chép",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_8_q1",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] Đề 8 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_8_q2",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "[Đề 8] «Mùa xuân, cây gạo gọi đến bao nhiêu là ...»",
+      "answer": "chim",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_8_q3",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "input",
+      "question": "[Đề 8] «Mùa đông, cây chỉ còn những cành trơ trụi, ...»",
+      "answer": "cằn cỗi",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_8_q4",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] «Mấy cây hoa giấy nở hoa tưng bừng ở đâu?» hỏi về?",
+      "choices": [
+        "Địa điểm",
+        "Thời gian",
+        "Mục đích",
+        "Nguyên nhân"
+      ],
+      "answer": "Địa điểm",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_8_q5",
+      "skill": "exam2_8",
+      "exam": "exam2_8",
+      "type": "multiple_choice",
+      "question": "[Đề 8] Gạch «Như thế nào?» — «liên miên, không dứt» trả lời?",
+      "choices": [
+        "Cách thức / mức độ",
+        "Nơi chốn",
+        "Thời gian",
+        "Mục đích"
+      ],
+      "answer": "Cách thức / mức độ",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_9_q1",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Đề 9 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_9_q2",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "[Đề 9] «Ông em trồng cây na để con cháu có ... ăn»",
+      "answer": "quả",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_9_q3",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Cây cho lương thực (lúa, ngô, khoai) gọi là?",
+      "choices": [
+        "Cây lương thực",
+        "Cây lấy gỗ",
+        "Cây công nghiệp",
+        "Cây bóng mát"
+      ],
+      "answer": "Cây lương thực",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_9_q4",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "multiple_choice",
+      "question": "[Đề 9] Cây trồng lấy gỗ (xoan, lim) gọi là?",
+      "choices": [
+        "Cây lấy gỗ",
+        "Cây hoa",
+        "Cây lương thực",
+        "Cây thuốc"
+      ],
+      "answer": "Cây lấy gỗ",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_9_q5",
+      "skill": "exam2_9",
+      "exam": "exam2_9",
+      "type": "input",
+      "question": "[Đề 9] «Mùa xuân( , ) cây gạo gọi đến bao nhiêu là chim ( . )» — dấu trong ngoặc đầu?",
+      "answer": "phẩy",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_10_q1",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Đề 10 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_10_q2",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Bộ phận đâm sâu xuống đất, hút dinh dưỡng là?",
+      "choices": [
+        "Rễ",
+        "Lá",
+        "Hoa",
+        "Quả"
+      ],
+      "answer": "Rễ",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_10_q3",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Bộ phận tạo chất nuôi cây, hình dẹt trên cành là?",
+      "choices": [
+        "Lá",
+        "Rễ",
+        "Gốc",
+        "Hoa"
+      ],
+      "answer": "Lá",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_10_q4",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Quả là bộ phận phát triển từ?",
+      "choices": [
+        "Bầu nhụy hoa",
+        "Rễ",
+        "Gốc",
+        "Đất"
+      ],
+      "answer": "Bầu nhụy hoa",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_10_q5",
+      "skill": "exam2_10",
+      "exam": "exam2_10",
+      "type": "multiple_choice",
+      "question": "[Đề 10] Bạn chúc đạt HSG — em đáp lịch sự?",
+      "choices": [
+        "Cảm ơn bạn, tớ chúc bạn cũng đạt",
+        "Im lặng",
+        "Không cần",
+        "Đi đi"
+      ],
+      "answer": "Cảm ơn bạn, tớ chúc bạn cũng đạt",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_11_q1",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Đề 11 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "C",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_11_q2",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "[Đề 11] Sửa chính tả: «Dế Mèn ... ruổi trên đường» (rong/rong)",
+      "answer": "rong",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_11_q3",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "input",
+      "question": "[Đề 11] «Bác Hồ sống rất ...» (giản dị)",
+      "answer": "giản dị",
+      "hint": "Gõ đúng chính tả."
+    },
+    {
+      "id": "exam2_11_q4",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "multiple_choice",
+      "question": "[Đề 11] Bác Hồ sáng sớm thường?",
+      "choices": [
+        "Tập thể dục, tắm rửa",
+        "Ngủ muộn",
+        "Không ra ngoài",
+        "Chỉ ăn sáng"
+      ],
+      "answer": "Tập thể dục, tắm rửa",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_11_q5",
+      "skill": "exam2_11",
+      "exam": "exam2_11",
+      "type": "true_false",
+      "question": "[Đề 11] «đáo để» trong «mỗi người một vẻ» viết đúng.",
+      "answer": "Sai",
+      "hint": "Đúng: đáo để (hay ho)."
+    },
+    {
+      "id": "exam2_12_q1",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Đề 12 — Đọc hiểu câu 1",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_12_q2",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] Đề 12 — Đọc hiểu câu 2",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_12_q3",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] «Bé chăm chỉ làm việc nhà» thuộc mẫu?",
+      "choices": [
+        "Ai làm gì?",
+        "Ai là gì?",
+        "Ai thế nào?",
+        "Câu hỏi"
+      ],
+      "answer": "Ai làm gì?",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_12_q4",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "multiple_choice",
+      "question": "[Đề 12] «Đôi mắt của bà nội» — «mờ mờ đục đục» trả lời?",
+      "choices": [
+        "Thế nào?",
+        "Là gì?",
+        "Làm gì?",
+        "Ở đâu?"
+      ],
+      "answer": "Thế nào?",
+      "hint": "Xem lại đáp án đề trong SGK ôn hè."
+    },
+    {
+      "id": "exam2_12_q5",
+      "skill": "exam2_12",
+      "exam": "exam2_12",
+      "type": "input",
+      "question": "[Đề 12] «Giọng nói của mẹ» — điền đặc điểm: «..., ấm áp»",
+      "answer": "dịu dàng",
+      "hint": "Gõ đúng chính tả."
+    }
+  ]
+}
