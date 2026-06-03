@@ -1,0 +1,10 @@
+{
+  "name": "LiteratureFlow VN",
+  "short_name": "LiteratureFlow",
+  "description": "Ứng dụng học Ngữ văn THCS — đọc hiểu, tiếng Việt, nói viết, gamification.",
+  "start_url": "./index.html#/home",
+  "display": "standalone",
+  "background_color": "#fdf8f5",
+  "theme_color": "#9b3d4a",
+  "icons": []
+}

@@ -1,0 +1,1037 @@
+{
+  "meta": {
+    "id": "summer_lit_g6_g7",
+    "packId": "g6-g7",
+    "title": "Ôn hè Ngữ văn lớp 6 → lớp 7",
+    "subtitle": "6 chủ đề tương tác + 6 đề tổng hợp",
+    "gradeFrom": 6,
+    "gradeTo": 7,
+    "source": "LiteratureFlow — ôn hè Ngữ văn THCS."
+  },
+  "topics": [
+    {
+      "id": "sr6_read",
+      "order": 1,
+      "title": "Đọc hiểu cơ bản",
+      "emoji": "📖",
+      "description": "Đọc truyện ngắn, tìm chi tiết, ý chính.",
+      "prerequisite": [],
+      "xp": 50
+    },
+    {
+      "id": "sr6_grammar",
+      "order": 2,
+      "title": "Tiếng Việt lớp 6",
+      "emoji": "✏️",
+      "description": "Danh từ, động từ, thành phần câu.",
+      "prerequisite": [
+        "sr6_read"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr6_write",
+      "order": 3,
+      "title": "Viết đoạn văn",
+      "emoji": "📝",
+      "description": "Miêu tả, kể chuyện ngắn.",
+      "prerequisite": [
+        "sr6_grammar"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr6_poetry",
+      "order": 4,
+      "title": "Thơ và vần điệu",
+      "emoji": "🎵",
+      "description": "Vần, nhịp, hình ảnh thơ.",
+      "prerequisite": [
+        "sr6_write"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr7_literary",
+      "order": 5,
+      "title": "Văn bản văn học",
+      "emoji": "📚",
+      "description": "Chủ đề, nhân vật, biện pháp tu từ.",
+      "prerequisite": [
+        "sr6_poetry"
+      ],
+      "xp": 50
+    },
+    {
+      "id": "sr7_essay",
+      "order": 6,
+      "title": "Nghị luận cơ bản",
+      "emoji": "💬",
+      "description": "Mở–thân–kết; luận điểm và dẫn chứng.",
+      "prerequisite": [
+        "sr7_literary"
+      ],
+      "xp": 50
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sr6_read",
+      "title": "Đọc hiểu cơ bản",
+      "topic": "sr6_read",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Đọc truyện ngắn, tìm chi tiết, ý chính."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    },
+    {
+      "id": "sr6_grammar",
+      "title": "Tiếng Việt lớp 6",
+      "topic": "sr6_grammar",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Danh từ, động từ, thành phần câu."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    },
+    {
+      "id": "sr6_write",
+      "title": "Viết đoạn văn",
+      "topic": "sr6_write",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Miêu tả, kể chuyện ngắn."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    },
+    {
+      "id": "sr6_poetry",
+      "title": "Thơ và vần điệu",
+      "topic": "sr6_poetry",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Vần, nhịp, hình ảnh thơ."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_literary",
+      "title": "Văn bản văn học",
+      "topic": "sr7_literary",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Chủ đề, nhân vật, biện pháp tu từ."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    },
+    {
+      "id": "sr7_essay",
+      "title": "Nghị luận cơ bản",
+      "topic": "sr7_essay",
+      "source": "LiteratureFlow",
+      "xp": 50,
+      "steps": [
+        {
+          "type": "intro",
+          "title": "Mục tiêu",
+          "content": "Mở–thân–kết; luận điểm và dẫn chứng."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ghi nhớ",
+          "content": "Nắm vững:",
+          "points": [
+            "Đọc kỹ văn bản mẫu.",
+            "Gạch chân từ khóa.",
+            "Trả lời đủ ý."
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Thử thách",
+          "content": "Luyện 5 câu để nhận sao!"
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam6_1",
+      "order": 1,
+      "title": "Đề ôn số 1",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "sr6_read"
+      ]
+    },
+    {
+      "id": "exam6_2",
+      "order": 2,
+      "title": "Đề ôn số 2",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam6_1"
+      ]
+    },
+    {
+      "id": "exam6_3",
+      "order": 3,
+      "title": "Đề ôn số 3",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam6_2"
+      ]
+    },
+    {
+      "id": "exam6_4",
+      "order": 4,
+      "title": "Đề ôn số 4",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam6_3"
+      ]
+    },
+    {
+      "id": "exam6_5",
+      "order": 5,
+      "title": "Đề ôn số 5",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam6_4"
+      ]
+    },
+    {
+      "id": "exam6_6",
+      "order": 6,
+      "title": "Đề ôn số 6",
+      "questionCount": 5,
+      "xp": 60,
+      "passScore": 4,
+      "prerequisite": [
+        "exam6_5"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sr6_read_q1",
+      "skill": "sr6_read",
+      "topic": "sr6_read",
+      "type": "multiple_choice",
+      "question": "Đọc lướt giúp?",
+      "choices": [
+        "Ghi từng chữ",
+        "Nắm ý chính",
+        "Phân tích ngữ pháp",
+        "Học thuộc"
+      ],
+      "answer": "Nắm ý chính",
+      "hint": "Cốt truyện/luận điểm chung."
+    },
+    {
+      "id": "sr6_read_q2",
+      "skill": "sr6_read",
+      "topic": "sr6_read",
+      "type": "input",
+      "question": "Truyện dân gian thường có yếu tố?",
+      "answer": "kỳ ảo",
+      "hint": "Thần thoại, phép lạ."
+    },
+    {
+      "id": "sr6_read_q3",
+      "skill": "sr6_read",
+      "topic": "sr6_read",
+      "type": "multiple_choice",
+      "question": "Chi tiết tiêu biểu là?",
+      "choices": [
+        "Chi tiết phụ",
+        "Chi tiết nổi bật ý nghĩa",
+        "Chi tiết ngẫu nhiên",
+        "Chi tiết dài"
+      ],
+      "answer": "Chi tiết nổi bật ý nghĩa",
+      "hint": "Góp phần thể hiện chủ đề."
+    },
+    {
+      "id": "sr6_read_q4",
+      "skill": "sr6_read",
+      "topic": "sr6_read",
+      "type": "true_false",
+      "question": "Nhân vật chính là người có vai trò trung tâm.",
+      "answer": "Đúng",
+      "hint": "Xuyên suốt cốt truyện."
+    },
+    {
+      "id": "sr6_read_q5",
+      "skill": "sr6_read",
+      "topic": "sr6_read",
+      "type": "input",
+      "question": "Cốt truyện gồm mấy phần? (số)",
+      "answer": "3",
+      "hint": "Mở — thân — kết."
+    },
+    {
+      "id": "sr6_grammar_q1",
+      "skill": "sr6_grammar",
+      "topic": "sr6_grammar",
+      "type": "input",
+      "question": "Chủ ngữ trả lời câu hỏi? (Ai hoac Cai gi)",
+      "answer": "Ai hoặc Cái gì",
+      "hint": "CN."
+    },
+    {
+      "id": "sr6_grammar_q2",
+      "skill": "sr6_grammar",
+      "topic": "sr6_grammar",
+      "type": "multiple_choice",
+      "question": "«Hoa hồng nở» — VN là?",
+      "choices": [
+        "Hoa hồng",
+        "nở",
+        "Hoa hồng nở",
+        "Không có"
+      ],
+      "answer": "nở",
+      "hint": "Làm gì?"
+    },
+    {
+      "id": "sr6_grammar_q3",
+      "skill": "sr6_grammar",
+      "topic": "sr6_grammar",
+      "type": "true_false",
+      "question": "Tính từ miêu tả tính chất sự vật.",
+      "answer": "Đúng",
+      "hint": "Đỏ, xanh, chăm chỉ..."
+    },
+    {
+      "id": "sr6_grammar_q4",
+      "skill": "sr6_grammar",
+      "topic": "sr6_grammar",
+      "type": "input",
+      "question": "«Rất» trong «rất đẹp» là?",
+      "answer": "trạng từ",
+      "hint": "Bổ nghĩa cho tính từ."
+    },
+    {
+      "id": "sr6_grammar_q5",
+      "skill": "sr6_grammar",
+      "topic": "sr6_grammar",
+      "type": "multiple_choice",
+      "question": "Danh từ chỉ?",
+      "choices": [
+        "Hành động",
+        "Sự vật, hiện tượng",
+        "Mức độ",
+        "Liên từ"
+      ],
+      "answer": "Sự vật, hiện tượng",
+      "hint": "Người, vật, khái niệm."
+    },
+    {
+      "id": "sr6_write_q1",
+      "skill": "sr6_write",
+      "topic": "sr6_write",
+      "type": "input",
+      "question": "Đoạn văn miêu tả thường bắt đầu bằng?",
+      "answer": "câu mở",
+      "hint": "Giới thiệu đối tượng."
+    },
+    {
+      "id": "sr6_write_q2",
+      "skill": "sr6_write",
+      "topic": "sr6_write",
+      "type": "multiple_choice",
+      "question": "Câu kết đoạn văn nên?",
+      "choices": [
+        "Mở rộng chủ đề mới",
+        "Khép lại ý",
+        "Lặp y chang mở",
+        "Không cần"
+      ],
+      "answer": "Khép lại ý",
+      "hint": "Tóm tắt cảm nghĩ."
+    },
+    {
+      "id": "sr6_write_q3",
+      "skill": "sr6_write",
+      "topic": "sr6_write",
+      "type": "true_false",
+      "question": "Từ gợi tả giúp người đọc hình dung.",
+      "answer": "Đúng",
+      "hint": "Sáng, tươi, xanh..."
+    },
+    {
+      "id": "sr6_write_q4",
+      "skill": "sr6_write",
+      "topic": "sr6_write",
+      "type": "input",
+      "question": "Kể chuyện cần sắp xếp theo?",
+      "answer": "thời gian",
+      "hint": "Trình tự hợp lý."
+    },
+    {
+      "id": "sr6_write_q5",
+      "skill": "sr6_write",
+      "topic": "sr6_write",
+      "type": "multiple_choice",
+      "question": "Đoạn văn ngắn thường?",
+      "choices": [
+        "5–10 câu",
+        "50 câu",
+        "1 từ",
+        "Không giới hạn"
+      ],
+      "answer": "5–10 câu",
+      "hint": "Đủ ý, gọn."
+    },
+    {
+      "id": "sr6_poetry_q1",
+      "skill": "sr6_poetry",
+      "topic": "sr6_poetry",
+      "type": "multiple_choice",
+      "question": "Thơ lục bát mỗi khổ?",
+      "choices": [
+        "4 câu",
+        "6 câu 8 câu xen kẽ",
+        "10 câu",
+        "2 câu"
+      ],
+      "answer": "6 câu 8 câu xen kẽ",
+      "hint": "6 chữ rồi 8 chữ."
+    },
+    {
+      "id": "sr6_poetry_q2",
+      "skill": "sr6_poetry",
+      "topic": "sr6_poetry",
+      "type": "input",
+      "question": "Vần lưng nối câu 6 và?",
+      "answer": "8",
+      "hint": "Cuối câu 8."
+    },
+    {
+      "id": "sr6_poetry_q3",
+      "skill": "sr6_poetry",
+      "topic": "sr6_poetry",
+      "type": "true_false",
+      "question": "Nhân hóa gán tính người cho sự vật.",
+      "answer": "Đúng",
+      "hint": "Tu từ cơ bản."
+    },
+    {
+      "id": "sr6_poetry_q4",
+      "skill": "sr6_poetry",
+      "topic": "sr6_poetry",
+      "type": "multiple_choice",
+      "question": "So sánh dùng từ?",
+      "choices": [
+        "như, tựa, là",
+        "và, hoặc",
+        "vì, nên",
+        "đã, đang"
+      ],
+      "answer": "như, tựa, là",
+      "hint": "So sánh."
+    },
+    {
+      "id": "sr6_poetry_q5",
+      "skill": "sr6_poetry",
+      "topic": "sr6_poetry",
+      "type": "input",
+      "question": "Đọc thuộc lòng giúp cảm nhận?",
+      "answer": "nhịp điệu",
+      "hint": "Vần luật thơ."
+    },
+    {
+      "id": "sr7_literary_q1",
+      "skill": "sr7_literary",
+      "topic": "sr7_literary",
+      "type": "input",
+      "question": "Chủ đề văn bản là?",
+      "answer": "ý chính",
+      "hint": "Ý chính tác giả muốn nói."
+    },
+    {
+      "id": "sr7_literary_q2",
+      "skill": "sr7_literary",
+      "topic": "sr7_literary",
+      "type": "multiple_choice",
+      "question": "Xung đột trong truyện?",
+      "choices": [
+        "Không cần",
+        "Mâu thuẫn thúc đẩy tình tiết",
+        "Chỉ ở mở bài",
+        "Chỉ ở kết"
+      ],
+      "answer": "Mâu thuẫn thúc đẩy tình tiết",
+      "hint": "Tạo hấp dẫn."
+    },
+    {
+      "id": "sr7_literary_q3",
+      "skill": "sr7_literary",
+      "topic": "sr7_literary",
+      "type": "true_false",
+      "question": "Tả cảnh có thể gợi tình.",
+      "answer": "Đúng",
+      "hint": "Cảnh vật phục vụ nội tâm."
+    },
+    {
+      "id": "sr7_literary_q4",
+      "skill": "sr7_literary",
+      "topic": "sr7_literary",
+      "type": "input",
+      "question": "Tác giả thể hiện thái độ qua?",
+      "answer": "lời kể và chi tiết",
+      "hint": "Ngôn ngữ, chi tiết chọn lọc."
+    },
+    {
+      "id": "sr7_literary_q5",
+      "skill": "sr7_literary",
+      "topic": "sr7_literary",
+      "type": "multiple_choice",
+      "question": "Biện pháp điệp ngữ?",
+      "choices": [
+        "Lặp từ/cấu trúc",
+        "So sánh",
+        "Nhân hóa",
+        "Ẩn dụ"
+      ],
+      "answer": "Lặp từ/cấu trúc",
+      "hint": "Nhấn mạnh."
+    },
+    {
+      "id": "sr7_essay_q1",
+      "skill": "sr7_essay",
+      "topic": "sr7_essay",
+      "type": "input",
+      "question": "Nghị luận gồm mấy phần chính?",
+      "answer": "3",
+      "hint": "Mở — thân — kết."
+    },
+    {
+      "id": "sr7_essay_q2",
+      "skill": "sr7_essay",
+      "topic": "sr7_essay",
+      "type": "multiple_choice",
+      "question": "Luận điểm là?",
+      "choices": [
+        "Câu hỏi",
+        "Ý chính bảo vệ",
+        "Trích dẫn",
+        "Tựa đề"
+      ],
+      "answer": "Ý chính bảo vệ",
+      "hint": "Thân bài triển khai."
+    },
+    {
+      "id": "sr7_essay_q3",
+      "skill": "sr7_essay",
+      "topic": "sr7_essay",
+      "type": "true_false",
+      "question": "Dẫn chứng minh họa luận điểm.",
+      "answer": "Đúng",
+      "hint": "Ví dụ, trích dẫn."
+    },
+    {
+      "id": "sr7_essay_q4",
+      "skill": "sr7_essay",
+      "topic": "sr7_essay",
+      "type": "input",
+      "question": "Mở bài nghị luận thường?",
+      "answer": "giới thiệu vấn đề",
+      "hint": "Nêu vấn đề bàn."
+    },
+    {
+      "id": "sr7_essay_q5",
+      "skill": "sr7_essay",
+      "topic": "sr7_essay",
+      "type": "multiple_choice",
+      "question": "Kết bài nên?",
+      "choices": [
+        "Mở chủ đề mới",
+        "Khẳng định lại luận điểm",
+        "Bỏ qua",
+        "Chép mở bài"
+      ],
+      "answer": "Khẳng định lại luận điểm",
+      "hint": "Chốt ý."
+    },
+    {
+      "id": "exam6_1_q1",
+      "skill": "exam6_1",
+      "topic": "sr6_read",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Đọc lướt giúp?",
+      "choices": [
+        "Ghi từng chữ",
+        "Nắm ý chính",
+        "Phân tích ngữ pháp",
+        "Học thuộc"
+      ],
+      "answer": "Nắm ý chính",
+      "hint": "Cốt truyện/luận điểm chung.",
+      "exam": "exam6_1"
+    },
+    {
+      "id": "exam6_1_q2",
+      "skill": "exam6_1",
+      "topic": "sr6_read",
+      "type": "input",
+      "question": "Đề 1 — Truyện dân gian thường có yếu tố?",
+      "answer": "kỳ ảo",
+      "hint": "Thần thoại, phép lạ.",
+      "exam": "exam6_1"
+    },
+    {
+      "id": "exam6_1_q3",
+      "skill": "exam6_1",
+      "topic": "sr6_read",
+      "type": "multiple_choice",
+      "question": "Đề 1 — Chi tiết tiêu biểu là?",
+      "choices": [
+        "Chi tiết phụ",
+        "Chi tiết nổi bật ý nghĩa",
+        "Chi tiết ngẫu nhiên",
+        "Chi tiết dài"
+      ],
+      "answer": "Chi tiết nổi bật ý nghĩa",
+      "hint": "Góp phần thể hiện chủ đề.",
+      "exam": "exam6_1"
+    },
+    {
+      "id": "exam6_1_q4",
+      "skill": "exam6_1",
+      "topic": "sr6_read",
+      "type": "true_false",
+      "question": "Đề 1 — Nhân vật chính là người có vai trò trung tâm.",
+      "answer": "Đúng",
+      "hint": "Xuyên suốt cốt truyện.",
+      "exam": "exam6_1"
+    },
+    {
+      "id": "exam6_1_q5",
+      "skill": "exam6_1",
+      "topic": "sr6_read",
+      "type": "input",
+      "question": "Đề 1 — Cốt truyện gồm mấy phần? (số)",
+      "answer": "3",
+      "hint": "Mở — thân — kết.",
+      "exam": "exam6_1"
+    },
+    {
+      "id": "exam6_2_q1",
+      "skill": "exam6_2",
+      "topic": "sr6_grammar",
+      "type": "input",
+      "question": "Đề 2 — Chủ ngữ trả lời câu hỏi? (Ai hoac Cai gi)",
+      "answer": "Ai hoặc Cái gì",
+      "hint": "CN.",
+      "exam": "exam6_2"
+    },
+    {
+      "id": "exam6_2_q2",
+      "skill": "exam6_2",
+      "topic": "sr6_grammar",
+      "type": "multiple_choice",
+      "question": "Đề 2 — «Hoa hồng nở» — VN là?",
+      "choices": [
+        "Hoa hồng",
+        "nở",
+        "Hoa hồng nở",
+        "Không có"
+      ],
+      "answer": "nở",
+      "hint": "Làm gì?",
+      "exam": "exam6_2"
+    },
+    {
+      "id": "exam6_2_q3",
+      "skill": "exam6_2",
+      "topic": "sr6_grammar",
+      "type": "true_false",
+      "question": "Đề 2 — Tính từ miêu tả tính chất sự vật.",
+      "answer": "Đúng",
+      "hint": "Đỏ, xanh, chăm chỉ...",
+      "exam": "exam6_2"
+    },
+    {
+      "id": "exam6_2_q4",
+      "skill": "exam6_2",
+      "topic": "sr6_grammar",
+      "type": "input",
+      "question": "Đề 2 — «Rất» trong «rất đẹp» là?",
+      "answer": "trạng từ",
+      "hint": "Bổ nghĩa cho tính từ.",
+      "exam": "exam6_2"
+    },
+    {
+      "id": "exam6_2_q5",
+      "skill": "exam6_2",
+      "topic": "sr6_grammar",
+      "type": "multiple_choice",
+      "question": "Đề 2 — Danh từ chỉ?",
+      "choices": [
+        "Hành động",
+        "Sự vật, hiện tượng",
+        "Mức độ",
+        "Liên từ"
+      ],
+      "answer": "Sự vật, hiện tượng",
+      "hint": "Người, vật, khái niệm.",
+      "exam": "exam6_2"
+    },
+    {
+      "id": "exam6_3_q1",
+      "skill": "exam6_3",
+      "topic": "sr6_write",
+      "type": "input",
+      "question": "Đề 3 — Đoạn văn miêu tả thường bắt đầu bằng?",
+      "answer": "câu mở",
+      "hint": "Giới thiệu đối tượng.",
+      "exam": "exam6_3"
+    },
+    {
+      "id": "exam6_3_q2",
+      "skill": "exam6_3",
+      "topic": "sr6_write",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Câu kết đoạn văn nên?",
+      "choices": [
+        "Mở rộng chủ đề mới",
+        "Khép lại ý",
+        "Lặp y chang mở",
+        "Không cần"
+      ],
+      "answer": "Khép lại ý",
+      "hint": "Tóm tắt cảm nghĩ.",
+      "exam": "exam6_3"
+    },
+    {
+      "id": "exam6_3_q3",
+      "skill": "exam6_3",
+      "topic": "sr6_write",
+      "type": "true_false",
+      "question": "Đề 3 — Từ gợi tả giúp người đọc hình dung.",
+      "answer": "Đúng",
+      "hint": "Sáng, tươi, xanh...",
+      "exam": "exam6_3"
+    },
+    {
+      "id": "exam6_3_q4",
+      "skill": "exam6_3",
+      "topic": "sr6_write",
+      "type": "input",
+      "question": "Đề 3 — Kể chuyện cần sắp xếp theo?",
+      "answer": "thời gian",
+      "hint": "Trình tự hợp lý.",
+      "exam": "exam6_3"
+    },
+    {
+      "id": "exam6_3_q5",
+      "skill": "exam6_3",
+      "topic": "sr6_write",
+      "type": "multiple_choice",
+      "question": "Đề 3 — Đoạn văn ngắn thường?",
+      "choices": [
+        "5–10 câu",
+        "50 câu",
+        "1 từ",
+        "Không giới hạn"
+      ],
+      "answer": "5–10 câu",
+      "hint": "Đủ ý, gọn.",
+      "exam": "exam6_3"
+    },
+    {
+      "id": "exam6_4_q1",
+      "skill": "exam6_4",
+      "topic": "sr6_poetry",
+      "type": "multiple_choice",
+      "question": "Đề 4 — Thơ lục bát mỗi khổ?",
+      "choices": [
+        "4 câu",
+        "6 câu 8 câu xen kẽ",
+        "10 câu",
+        "2 câu"
+      ],
+      "answer": "6 câu 8 câu xen kẽ",
+      "hint": "6 chữ rồi 8 chữ.",
+      "exam": "exam6_4"
+    },
+    {
+      "id": "exam6_4_q2",
+      "skill": "exam6_4",
+      "topic": "sr6_poetry",
+      "type": "input",
+      "question": "Đề 4 — Vần lưng nối câu 6 và?",
+      "answer": "8",
+      "hint": "Cuối câu 8.",
+      "exam": "exam6_4"
+    },
+    {
+      "id": "exam6_4_q3",
+      "skill": "exam6_4",
+      "topic": "sr6_poetry",
+      "type": "true_false",
+      "question": "Đề 4 — Nhân hóa gán tính người cho sự vật.",
+      "answer": "Đúng",
+      "hint": "Tu từ cơ bản.",
+      "exam": "exam6_4"
+    },
+    {
+      "id": "exam6_4_q4",
+      "skill": "exam6_4",
+      "topic": "sr6_poetry",
+      "type": "multiple_choice",
+      "question": "Đề 4 — So sánh dùng từ?",
+      "choices": [
+        "như, tựa, là",
+        "và, hoặc",
+        "vì, nên",
+        "đã, đang"
+      ],
+      "answer": "như, tựa, là",
+      "hint": "So sánh.",
+      "exam": "exam6_4"
+    },
+    {
+      "id": "exam6_4_q5",
+      "skill": "exam6_4",
+      "topic": "sr6_poetry",
+      "type": "input",
+      "question": "Đề 4 — Đọc thuộc lòng giúp cảm nhận?",
+      "answer": "nhịp điệu",
+      "hint": "Vần luật thơ.",
+      "exam": "exam6_4"
+    },
+    {
+      "id": "exam6_5_q1",
+      "skill": "exam6_5",
+      "topic": "sr7_literary",
+      "type": "input",
+      "question": "Đề 5 — Chủ đề văn bản là?",
+      "answer": "ý chính",
+      "hint": "Ý chính tác giả muốn nói.",
+      "exam": "exam6_5"
+    },
+    {
+      "id": "exam6_5_q2",
+      "skill": "exam6_5",
+      "topic": "sr7_literary",
+      "type": "multiple_choice",
+      "question": "Đề 5 — Xung đột trong truyện?",
+      "choices": [
+        "Không cần",
+        "Mâu thuẫn thúc đẩy tình tiết",
+        "Chỉ ở mở bài",
+        "Chỉ ở kết"
+      ],
+      "answer": "Mâu thuẫn thúc đẩy tình tiết",
+      "hint": "Tạo hấp dẫn.",
+      "exam": "exam6_5"
+    },
+    {
+      "id": "exam6_5_q3",
+      "skill": "exam6_5",
+      "topic": "sr7_literary",
+      "type": "true_false",
+      "question": "Đề 5 — Tả cảnh có thể gợi tình.",
+      "answer": "Đúng",
+      "hint": "Cảnh vật phục vụ nội tâm.",
+      "exam": "exam6_5"
+    },
+    {
+      "id": "exam6_5_q4",
+      "skill": "exam6_5",
+      "topic": "sr7_literary",
+      "type": "input",
+      "question": "Đề 5 — Tác giả thể hiện thái độ qua?",
+      "answer": "lời kể và chi tiết",
+      "hint": "Ngôn ngữ, chi tiết chọn lọc.",
+      "exam": "exam6_5"
+    },
+    {
+      "id": "exam6_5_q5",
+      "skill": "exam6_5",
+      "topic": "sr7_literary",
+      "type": "multiple_choice",
+      "question": "Đề 5 — Biện pháp điệp ngữ?",
+      "choices": [
+        "Lặp từ/cấu trúc",
+        "So sánh",
+        "Nhân hóa",
+        "Ẩn dụ"
+      ],
+      "answer": "Lặp từ/cấu trúc",
+      "hint": "Nhấn mạnh.",
+      "exam": "exam6_5"
+    },
+    {
+      "id": "exam6_6_q1",
+      "skill": "exam6_6",
+      "topic": "sr7_essay",
+      "type": "input",
+      "question": "Đề 6 — Nghị luận gồm mấy phần chính?",
+      "answer": "3",
+      "hint": "Mở — thân — kết.",
+      "exam": "exam6_6"
+    },
+    {
+      "id": "exam6_6_q2",
+      "skill": "exam6_6",
+      "topic": "sr7_essay",
+      "type": "multiple_choice",
+      "question": "Đề 6 — Luận điểm là?",
+      "choices": [
+        "Câu hỏi",
+        "Ý chính bảo vệ",
+        "Trích dẫn",
+        "Tựa đề"
+      ],
+      "answer": "Ý chính bảo vệ",
+      "hint": "Thân bài triển khai.",
+      "exam": "exam6_6"
+    },
+    {
+      "id": "exam6_6_q3",
+      "skill": "exam6_6",
+      "topic": "sr7_essay",
+      "type": "true_false",
+      "question": "Đề 6 — Dẫn chứng minh họa luận điểm.",
+      "answer": "Đúng",
+      "hint": "Ví dụ, trích dẫn.",
+      "exam": "exam6_6"
+    },
+    {
+      "id": "exam6_6_q4",
+      "skill": "exam6_6",
+      "topic": "sr7_essay",
+      "type": "input",
+      "question": "Đề 6 — Mở bài nghị luận thường?",
+      "answer": "giới thiệu vấn đề",
+      "hint": "Nêu vấn đề bàn.",
+      "exam": "exam6_6"
+    },
+    {
+      "id": "exam6_6_q5",
+      "skill": "exam6_6",
+      "topic": "sr7_essay",
+      "type": "multiple_choice",
+      "question": "Đề 6 — Kết bài nên?",
+      "choices": [
+        "Mở chủ đề mới",
+        "Khẳng định lại luận điểm",
+        "Bỏ qua",
+        "Chép mở bài"
+      ],
+      "answer": "Khẳng định lại luận điểm",
+      "hint": "Chốt ý.",
+      "exam": "exam6_6"
+    }
+  ]
+}

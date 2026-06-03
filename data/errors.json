@@ -1,0 +1,4223 @@
+[
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b01",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại A, a và đọc mẫu: a, bà, cá.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b01"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b02",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại B, b · dấu huyền và đọc mẫu: b, bé, bè.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b02"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b03",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại C, c · dấu sắc và đọc mẫu: c, cá, cò.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b03"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b04",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại E, e · Ê, ê và đọc mẫu: e, bé, ê.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b05"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b06",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại O, o · dấu hỏi và đọc mẫu: o, bò, cỏ.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b06"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b07",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Ô, ô · dấu nặng và đọc mẫu: ô, cô, mồ.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b07"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b08",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại D, d · Đ, đ và đọc mẫu: d, đ, da, đa.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b08"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b09",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Ơ, ơ và đọc mẫu: ơ, bơ, cờ.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b10"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b11",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại I, i · K, k và đọc mẫu: i, ki, bi.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b11"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b12",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại H, h · L, l và đọc mẫu: h, l, la, lo.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b12"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b13",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại U, u · Ư, ư và đọc mẫu: u, ư, cu, cư.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b13"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b14",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Ch, ch · Kh, kh và đọc mẫu: ch, kh, cha, khe.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b15"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b16",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại M, m · N, n và đọc mẫu: m, n, me, ne.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b16"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b17",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại G, g · Gi, gi và đọc mẫu: g, gi, ga, già.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b17"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b18",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Gh, gh · Nh, nh và đọc mẫu: gh, nh, ghe, nho.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b18"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b19",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Ng, ng · Ngh, ngh và đọc mẫu: ng, ngh, nghe, nghé.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b20"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b21",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại R, r · S, s và đọc mẫu: r, s, ra, sa.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b21"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b22",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại T, t · Tr, tr và đọc mẫu: t, tr, ta, tre.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b22"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b23",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Th, th · ia và đọc mẫu: th, tha, tia.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b23"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b24",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ua · ưa và đọc mẫu: mua, mưa.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b25"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b26",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Ph, ph · Qu, qu và đọc mẫu: ph, qu, pho, qua.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b26"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b27",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại V, v · X, x và đọc mẫu: v, x, ve, xe.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b27"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b28",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Y, y và đọc mẫu: y, ya, y tá.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b28"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b29",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại Luyện tập chính tả và đọc mẫu: viết đúng chữ đã học.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b30"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b31",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại an · ăn · ân và đọc mẫu: ban, băn, bân.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b31"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b32",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại on · ôn · ơn và đọc mẫu: con, côn, cơn.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b32"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b33",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại en · ên · in · un và đọc mẫu: sen, sên, sin, sun.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b33"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b34",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại am · ăm · âm và đọc mẫu: cam, cắm, câm.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b34"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b35",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b35"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b36",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại om · ôm · ơm và đọc mẫu: com, côm, cơm.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b36"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b37",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại em · êm · im · um và đọc mẫu: tem, têm, tim, tum.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b37"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b38",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ai · ay · ây và đọc mẫu: bai, bay, bây.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b38"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b39",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại oi · ôi · ơi và đọc mẫu: boi, bôi, bơi.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b39"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b40",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b40"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b41",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ui · ưi và đọc mẫu: bui, bưi.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b41"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b42",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ao · eo và đọc mẫu: bao, beo.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b42"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b43",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại au · âu · êu và đọc mẫu: bau, bâu, bêu.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b43"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b44",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại iu · ưu và đọc mẫu: biu, bưu.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b44"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b45",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b45"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b46",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ac · ăc · âc và đọc mẫu: bac, bắc, bâc.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b46"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b47",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại oc · ôc · uc · ưc và đọc mẫu: boc, bộc, buc.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b47"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b48",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại at · ăt · ât và đọc mẫu: bat, băt, bât.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b48"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b49",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ot · ôt · ơt và đọc mẫu: bot, bôt, bơt.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b49"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b50",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b50"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b51",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại et · êt · it và đọc mẫu: bet, bêt, bit.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b51"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b52",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ut · ưt và đọc mẫu: but, bưt.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b52"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b53",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ap · ăp · âp và đọc mẫu: bap, bắp, bâp.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b53"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b54",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại op · ôp · ơp và đọc mẫu: bop, bộp, bơp.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b54"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b55",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b55"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b56",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ep · êp · ip · up và đọc mẫu: bep, bêp, bip.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b56"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b57",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại anh · ênh · inh và đọc mẫu: banh, bênh, binh.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b57"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b58",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ach · êch · ich và đọc mẫu: bach, bêch, bich.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b58"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b59",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ang · ăng · âng và đọc mẫu: bang, băng, bâng.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b59"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b60",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b60"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b61",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ong · ông · ung · ưng và đọc mẫu: bong, bông, bung.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b61"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b62",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại iêc · iên · iêp và đọc mẫu: biêc, biên, biêp.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b62"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b63",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại iêng · iêm · yên và đọc mẫu: biêng, biêm, yên.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b63"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b64",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại iêt · iêu · yêu và đọc mẫu: biêt, biêu, yêu.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b64"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b65",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b65"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b66",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại uôi · uôm và đọc mẫu: buôi, buôm.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b66"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b67",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại uôc · uôt và đọc mẫu: buôc, buôt.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b67"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b68",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại uôn · uông và đọc mẫu: buôn, buông.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b68"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b69",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ươi · ươu và đọc mẫu: bươi, bươu.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b69"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b70",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b70"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b71",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ươc · ươt và đọc mẫu: bươc, bươt.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b71"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b72",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ươm · ươp và đọc mẫu: bươm, bươp.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b72"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b73",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại ươn · ương và đọc mẫu: bươn, bương.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b73"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b74",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại oa · oe và đọc mẫu: hoa, loe.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b74"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b75",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b75"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b76",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại oan · oăn · oat · oăt và đọc mẫu: hoan, hoăn.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b76"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b77",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại oai · uê · uy và đọc mẫu: hoai, huê, huy.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b77"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b78",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại uân · uât và đọc mẫu: huân, huât.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b78"
+  },
+  {
+    "pattern": "sai am van",
+    "skill": "lv1_b79",
+    "errorType": "phonics_confusion",
+    "title": "Nhầm âm hoặc vần",
+    "message": "Hãy ôn lại uyên · uyêt và đọc mẫu: huyên, huyêt.",
+    "hint": "Đánh vần chậm: ghép âm → tiếng → từ.",
+    "recommendation": "lv1_b79"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b80",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b80"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b81",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b81"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b82",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b82"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b83",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b83"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_b84",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_b84"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_friends_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_friends_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_family_b7",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_family_b7"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_school_b7",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_school_b7"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_skills_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_skills_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_life_lessons_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_life_lessons_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_nature_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_nature_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b7",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b7"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_world_b8",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_world_b8"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b5",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b5"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b6",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b6"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_t2_country_b7",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_t2_country_b7"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_final_b1",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_final_b1"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_final_b2",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_final_b2"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_final_b3",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_final_b3"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv1_final_b4",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv1_final_b4"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_grow_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_grow_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_school_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_school_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_review_mid1_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_review_mid1_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_childhood_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_childhood_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b31",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b31"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_family_b32",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_family_b32"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t1_review_end1_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t1_review_end1_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_beauty_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_beauty_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_green_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_green_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_review_mid2_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_review_mid2_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_connect_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_connect_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_connect_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_connect_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_connect_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_connect_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_connect_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_connect_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_vietnam_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_vietnam_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_vietnam_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_vietnam_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_vietnam_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_vietnam_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_vietnam_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_vietnam_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_homeland_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_homeland_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv2_g2_t2_review_end2_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv2_g2_t2_review_end2_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_exp_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_exp_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_school_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_school_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_family_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_family_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b31",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b31"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_community_b32",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_community_b32"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t1_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t1_review_end_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nature_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nature_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_life_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_life_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_nation_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_nation_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_earth_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_earth_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv3_g3_t2_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv3_g3_t2_review_end_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_unique_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_unique_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_explore_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_explore_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_creative_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_creative_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b31",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b31"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_dream_b32",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_dream_b32"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t1_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t1_review_end_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_love_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_love_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_gratitude_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_gratitude_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_hometown_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_hometown_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_peace_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_peace_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv4_g4_t2_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv4_g4_t2_review_end_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_childhood_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_childhood_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_nature_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_nature_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_study_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_study_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b31",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b31"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_art_b32",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_art_b32"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t1_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t1_review_end_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b02",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b02"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b03",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b03"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b04",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b04"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b05",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b05"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b06",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b06"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b07",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b07"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_life_b08",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_life_b08"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b09",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b09"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b10",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b10"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b11",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b11"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b12",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b12"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b13",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b13"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b14",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b14"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b15",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b15"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_regions_b16",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_regions_b16"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_review_mid_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_review_mid_b01"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b17",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b17"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b18",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b18"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b19",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b19"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b20",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b20"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b21",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b21"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b22",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b22"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b23",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b23"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_heritage_b24",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_heritage_b24"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b25",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b25"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b26",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b26"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b27",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b27"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b28",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b28"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b29",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b29"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_world_b30",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_world_b30"
+  },
+  {
+    "pattern": "doc nham",
+    "skill": "lv5_g5_t2_review_end_b01",
+    "errorType": "reading_detail",
+    "title": "Đọc chưa kỹ chi tiết",
+    "message": "Đọc lại bài trong SGK và tìm câu chứa thông tin cần trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi.",
+    "recommendation": "lv5_g5_t2_review_end_b01"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_folktale",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_folktale"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_folktale",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_folktale"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_narrative",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_narrative"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_narrative",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_narrative"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_noun",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_noun"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_noun",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_noun"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_verb",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_verb"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_verb",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_verb"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_vocab",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_vocab"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_vocab",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_vocab"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_poetry",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_poetry"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_poetry",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_poetry"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_describe",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_describe"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_describe",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_describe"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv6_speak",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv6_speak"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv6_speak",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv6_speak"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_literary",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_literary"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_literary",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_literary"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_expository",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_expository"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_expository",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_expository"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_sentence",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_sentence"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_sentence",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_sentence"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_compound",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_compound"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_compound",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_compound"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_figures",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_figures"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_figures",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_figures"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_narrative_write",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_narrative_write"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_narrative_write",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_narrative_write"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_express",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_express"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_express",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_express"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv7_debate",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv7_debate"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv7_debate",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv7_debate"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_novel_excerpt",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_novel_excerpt"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_novel_excerpt",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_novel_excerpt"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_essay",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_essay"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_essay",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_essay"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_complex",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_complex"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_complex",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_complex"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_style",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_style"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_style",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_style"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_poetry_analysis",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_poetry_analysis"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_poetry_analysis",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_poetry_analysis"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_argument",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_argument"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_argument",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_argument"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_report",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_report"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_report",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_report"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv8_media",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv8_media"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv8_media",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv8_media"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_classics",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_classics"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_classics",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_classics"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_social",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_social"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_social",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_social"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_rhetoric",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_rhetoric"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_rhetoric",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_rhetoric"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_grammar_adv",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_grammar_adv"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_grammar_adv",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_grammar_adv"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_literary_genre",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_literary_genre"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_literary_genre",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_literary_genre"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_essay_full",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_essay_full"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_essay_full",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_essay_full"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_creative",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_creative"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_creative",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_creative"
+  },
+  {
+    "pattern": "khong biet",
+    "skill": "lv9_exam_prep",
+    "errorType": "reading_skim",
+    "title": "Đọc lướt qua chi tiết quan trọng",
+    "message": "Cần đọc lại đoạn chứa thông tin then chốt trước khi trả lời.",
+    "hint": "Gạch chân từ khóa trong câu hỏi, tìm đoạn tương ứng.",
+    "recommendation": "lv9_exam_prep"
+  },
+  {
+    "pattern": "sai ngu phap",
+    "skill": "lv9_exam_prep",
+    "errorType": "grammar_confusion",
+    "title": "Nhầm thành phần câu",
+    "message": "Hãy xác định chủ ngữ (Ai? Cái gì?) và vị ngữ (Làm gì? Thế nào?) trước.",
+    "hint": "Đặt câu hỏi cho từng bộ phận.",
+    "recommendation": "lv9_exam_prep"
+  }
+]
