@@ -737,6 +737,7 @@ async function main() {
   const lessons = skills.map((s) => ({
     id: s.id,
     skill: s.id,
+    title: s.title,
     xp: 50,
     steps: lessonSteps(s)
   }));

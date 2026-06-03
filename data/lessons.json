@@ -2,6 +2,7 @@
   {
     "id": "lv1_b01",
     "skill": "lv1_b01",
+    "title": "Bài 1. A, a",
     "xp": 50,
     "steps": [
       {
@@ -40,6 +41,7 @@
   {
     "id": "lv1_b02",
     "skill": "lv1_b02",
+    "title": "Bài 2. B, b · dấu huyền",
     "xp": 50,
     "steps": [
       {
@@ -78,6 +80,7 @@
   {
     "id": "lv1_b03",
     "skill": "lv1_b03",
+    "title": "Bài 3. C, c · dấu sắc",
     "xp": 50,
     "steps": [
       {
@@ -116,6 +119,7 @@
   {
     "id": "lv1_b04",
     "skill": "lv1_b04",
+    "title": "Bài 4. E, e · Ê, ê",
     "xp": 50,
     "steps": [
       {
@@ -154,6 +158,7 @@
   {
     "id": "lv1_b05",
     "skill": "lv1_b05",
+    "title": "Bài 5. Ôn tập và kể chuyện: Búp bê và dế mèn",
     "xp": 50,
     "steps": [
       {
@@ -192,6 +197,7 @@
   {
     "id": "lv1_b06",
     "skill": "lv1_b06",
+    "title": "Bài 6. O, o · dấu hỏi",
     "xp": 50,
     "steps": [
       {
@@ -230,6 +236,7 @@
   {
     "id": "lv1_b07",
     "skill": "lv1_b07",
+    "title": "Bài 7. Ô, ô · dấu nặng",
     "xp": 50,
     "steps": [
       {
@@ -268,6 +275,7 @@
   {
     "id": "lv1_b08",
     "skill": "lv1_b08",
+    "title": "Bài 8. D, d · Đ, đ",
     "xp": 50,
     "steps": [
       {
@@ -306,6 +314,7 @@
   {
     "id": "lv1_b09",
     "skill": "lv1_b09",
+    "title": "Bài 9. Ơ, ơ",
     "xp": 50,
     "steps": [
       {
@@ -344,6 +353,7 @@
   {
     "id": "lv1_b10",
     "skill": "lv1_b10",
+    "title": "Bài 10. Ôn tập và kể chuyện: Đàn kiến con ngoan ngoãn",
     "xp": 50,
     "steps": [
       {
@@ -382,6 +392,7 @@
   {
     "id": "lv1_b11",
     "skill": "lv1_b11",
+    "title": "Bài 11. I, i · K, k",
     "xp": 50,
     "steps": [
       {
@@ -420,6 +431,7 @@
   {
     "id": "lv1_b12",
     "skill": "lv1_b12",
+    "title": "Bài 12. H, h · L, l",
     "xp": 50,
     "steps": [
       {
@@ -458,6 +470,7 @@
   {
     "id": "lv1_b13",
     "skill": "lv1_b13",
+    "title": "Bài 13. U, u · Ư, ư",
     "xp": 50,
     "steps": [
       {
@@ -496,6 +509,7 @@
   {
     "id": "lv1_b14",
     "skill": "lv1_b14",
+    "title": "Bài 14. Ch, ch · Kh, kh",
     "xp": 50,
     "steps": [
       {
@@ -534,6 +548,7 @@
   {
     "id": "lv1_b15",
     "skill": "lv1_b15",
+    "title": "Bài 15. Ôn tập và kể chuyện: Con quạ thông minh",
     "xp": 50,
     "steps": [
       {
@@ -572,6 +587,7 @@
   {
     "id": "lv1_b16",
     "skill": "lv1_b16",
+    "title": "Bài 16. M, m · N, n",
     "xp": 50,
     "steps": [
       {
@@ -610,6 +626,7 @@
   {
     "id": "lv1_b17",
     "skill": "lv1_b17",
+    "title": "Bài 17. G, g · Gi, gi",
     "xp": 50,
     "steps": [
       {
@@ -648,6 +665,7 @@
   {
     "id": "lv1_b18",
     "skill": "lv1_b18",
+    "title": "Bài 18. Gh, gh · Nh, nh",
     "xp": 50,
     "steps": [
       {
@@ -686,6 +704,7 @@
   {
     "id": "lv1_b19",
     "skill": "lv1_b19",
+    "title": "Bài 19. Ng, ng · Ngh, ngh",
     "xp": 50,
     "steps": [
       {
@@ -724,6 +743,7 @@
   {
     "id": "lv1_b20",
     "skill": "lv1_b20",
+    "title": "Bài 20. Ôn tập và kể chuyện: Cô chủ không biết quý tình bạn",
     "xp": 50,
     "steps": [
       {
@@ -762,6 +782,7 @@
   {
     "id": "lv1_b21",
     "skill": "lv1_b21",
+    "title": "Bài 21. R, r · S, s",
     "xp": 50,
     "steps": [
       {
@@ -800,6 +821,7 @@
   {
     "id": "lv1_b22",
     "skill": "lv1_b22",
+    "title": "Bài 22. T, t · Tr, tr",
     "xp": 50,
     "steps": [
       {
@@ -838,6 +860,7 @@
   {
     "id": "lv1_b23",
     "skill": "lv1_b23",
+    "title": "Bài 23. Th, th · ia",
     "xp": 50,
     "steps": [
       {
@@ -876,6 +899,7 @@
   {
     "id": "lv1_b24",
     "skill": "lv1_b24",
+    "title": "Bài 24. ua · ưa",
     "xp": 50,
     "steps": [
       {
@@ -914,6 +938,7 @@
   {
     "id": "lv1_b25",
     "skill": "lv1_b25",
+    "title": "Bài 25. Ôn tập và kể chuyện: Chó sói và cừu non",
     "xp": 50,
     "steps": [
       {
@@ -952,6 +977,7 @@
   {
     "id": "lv1_b26",
     "skill": "lv1_b26",
+    "title": "Bài 26. Ph, ph · Qu, qu",
     "xp": 50,
     "steps": [
       {
@@ -990,6 +1016,7 @@
   {
     "id": "lv1_b27",
     "skill": "lv1_b27",
+    "title": "Bài 27. V, v · X, x",
     "xp": 50,
     "steps": [
       {
@@ -1028,6 +1055,7 @@
   {
     "id": "lv1_b28",
     "skill": "lv1_b28",
+    "title": "Bài 28. Y, y",
     "xp": 50,
     "steps": [
       {
@@ -1066,6 +1094,7 @@
   {
     "id": "lv1_b29",
     "skill": "lv1_b29",
+    "title": "Bài 29. Luyện tập chính tả",
     "xp": 50,
     "steps": [
       {
@@ -1104,6 +1133,7 @@
   {
     "id": "lv1_b30",
     "skill": "lv1_b30",
+    "title": "Bài 30. Ôn tập và kể chuyện: Kiến và dế mèn",
     "xp": 50,
     "steps": [
       {
@@ -1142,6 +1172,7 @@
   {
     "id": "lv1_b31",
     "skill": "lv1_b31",
+    "title": "Bài 31. an · ăn · ân",
     "xp": 50,
     "steps": [
       {
@@ -1180,6 +1211,7 @@
   {
     "id": "lv1_b32",
     "skill": "lv1_b32",
+    "title": "Bài 32. on · ôn · ơn",
     "xp": 50,
     "steps": [
       {
@@ -1218,6 +1250,7 @@
   {
     "id": "lv1_b33",
     "skill": "lv1_b33",
+    "title": "Bài 33. en · ên · in · un",
     "xp": 50,
     "steps": [
       {
@@ -1256,6 +1289,7 @@
   {
     "id": "lv1_b34",
     "skill": "lv1_b34",
+    "title": "Bài 34. am · ăm · âm",
     "xp": 50,
     "steps": [
       {
@@ -1294,6 +1328,7 @@
   {
     "id": "lv1_b35",
     "skill": "lv1_b35",
+    "title": "Bài 35. Ôn tập và kể chuyện: Gà nâu và vịt xám",
     "xp": 50,
     "steps": [
       {
@@ -1332,6 +1367,7 @@
   {
     "id": "lv1_b36",
     "skill": "lv1_b36",
+    "title": "Bài 36. om · ôm · ơm",
     "xp": 50,
     "steps": [
       {
@@ -1370,6 +1406,7 @@
   {
     "id": "lv1_b37",
     "skill": "lv1_b37",
+    "title": "Bài 37. em · êm · im · um",
     "xp": 50,
     "steps": [
       {
@@ -1408,6 +1445,7 @@
   {
     "id": "lv1_b38",
     "skill": "lv1_b38",
+    "title": "Bài 38. ai · ay · ây",
     "xp": 50,
     "steps": [
       {
@@ -1446,6 +1484,7 @@
   {
     "id": "lv1_b39",
     "skill": "lv1_b39",
+    "title": "Bài 39. oi · ôi · ơi",
     "xp": 50,
     "steps": [
       {
@@ -1484,6 +1523,7 @@
   {
     "id": "lv1_b40",
     "skill": "lv1_b40",
+    "title": "Bài 40. Ôn tập và kể chuyện: Hai người bạn và con gấu",
     "xp": 50,
     "steps": [
       {
@@ -1522,6 +1562,7 @@
   {
     "id": "lv1_b41",
     "skill": "lv1_b41",
+    "title": "Bài 41. ui · ưi",
     "xp": 50,
     "steps": [
       {
@@ -1560,6 +1601,7 @@
   {
     "id": "lv1_b42",
     "skill": "lv1_b42",
+    "title": "Bài 42. ao · eo",
     "xp": 50,
     "steps": [
       {
@@ -1598,6 +1640,7 @@
   {
     "id": "lv1_b43",
     "skill": "lv1_b43",
+    "title": "Bài 43. au · âu · êu",
     "xp": 50,
     "steps": [
       {
@@ -1636,6 +1679,7 @@
   {
     "id": "lv1_b44",
     "skill": "lv1_b44",
+    "title": "Bài 44. iu · ưu",
     "xp": 50,
     "steps": [
       {
@@ -1674,6 +1718,7 @@
   {
     "id": "lv1_b45",
     "skill": "lv1_b45",
+    "title": "Bài 45. Ôn tập và kể chuyện: Sự tích hoa cúc trắng",
     "xp": 50,
     "steps": [
       {
@@ -1712,6 +1757,7 @@
   {
     "id": "lv1_b46",
     "skill": "lv1_b46",
+    "title": "Bài 46. ac · ăc · âc",
     "xp": 50,
     "steps": [
       {
@@ -1750,6 +1796,7 @@
   {
     "id": "lv1_b47",
     "skill": "lv1_b47",
+    "title": "Bài 47. oc · ôc · uc · ưc",
     "xp": 50,
     "steps": [
       {
@@ -1788,6 +1835,7 @@
   {
     "id": "lv1_b48",
     "skill": "lv1_b48",
+    "title": "Bài 48. at · ăt · ât",
     "xp": 50,
     "steps": [
       {
@@ -1826,6 +1874,7 @@
   {
     "id": "lv1_b49",
     "skill": "lv1_b49",
+    "title": "Bài 49. ot · ôt · ơt",
     "xp": 50,
     "steps": [
       {
@@ -1864,6 +1913,7 @@
   {
     "id": "lv1_b50",
     "skill": "lv1_b50",
+    "title": "Bài 50. Ôn tập và kể chuyện: Bài học đầu tiên của thỏ con",
     "xp": 50,
     "steps": [
       {
@@ -1902,6 +1952,7 @@
   {
     "id": "lv1_b51",
     "skill": "lv1_b51",
+    "title": "Bài 51. et · êt · it",
     "xp": 50,
     "steps": [
       {
@@ -1940,6 +1991,7 @@
   {
     "id": "lv1_b52",
     "skill": "lv1_b52",
+    "title": "Bài 52. ut · ưt",
     "xp": 50,
     "steps": [
       {
@@ -1978,6 +2030,7 @@
   {
     "id": "lv1_b53",
     "skill": "lv1_b53",
+    "title": "Bài 53. ap · ăp · âp",
     "xp": 50,
     "steps": [
       {
@@ -2016,6 +2069,7 @@
   {
     "id": "lv1_b54",
     "skill": "lv1_b54",
+    "title": "Bài 54. op · ôp · ơp",
     "xp": 50,
     "steps": [
       {
@@ -2054,6 +2108,7 @@
   {
     "id": "lv1_b55",
     "skill": "lv1_b55",
+    "title": "Bài 55. Ôn tập và kể chuyện: Mật ong của gấu con",
     "xp": 50,
     "steps": [
       {
@@ -2092,6 +2147,7 @@
   {
     "id": "lv1_b56",
     "skill": "lv1_b56",
+    "title": "Bài 56. ep · êp · ip · up",
     "xp": 50,
     "steps": [
       {
@@ -2130,6 +2186,7 @@
   {
     "id": "lv1_b57",
     "skill": "lv1_b57",
+    "title": "Bài 57. anh · ênh · inh",
     "xp": 50,
     "steps": [
       {
@@ -2168,6 +2225,7 @@
   {
     "id": "lv1_b58",
     "skill": "lv1_b58",
+    "title": "Bài 58. ach · êch · ich",
     "xp": 50,
     "steps": [
       {
@@ -2206,6 +2264,7 @@
   {
     "id": "lv1_b59",
     "skill": "lv1_b59",
+    "title": "Bài 59. ang · ăng · âng",
     "xp": 50,
     "steps": [
       {
@@ -2244,6 +2303,7 @@
   {
     "id": "lv1_b60",
     "skill": "lv1_b60",
+    "title": "Bài 60. Ôn tập và kể chuyện: Quạ và đàn bồ câu",
     "xp": 50,
     "steps": [
       {
@@ -2282,6 +2342,7 @@
   {
     "id": "lv1_b61",
     "skill": "lv1_b61",
+    "title": "Bài 61. ong · ông · ung · ưng",
     "xp": 50,
     "steps": [
       {
@@ -2320,6 +2381,7 @@
   {
     "id": "lv1_b62",
     "skill": "lv1_b62",
+    "title": "Bài 62. iêc · iên · iêp",
     "xp": 50,
     "steps": [
       {
@@ -2358,6 +2420,7 @@
   {
     "id": "lv1_b63",
     "skill": "lv1_b63",
+    "title": "Bài 63. iêng · iêm · yên",
     "xp": 50,
     "steps": [
       {
@@ -2396,6 +2459,7 @@
   {
     "id": "lv1_b64",
     "skill": "lv1_b64",
+    "title": "Bài 64. iêt · iêu · yêu",
     "xp": 50,
     "steps": [
       {
@@ -2434,6 +2498,7 @@
   {
     "id": "lv1_b65",
     "skill": "lv1_b65",
+    "title": "Bài 65. Ôn tập và kể chuyện: Lửa, mưa và con hổ hung hăng",
     "xp": 50,
     "steps": [
       {
@@ -2472,6 +2537,7 @@
   {
     "id": "lv1_b66",
     "skill": "lv1_b66",
+    "title": "Bài 66. uôi · uôm",
     "xp": 50,
     "steps": [
       {
@@ -2510,6 +2576,7 @@
   {
     "id": "lv1_b67",
     "skill": "lv1_b67",
+    "title": "Bài 67. uôc · uôt",
     "xp": 50,
     "steps": [
       {
@@ -2548,6 +2615,7 @@
   {
     "id": "lv1_b68",
     "skill": "lv1_b68",
+    "title": "Bài 68. uôn · uông",
     "xp": 50,
     "steps": [
       {
@@ -2586,6 +2654,7 @@
   {
     "id": "lv1_b69",
     "skill": "lv1_b69",
+    "title": "Bài 69. ươi · ươu",
     "xp": 50,
     "steps": [
       {
@@ -2624,6 +2693,7 @@
   {
     "id": "lv1_b70",
     "skill": "lv1_b70",
+    "title": "Bài 70. Ôn tập và kể chuyện: Chuột nhà và chuột đồng",
     "xp": 50,
     "steps": [
       {
@@ -2662,6 +2732,7 @@
   {
     "id": "lv1_b71",
     "skill": "lv1_b71",
+    "title": "Bài 71. ươc · ươt",
     "xp": 50,
     "steps": [
       {
@@ -2700,6 +2771,7 @@
   {
     "id": "lv1_b72",
     "skill": "lv1_b72",
+    "title": "Bài 72. ươm · ươp",
     "xp": 50,
     "steps": [
       {
@@ -2738,6 +2810,7 @@
   {
     "id": "lv1_b73",
     "skill": "lv1_b73",
+    "title": "Bài 73. ươn · ương",
     "xp": 50,
     "steps": [
       {
@@ -2776,6 +2849,7 @@
   {
     "id": "lv1_b74",
     "skill": "lv1_b74",
+    "title": "Bài 74. oa · oe",
     "xp": 50,
     "steps": [
       {
@@ -2814,6 +2888,7 @@
   {
     "id": "lv1_b75",
     "skill": "lv1_b75",
+    "title": "Bài 75. Ôn tập và kể chuyện: Chuyện của mây",
     "xp": 50,
     "steps": [
       {
@@ -2852,6 +2927,7 @@
   {
     "id": "lv1_b76",
     "skill": "lv1_b76",
+    "title": "Bài 76. oan · oăn · oat · oăt",
     "xp": 50,
     "steps": [
       {
@@ -2890,6 +2966,7 @@
   {
     "id": "lv1_b77",
     "skill": "lv1_b77",
+    "title": "Bài 77. oai · uê · uy",
     "xp": 50,
     "steps": [
       {
@@ -2928,6 +3005,7 @@
   {
     "id": "lv1_b78",
     "skill": "lv1_b78",
+    "title": "Bài 78. uân · uât",
     "xp": 50,
     "steps": [
       {
@@ -2966,6 +3044,7 @@
   {
     "id": "lv1_b79",
     "skill": "lv1_b79",
+    "title": "Bài 79. uyên · uyêt",
     "xp": 50,
     "steps": [
       {
@@ -3004,6 +3083,7 @@
   {
     "id": "lv1_b80",
     "skill": "lv1_b80",
+    "title": "Bài 80. Ôn tập và kể chuyện: Sừng và chân",
     "xp": 50,
     "steps": [
       {
@@ -3042,6 +3122,7 @@
   {
     "id": "lv1_b81",
     "skill": "lv1_b81",
+    "title": "Bài 81. Ôn tập (1)",
     "xp": 50,
     "steps": [
       {
@@ -3080,6 +3161,7 @@
   {
     "id": "lv1_b82",
     "skill": "lv1_b82",
+    "title": "Bài 82. Ôn tập (2)",
     "xp": 50,
     "steps": [
       {
@@ -3118,6 +3200,7 @@
   {
     "id": "lv1_b83",
     "skill": "lv1_b83",
+    "title": "Bài 83. Ôn tập (3)",
     "xp": 50,
     "steps": [
       {
@@ -3156,6 +3239,7 @@
   {
     "id": "lv1_b84",
     "skill": "lv1_b84",
+    "title": "Bài 84. Đánh giá cuối học kì I",
     "xp": 50,
     "steps": [
       {
@@ -3194,6 +3278,7 @@
   {
     "id": "lv1_t2_friends_b1",
     "skill": "lv1_t2_friends_b1",
+    "title": "Bài 1. Tôi là học sinh lớp 1",
     "xp": 50,
     "steps": [
       {
@@ -3232,6 +3317,7 @@
   {
     "id": "lv1_t2_friends_b2",
     "skill": "lv1_t2_friends_b2",
+    "title": "Bài 2. Đôi tai xấu xí",
     "xp": 50,
     "steps": [
       {
@@ -3270,6 +3356,7 @@
   {
     "id": "lv1_t2_friends_b3",
     "skill": "lv1_t2_friends_b3",
+    "title": "Bài 3. Bạn của gió",
     "xp": 50,
     "steps": [
       {
@@ -3308,6 +3395,7 @@
   {
     "id": "lv1_t2_friends_b4",
     "skill": "lv1_t2_friends_b4",
+    "title": "Bài 4. Giải thưởng tình bạn",
     "xp": 50,
     "steps": [
       {
@@ -3346,6 +3434,7 @@
   {
     "id": "lv1_t2_friends_b5",
     "skill": "lv1_t2_friends_b5",
+    "title": "Bài 5. Sinh nhật của voi con",
     "xp": 50,
     "steps": [
       {
@@ -3384,6 +3473,7 @@
   {
     "id": "lv1_t2_friends_b6",
     "skill": "lv1_t2_friends_b6",
+    "title": "Bài 6. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -3422,6 +3512,7 @@
   {
     "id": "lv1_t2_family_b1",
     "skill": "lv1_t2_family_b1",
+    "title": "Bài 1. Nụ hôn trên bàn tay",
     "xp": 50,
     "steps": [
       {
@@ -3460,6 +3551,7 @@
   {
     "id": "lv1_t2_family_b2",
     "skill": "lv1_t2_family_b2",
+    "title": "Bài 2. Làm anh",
     "xp": 50,
     "steps": [
       {
@@ -3498,6 +3590,7 @@
   {
     "id": "lv1_t2_family_b3",
     "skill": "lv1_t2_family_b3",
+    "title": "Bài 3. Cả nhà đi chơi núi",
     "xp": 50,
     "steps": [
       {
@@ -3536,6 +3629,7 @@
   {
     "id": "lv1_t2_family_b4",
     "skill": "lv1_t2_family_b4",
+    "title": "Bài 4. Quạt cho bà ngủ",
     "xp": 50,
     "steps": [
       {
@@ -3574,6 +3668,7 @@
   {
     "id": "lv1_t2_family_b5",
     "skill": "lv1_t2_family_b5",
+    "title": "Bài 5. Bữa cơm gia đình",
     "xp": 50,
     "steps": [
       {
@@ -3612,6 +3707,7 @@
   {
     "id": "lv1_t2_family_b6",
     "skill": "lv1_t2_family_b6",
+    "title": "Bài 6. Ngôi nhà",
     "xp": 50,
     "steps": [
       {
@@ -3650,6 +3746,7 @@
   {
     "id": "lv1_t2_family_b7",
     "skill": "lv1_t2_family_b7",
+    "title": "Bài 7. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -3688,6 +3785,7 @@
   {
     "id": "lv1_t2_school_b1",
     "skill": "lv1_t2_school_b1",
+    "title": "Bài 1. Tôi đi học",
     "xp": 50,
     "steps": [
       {
@@ -3726,6 +3824,7 @@
   {
     "id": "lv1_t2_school_b2",
     "skill": "lv1_t2_school_b2",
+    "title": "Bài 2. Đi học",
     "xp": 50,
     "steps": [
       {
@@ -3764,6 +3863,7 @@
   {
     "id": "lv1_t2_school_b3",
     "skill": "lv1_t2_school_b3",
+    "title": "Bài 3. Hoa yêu thương",
     "xp": 50,
     "steps": [
       {
@@ -3802,6 +3902,7 @@
   {
     "id": "lv1_t2_school_b4",
     "skill": "lv1_t2_school_b4",
+    "title": "Bài 4. Cây bàng và lớp học",
     "xp": 50,
     "steps": [
       {
@@ -3840,6 +3941,7 @@
   {
     "id": "lv1_t2_school_b5",
     "skill": "lv1_t2_school_b5",
+    "title": "Bài 5. Bác trống trường",
     "xp": 50,
     "steps": [
       {
@@ -3878,6 +3980,7 @@
   {
     "id": "lv1_t2_school_b6",
     "skill": "lv1_t2_school_b6",
+    "title": "Bài 6. Giờ ra chơi",
     "xp": 50,
     "steps": [
       {
@@ -3916,6 +4019,7 @@
   {
     "id": "lv1_t2_school_b7",
     "skill": "lv1_t2_school_b7",
+    "title": "Bài 7. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -3954,6 +4058,7 @@
   {
     "id": "lv1_t2_life_skills_b1",
     "skill": "lv1_t2_life_skills_b1",
+    "title": "Bài 1. Rửa tay trước khi ăn",
     "xp": 50,
     "steps": [
       {
@@ -3992,6 +4097,7 @@
   {
     "id": "lv1_t2_life_skills_b2",
     "skill": "lv1_t2_life_skills_b2",
+    "title": "Bài 2. Lời chào đi trước",
     "xp": 50,
     "steps": [
       {
@@ -4030,6 +4136,7 @@
   {
     "id": "lv1_t2_life_skills_b3",
     "skill": "lv1_t2_life_skills_b3",
+    "title": "Bài 3. Khi mẹ vắng nhà",
     "xp": 50,
     "steps": [
       {
@@ -4068,6 +4175,7 @@
   {
     "id": "lv1_t2_life_skills_b4",
     "skill": "lv1_t2_life_skills_b4",
+    "title": "Bài 4. Nếu không may bị lạc",
     "xp": 50,
     "steps": [
       {
@@ -4106,6 +4214,7 @@
   {
     "id": "lv1_t2_life_skills_b5",
     "skill": "lv1_t2_life_skills_b5",
+    "title": "Bài 5. Đèn giao thông",
     "xp": 50,
     "steps": [
       {
@@ -4144,6 +4253,7 @@
   {
     "id": "lv1_t2_life_skills_b6",
     "skill": "lv1_t2_life_skills_b6",
+    "title": "Bài 6. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -4182,6 +4292,7 @@
   {
     "id": "lv1_t2_life_lessons_b1",
     "skill": "lv1_t2_life_lessons_b1",
+    "title": "Bài 1. Kiến và chim bồ câu",
     "xp": 50,
     "steps": [
       {
@@ -4220,6 +4331,7 @@
   {
     "id": "lv1_t2_life_lessons_b2",
     "skill": "lv1_t2_life_lessons_b2",
+    "title": "Bài 2. Câu chuyện của rễ",
     "xp": 50,
     "steps": [
       {
@@ -4258,6 +4370,7 @@
   {
     "id": "lv1_t2_life_lessons_b3",
     "skill": "lv1_t2_life_lessons_b3",
+    "title": "Bài 3. Câu hỏi của sói",
     "xp": 50,
     "steps": [
       {
@@ -4296,6 +4409,7 @@
   {
     "id": "lv1_t2_life_lessons_b4",
     "skill": "lv1_t2_life_lessons_b4",
+    "title": "Bài 4. Chú bé chăn cừu",
     "xp": 50,
     "steps": [
       {
@@ -4334,6 +4448,7 @@
   {
     "id": "lv1_t2_life_lessons_b5",
     "skill": "lv1_t2_life_lessons_b5",
+    "title": "Bài 5. Tiếng vọng của núi",
     "xp": 50,
     "steps": [
       {
@@ -4372,6 +4487,7 @@
   {
     "id": "lv1_t2_life_lessons_b6",
     "skill": "lv1_t2_life_lessons_b6",
+    "title": "Bài 6. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -4410,6 +4526,7 @@
   {
     "id": "lv1_t2_nature_b1",
     "skill": "lv1_t2_nature_b1",
+    "title": "Bài 1. Loài chim của biển cả",
     "xp": 50,
     "steps": [
       {
@@ -4448,6 +4565,7 @@
   {
     "id": "lv1_t2_nature_b2",
     "skill": "lv1_t2_nature_b2",
+    "title": "Bài 2. Bảy sắc cầu vồng",
     "xp": 50,
     "steps": [
       {
@@ -4486,6 +4604,7 @@
   {
     "id": "lv1_t2_nature_b3",
     "skill": "lv1_t2_nature_b3",
+    "title": "Bài 3. Chúa tể rừng xanh",
     "xp": 50,
     "steps": [
       {
@@ -4524,6 +4643,7 @@
   {
     "id": "lv1_t2_nature_b4",
     "skill": "lv1_t2_nature_b4",
+    "title": "Bài 4. Cuộc thi tài năng rừng xanh",
     "xp": 50,
     "steps": [
       {
@@ -4562,6 +4682,7 @@
   {
     "id": "lv1_t2_nature_b5",
     "skill": "lv1_t2_nature_b5",
+    "title": "Bài 5. Cây liễu dẻo dai",
     "xp": 50,
     "steps": [
       {
@@ -4600,6 +4721,7 @@
   {
     "id": "lv1_t2_nature_b6",
     "skill": "lv1_t2_nature_b6",
+    "title": "Bài 6. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -4638,6 +4760,7 @@
   {
     "id": "lv1_t2_world_b1",
     "skill": "lv1_t2_world_b1",
+    "title": "Bài 1. Tia nắng đi đâu?",
     "xp": 50,
     "steps": [
       {
@@ -4676,6 +4799,7 @@
   {
     "id": "lv1_t2_world_b2",
     "skill": "lv1_t2_world_b2",
+    "title": "Bài 2. Trong giấc mơ buổi sáng",
     "xp": 50,
     "steps": [
       {
@@ -4714,6 +4838,7 @@
   {
     "id": "lv1_t2_world_b3",
     "skill": "lv1_t2_world_b3",
+    "title": "Bài 3. Ngày mới bắt đầu",
     "xp": 50,
     "steps": [
       {
@@ -4752,6 +4877,7 @@
   {
     "id": "lv1_t2_world_b4",
     "skill": "lv1_t2_world_b4",
+    "title": "Bài 4. Hỏi mẹ",
     "xp": 50,
     "steps": [
       {
@@ -4790,6 +4916,7 @@
   {
     "id": "lv1_t2_world_b5",
     "skill": "lv1_t2_world_b5",
+    "title": "Bài 5. Những cánh cò",
     "xp": 50,
     "steps": [
       {
@@ -4828,6 +4955,7 @@
   {
     "id": "lv1_t2_world_b6",
     "skill": "lv1_t2_world_b6",
+    "title": "Bài 6. Buổi trưa hè",
     "xp": 50,
     "steps": [
       {
@@ -4866,6 +4994,7 @@
   {
     "id": "lv1_t2_world_b7",
     "skill": "lv1_t2_world_b7",
+    "title": "Bài 7. Hoa phượng",
     "xp": 50,
     "steps": [
       {
@@ -4904,6 +5033,7 @@
   {
     "id": "lv1_t2_world_b8",
     "skill": "lv1_t2_world_b8",
+    "title": "Bài 8. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -4942,6 +5072,7 @@
   {
     "id": "lv1_t2_country_b1",
     "skill": "lv1_t2_country_b1",
+    "title": "Bài 1. Cậu bé thông minh",
     "xp": 50,
     "steps": [
       {
@@ -4980,6 +5111,7 @@
   {
     "id": "lv1_t2_country_b2",
     "skill": "lv1_t2_country_b2",
+    "title": "Bài 2. Lính cứu hỏa",
     "xp": 50,
     "steps": [
       {
@@ -5018,6 +5150,7 @@
   {
     "id": "lv1_t2_country_b3",
     "skill": "lv1_t2_country_b3",
+    "title": "Bài 3. Lớn lên bạn làm gì?",
     "xp": 50,
     "steps": [
       {
@@ -5056,6 +5189,7 @@
   {
     "id": "lv1_t2_country_b4",
     "skill": "lv1_t2_country_b4",
+    "title": "Bài 4. Ruộng bậc thang ở Sa Pa",
     "xp": 50,
     "steps": [
       {
@@ -5094,6 +5228,7 @@
   {
     "id": "lv1_t2_country_b5",
     "skill": "lv1_t2_country_b5",
+    "title": "Bài 5. Nhớ ơn",
     "xp": 50,
     "steps": [
       {
@@ -5132,6 +5267,7 @@
   {
     "id": "lv1_t2_country_b6",
     "skill": "lv1_t2_country_b6",
+    "title": "Bài 6. Du lịch biển Việt Nam",
     "xp": 50,
     "steps": [
       {
@@ -5170,6 +5306,7 @@
   {
     "id": "lv1_t2_country_b7",
     "skill": "lv1_t2_country_b7",
+    "title": "Bài 7. Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -5208,6 +5345,7 @@
   {
     "id": "lv1_final_b1",
     "skill": "lv1_final_b1",
+    "title": "Bài 1. Ôn tập cuối năm (1)",
     "xp": 50,
     "steps": [
       {
@@ -5246,6 +5384,7 @@
   {
     "id": "lv1_final_b2",
     "skill": "lv1_final_b2",
+    "title": "Bài 2. Ôn tập cuối năm (2)",
     "xp": 50,
     "steps": [
       {
@@ -5284,6 +5423,7 @@
   {
     "id": "lv1_final_b3",
     "skill": "lv1_final_b3",
+    "title": "Bài 3. Ôn tập cuối năm (3)",
     "xp": 50,
     "steps": [
       {
@@ -5322,6 +5462,7 @@
   {
     "id": "lv1_final_b4",
     "skill": "lv1_final_b4",
+    "title": "Bài 4. Đánh giá cuối năm học",
     "xp": 50,
     "steps": [
       {
@@ -5360,6 +5501,7 @@
   {
     "id": "lv2_g2_t1_grow_b01",
     "skill": "lv2_g2_t1_grow_b01",
+    "title": "Bài 1. Tôi là học sinh lớp 2",
     "xp": 50,
     "steps": [
       {
@@ -5398,6 +5540,7 @@
   {
     "id": "lv2_g2_t1_grow_b02",
     "skill": "lv2_g2_t1_grow_b02",
+    "title": "Bài 2. Ngày hôm qua đâu rồi?",
     "xp": 50,
     "steps": [
       {
@@ -5436,6 +5579,7 @@
   {
     "id": "lv2_g2_t1_grow_b03",
     "skill": "lv2_g2_t1_grow_b03",
+    "title": "Bài 3. Niềm vui của Bi và Bống",
     "xp": 50,
     "steps": [
       {
@@ -5474,6 +5618,7 @@
   {
     "id": "lv2_g2_t1_grow_b04",
     "skill": "lv2_g2_t1_grow_b04",
+    "title": "Bài 4. Làm việc thật là vui",
     "xp": 50,
     "steps": [
       {
@@ -5512,6 +5657,7 @@
   {
     "id": "lv2_g2_t1_grow_b05",
     "skill": "lv2_g2_t1_grow_b05",
+    "title": "Bài 5. Em có xinh không?",
     "xp": 50,
     "steps": [
       {
@@ -5550,6 +5696,7 @@
   {
     "id": "lv2_g2_t1_grow_b06",
     "skill": "lv2_g2_t1_grow_b06",
+    "title": "Bài 6. Một giờ học",
     "xp": 50,
     "steps": [
       {
@@ -5588,6 +5735,7 @@
   {
     "id": "lv2_g2_t1_grow_b07",
     "skill": "lv2_g2_t1_grow_b07",
+    "title": "Bài 7. Cây xấu hổ",
     "xp": 50,
     "steps": [
       {
@@ -5626,6 +5774,7 @@
   {
     "id": "lv2_g2_t1_grow_b08",
     "skill": "lv2_g2_t1_grow_b08",
+    "title": "Bài 8. Cầu thủ dự bị",
     "xp": 50,
     "steps": [
       {
@@ -5664,6 +5813,7 @@
   {
     "id": "lv2_g2_t1_school_b09",
     "skill": "lv2_g2_t1_school_b09",
+    "title": "Bài 9. Cô giáo lớp em",
     "xp": 50,
     "steps": [
       {
@@ -5702,6 +5852,7 @@
   {
     "id": "lv2_g2_t1_school_b10",
     "skill": "lv2_g2_t1_school_b10",
+    "title": "Bài 10. Thời khóa biểu",
     "xp": 50,
     "steps": [
       {
@@ -5740,6 +5891,7 @@
   {
     "id": "lv2_g2_t1_school_b11",
     "skill": "lv2_g2_t1_school_b11",
+    "title": "Bài 11. Cái trống trường em",
     "xp": 50,
     "steps": [
       {
@@ -5778,6 +5930,7 @@
   {
     "id": "lv2_g2_t1_school_b12",
     "skill": "lv2_g2_t1_school_b12",
+    "title": "Bài 12. Danh sách học sinh",
     "xp": 50,
     "steps": [
       {
@@ -5816,6 +5969,7 @@
   {
     "id": "lv2_g2_t1_school_b13",
     "skill": "lv2_g2_t1_school_b13",
+    "title": "Bài 13. Yêu lắm trường ơi!",
     "xp": 50,
     "steps": [
       {
@@ -5854,6 +6008,7 @@
   {
     "id": "lv2_g2_t1_school_b14",
     "skill": "lv2_g2_t1_school_b14",
+    "title": "Bài 14. Em học vẽ",
     "xp": 50,
     "steps": [
       {
@@ -5892,6 +6047,7 @@
   {
     "id": "lv2_g2_t1_school_b15",
     "skill": "lv2_g2_t1_school_b15",
+    "title": "Bài 15. Cuốn sách của em",
     "xp": 50,
     "steps": [
       {
@@ -5930,6 +6086,7 @@
   {
     "id": "lv2_g2_t1_school_b16",
     "skill": "lv2_g2_t1_school_b16",
+    "title": "Bài 16. Khi trang sách mở ra",
     "xp": 50,
     "steps": [
       {
@@ -5968,6 +6125,7 @@
   {
     "id": "lv2_g2_t1_review_mid1_b01",
     "skill": "lv2_g2_t1_review_mid1_b01",
+    "title": "Ôn tập giữa học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -6006,6 +6164,7 @@
   {
     "id": "lv2_g2_t1_childhood_b17",
     "skill": "lv2_g2_t1_childhood_b17",
+    "title": "Bài 17. Gọi bạn",
     "xp": 50,
     "steps": [
       {
@@ -6044,6 +6203,7 @@
   {
     "id": "lv2_g2_t1_childhood_b18",
     "skill": "lv2_g2_t1_childhood_b18",
+    "title": "Bài 18. Tớ nhớ cậu",
     "xp": 50,
     "steps": [
       {
@@ -6082,6 +6242,7 @@
   {
     "id": "lv2_g2_t1_childhood_b19",
     "skill": "lv2_g2_t1_childhood_b19",
+    "title": "Bài 19. Chữ A và những người bạn",
     "xp": 50,
     "steps": [
       {
@@ -6120,6 +6281,7 @@
   {
     "id": "lv2_g2_t1_childhood_b20",
     "skill": "lv2_g2_t1_childhood_b20",
+    "title": "Bài 20. Nhím nâu kết bạn",
     "xp": 50,
     "steps": [
       {
@@ -6158,6 +6320,7 @@
   {
     "id": "lv2_g2_t1_childhood_b21",
     "skill": "lv2_g2_t1_childhood_b21",
+    "title": "Bài 21. Thả diều",
     "xp": 50,
     "steps": [
       {
@@ -6196,6 +6359,7 @@
   {
     "id": "lv2_g2_t1_childhood_b22",
     "skill": "lv2_g2_t1_childhood_b22",
+    "title": "Bài 22. Tớ là Lê-gô",
     "xp": 50,
     "steps": [
       {
@@ -6234,6 +6398,7 @@
   {
     "id": "lv2_g2_t1_childhood_b23",
     "skill": "lv2_g2_t1_childhood_b23",
+    "title": "Bài 23. Rồng rắn lên mây",
     "xp": 50,
     "steps": [
       {
@@ -6272,6 +6437,7 @@
   {
     "id": "lv2_g2_t1_childhood_b24",
     "skill": "lv2_g2_t1_childhood_b24",
+    "title": "Bài 24. Nặn đồ chơi",
     "xp": 50,
     "steps": [
       {
@@ -6310,6 +6476,7 @@
   {
     "id": "lv2_g2_t1_family_b25",
     "skill": "lv2_g2_t1_family_b25",
+    "title": "Bài 25. Sự tích hoa tỉ muội",
     "xp": 50,
     "steps": [
       {
@@ -6348,6 +6515,7 @@
   {
     "id": "lv2_g2_t1_family_b26",
     "skill": "lv2_g2_t1_family_b26",
+    "title": "Bài 26. Em mang về yêu thương",
     "xp": 50,
     "steps": [
       {
@@ -6386,6 +6554,7 @@
   {
     "id": "lv2_g2_t1_family_b27",
     "skill": "lv2_g2_t1_family_b27",
+    "title": "Bài 27. Mẹ",
     "xp": 50,
     "steps": [
       {
@@ -6424,6 +6593,7 @@
   {
     "id": "lv2_g2_t1_family_b28",
     "skill": "lv2_g2_t1_family_b28",
+    "title": "Bài 28. Trò chơi của bố",
     "xp": 50,
     "steps": [
       {
@@ -6462,6 +6632,7 @@
   {
     "id": "lv2_g2_t1_family_b29",
     "skill": "lv2_g2_t1_family_b29",
+    "title": "Bài 29. Cánh cửa nhớ bà",
     "xp": 50,
     "steps": [
       {
@@ -6500,6 +6671,7 @@
   {
     "id": "lv2_g2_t1_family_b30",
     "skill": "lv2_g2_t1_family_b30",
+    "title": "Bài 30. Thương ông",
     "xp": 50,
     "steps": [
       {
@@ -6538,6 +6710,7 @@
   {
     "id": "lv2_g2_t1_family_b31",
     "skill": "lv2_g2_t1_family_b31",
+    "title": "Bài 31. Ánh sáng của yêu thương",
     "xp": 50,
     "steps": [
       {
@@ -6576,6 +6749,7 @@
   {
     "id": "lv2_g2_t1_family_b32",
     "skill": "lv2_g2_t1_family_b32",
+    "title": "Bài 32. Chơi chong chóng",
     "xp": 50,
     "steps": [
       {
@@ -6614,6 +6788,7 @@
   {
     "id": "lv2_g2_t1_review_end1_b01",
     "skill": "lv2_g2_t1_review_end1_b01",
+    "title": "Ôn tập và đánh giá cuối học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -6652,6 +6827,7 @@
   {
     "id": "lv2_g2_t2_beauty_b01",
     "skill": "lv2_g2_t2_beauty_b01",
+    "title": "Bài 1. Chuyện bốn mùa",
     "xp": 50,
     "steps": [
       {
@@ -6690,6 +6866,7 @@
   {
     "id": "lv2_g2_t2_beauty_b02",
     "skill": "lv2_g2_t2_beauty_b02",
+    "title": "Bài 2. Mùa nước nổi",
     "xp": 50,
     "steps": [
       {
@@ -6728,6 +6905,7 @@
   {
     "id": "lv2_g2_t2_beauty_b03",
     "skill": "lv2_g2_t2_beauty_b03",
+    "title": "Bài 3. Họa mi hót",
     "xp": 50,
     "steps": [
       {
@@ -6766,6 +6944,7 @@
   {
     "id": "lv2_g2_t2_beauty_b04",
     "skill": "lv2_g2_t2_beauty_b04",
+    "title": "Bài 4. Tết đến rồi",
     "xp": 50,
     "steps": [
       {
@@ -6804,6 +6983,7 @@
   {
     "id": "lv2_g2_t2_beauty_b05",
     "skill": "lv2_g2_t2_beauty_b05",
+    "title": "Bài 5. Giọt nước và biển lớn",
     "xp": 50,
     "steps": [
       {
@@ -6842,6 +7022,7 @@
   {
     "id": "lv2_g2_t2_beauty_b06",
     "skill": "lv2_g2_t2_beauty_b06",
+    "title": "Bài 6. Mùa vàng",
     "xp": 50,
     "steps": [
       {
@@ -6880,6 +7061,7 @@
   {
     "id": "lv2_g2_t2_beauty_b07",
     "skill": "lv2_g2_t2_beauty_b07",
+    "title": "Bài 7. Hạt thóc",
     "xp": 50,
     "steps": [
       {
@@ -6918,6 +7100,7 @@
   {
     "id": "lv2_g2_t2_beauty_b08",
     "skill": "lv2_g2_t2_beauty_b08",
+    "title": "Bài 8. Lũy tre",
     "xp": 50,
     "steps": [
       {
@@ -6956,6 +7139,7 @@
   {
     "id": "lv2_g2_t2_green_b09",
     "skill": "lv2_g2_t2_green_b09",
+    "title": "Bài 9. Vè chim",
     "xp": 50,
     "steps": [
       {
@@ -6994,6 +7178,7 @@
   {
     "id": "lv2_g2_t2_green_b10",
     "skill": "lv2_g2_t2_green_b10",
+    "title": "Bài 10. Khủng long",
     "xp": 50,
     "steps": [
       {
@@ -7032,6 +7217,7 @@
   {
     "id": "lv2_g2_t2_green_b11",
     "skill": "lv2_g2_t2_green_b11",
+    "title": "Bài 11. Sự tích cây thì là",
     "xp": 50,
     "steps": [
       {
@@ -7070,6 +7256,7 @@
   {
     "id": "lv2_g2_t2_green_b12",
     "skill": "lv2_g2_t2_green_b12",
+    "title": "Bài 12. Bờ tre đón khách",
     "xp": 50,
     "steps": [
       {
@@ -7108,6 +7295,7 @@
   {
     "id": "lv2_g2_t2_green_b13",
     "skill": "lv2_g2_t2_green_b13",
+    "title": "Bài 13. Tiếng chổi tre",
     "xp": 50,
     "steps": [
       {
@@ -7146,6 +7334,7 @@
   {
     "id": "lv2_g2_t2_green_b14",
     "skill": "lv2_g2_t2_green_b14",
+    "title": "Bài 14. Cỏ non cười rồi",
     "xp": 50,
     "steps": [
       {
@@ -7184,6 +7373,7 @@
   {
     "id": "lv2_g2_t2_green_b15",
     "skill": "lv2_g2_t2_green_b15",
+    "title": "Bài 15. Những con sao biển",
     "xp": 50,
     "steps": [
       {
@@ -7222,6 +7412,7 @@
   {
     "id": "lv2_g2_t2_green_b16",
     "skill": "lv2_g2_t2_green_b16",
+    "title": "Bài 16. Tạm biệt cánh cam",
     "xp": 50,
     "steps": [
       {
@@ -7260,6 +7451,7 @@
   {
     "id": "lv2_g2_t2_review_mid2_b01",
     "skill": "lv2_g2_t2_review_mid2_b01",
+    "title": "Ôn tập giữa học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -7298,6 +7490,7 @@
   {
     "id": "lv2_g2_t2_connect_b17",
     "skill": "lv2_g2_t2_connect_b17",
+    "title": "Bài 17. Những cách chào độc đáo",
     "xp": 50,
     "steps": [
       {
@@ -7336,6 +7529,7 @@
   {
     "id": "lv2_g2_t2_connect_b18",
     "skill": "lv2_g2_t2_connect_b18",
+    "title": "Bài 18. Thư viện biết đi",
     "xp": 50,
     "steps": [
       {
@@ -7374,6 +7568,7 @@
   {
     "id": "lv2_g2_t2_connect_b19",
     "skill": "lv2_g2_t2_connect_b19",
+    "title": "Bài 19. Cảm ơn anh hà mã",
     "xp": 50,
     "steps": [
       {
@@ -7412,6 +7607,7 @@
   {
     "id": "lv2_g2_t2_connect_b20",
     "skill": "lv2_g2_t2_connect_b20",
+    "title": "Bài 20. Từ chú bồ câu đến in-tơ-nét",
     "xp": 50,
     "steps": [
       {
@@ -7450,6 +7646,7 @@
   {
     "id": "lv2_g2_t2_vietnam_b21",
     "skill": "lv2_g2_t2_vietnam_b21",
+    "title": "Bài 21. Mai An Tiêm",
     "xp": 50,
     "steps": [
       {
@@ -7488,6 +7685,7 @@
   {
     "id": "lv2_g2_t2_vietnam_b22",
     "skill": "lv2_g2_t2_vietnam_b22",
+    "title": "Bài 22. Thư gửi bố ngoài đảo",
     "xp": 50,
     "steps": [
       {
@@ -7526,6 +7724,7 @@
   {
     "id": "lv2_g2_t2_vietnam_b23",
     "skill": "lv2_g2_t2_vietnam_b23",
+    "title": "Bài 23. Bóp nát quả cam",
     "xp": 50,
     "steps": [
       {
@@ -7564,6 +7763,7 @@
   {
     "id": "lv2_g2_t2_vietnam_b24",
     "skill": "lv2_g2_t2_vietnam_b24",
+    "title": "Bài 24. Chiếc rễ đa tròn",
     "xp": 50,
     "steps": [
       {
@@ -7602,6 +7802,7 @@
   {
     "id": "lv2_g2_t2_homeland_b25",
     "skill": "lv2_g2_t2_homeland_b25",
+    "title": "Bài 25. Đất nước chúng mình",
     "xp": 50,
     "steps": [
       {
@@ -7640,6 +7841,7 @@
   {
     "id": "lv2_g2_t2_homeland_b26",
     "skill": "lv2_g2_t2_homeland_b26",
+    "title": "Bài 26. Trên các miền đất nước",
     "xp": 50,
     "steps": [
       {
@@ -7678,6 +7880,7 @@
   {
     "id": "lv2_g2_t2_homeland_b27",
     "skill": "lv2_g2_t2_homeland_b27",
+    "title": "Bài 27. Chuyện quả bầu",
     "xp": 50,
     "steps": [
       {
@@ -7716,6 +7919,7 @@
   {
     "id": "lv2_g2_t2_homeland_b28",
     "skill": "lv2_g2_t2_homeland_b28",
+    "title": "Bài 28. Khám phá đáy biển ở Trường Sa",
     "xp": 50,
     "steps": [
       {
@@ -7754,6 +7958,7 @@
   {
     "id": "lv2_g2_t2_homeland_b29",
     "skill": "lv2_g2_t2_homeland_b29",
+    "title": "Bài 29. Hồ Gươm",
     "xp": 50,
     "steps": [
       {
@@ -7792,6 +7997,7 @@
   {
     "id": "lv2_g2_t2_homeland_b30",
     "skill": "lv2_g2_t2_homeland_b30",
+    "title": "Bài 30. Cánh đồng quê em",
     "xp": 50,
     "steps": [
       {
@@ -7830,6 +8036,7 @@
   {
     "id": "lv2_g2_t2_review_end2_b01",
     "skill": "lv2_g2_t2_review_end2_b01",
+    "title": "Ôn tập và đánh giá cuối học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -7868,6 +8075,7 @@
   {
     "id": "lv3_g3_t1_exp_b01",
     "skill": "lv3_g3_t1_exp_b01",
+    "title": "Bài 1. Ngày gặp lại",
     "xp": 50,
     "steps": [
       {
@@ -7906,6 +8114,7 @@
   {
     "id": "lv3_g3_t1_exp_b02",
     "skill": "lv3_g3_t1_exp_b02",
+    "title": "Bài 2. Về thăm quê",
     "xp": 50,
     "steps": [
       {
@@ -7944,6 +8153,7 @@
   {
     "id": "lv3_g3_t1_exp_b03",
     "skill": "lv3_g3_t1_exp_b03",
+    "title": "Bài 3. Cánh rừng trong nắng",
     "xp": 50,
     "steps": [
       {
@@ -7982,6 +8192,7 @@
   {
     "id": "lv3_g3_t1_exp_b04",
     "skill": "lv3_g3_t1_exp_b04",
+    "title": "Bài 4. Lần đầu ra biển",
     "xp": 50,
     "steps": [
       {
@@ -8020,6 +8231,7 @@
   {
     "id": "lv3_g3_t1_exp_b05",
     "skill": "lv3_g3_t1_exp_b05",
+    "title": "Bài 5. Nhật kí tập bơi",
     "xp": 50,
     "steps": [
       {
@@ -8058,6 +8270,7 @@
   {
     "id": "lv3_g3_t1_exp_b06",
     "skill": "lv3_g3_t1_exp_b06",
+    "title": "Bài 6. Tập nấu ăn",
     "xp": 50,
     "steps": [
       {
@@ -8096,6 +8309,7 @@
   {
     "id": "lv3_g3_t1_exp_b07",
     "skill": "lv3_g3_t1_exp_b07",
+    "title": "Bài 7. Mùa hè lấp lánh",
     "xp": 50,
     "steps": [
       {
@@ -8134,6 +8348,7 @@
   {
     "id": "lv3_g3_t1_exp_b08",
     "skill": "lv3_g3_t1_exp_b08",
+    "title": "Bài 8. Tạm biệt mùa hè",
     "xp": 50,
     "steps": [
       {
@@ -8172,6 +8387,7 @@
   {
     "id": "lv3_g3_t1_school_b09",
     "skill": "lv3_g3_t1_school_b09",
+    "title": "Bài 9. Đi học vui sao",
     "xp": 50,
     "steps": [
       {
@@ -8210,6 +8426,7 @@
   {
     "id": "lv3_g3_t1_school_b10",
     "skill": "lv3_g3_t1_school_b10",
+    "title": "Bài 10. Con đường đến trường",
     "xp": 50,
     "steps": [
       {
@@ -8248,6 +8465,7 @@
   {
     "id": "lv3_g3_t1_school_b11",
     "skill": "lv3_g3_t1_school_b11",
+    "title": "Bài 11. Lời giải toán đặc biệt",
     "xp": 50,
     "steps": [
       {
@@ -8286,6 +8504,7 @@
   {
     "id": "lv3_g3_t1_school_b12",
     "skill": "lv3_g3_t1_school_b12",
+    "title": "Bài 12. Bài tập làm văn",
     "xp": 50,
     "steps": [
       {
@@ -8324,6 +8543,7 @@
   {
     "id": "lv3_g3_t1_school_b13",
     "skill": "lv3_g3_t1_school_b13",
+    "title": "Bài 13. Bài tay cô giáo",
     "xp": 50,
     "steps": [
       {
@@ -8362,6 +8582,7 @@
   {
     "id": "lv3_g3_t1_school_b14",
     "skill": "lv3_g3_t1_school_b14",
+    "title": "Bài 14. Cuộc họp của chữ viết",
     "xp": 50,
     "steps": [
       {
@@ -8400,6 +8621,7 @@
   {
     "id": "lv3_g3_t1_school_b15",
     "skill": "lv3_g3_t1_school_b15",
+    "title": "Bài 15. Thư viện",
     "xp": 50,
     "steps": [
       {
@@ -8438,6 +8660,7 @@
   {
     "id": "lv3_g3_t1_school_b16",
     "skill": "lv3_g3_t1_school_b16",
+    "title": "Bài 16. Ngày em vào Đội",
     "xp": 50,
     "steps": [
       {
@@ -8476,6 +8699,7 @@
   {
     "id": "lv3_g3_t1_review_mid_b01",
     "skill": "lv3_g3_t1_review_mid_b01",
+    "title": "Ôn tập giữa học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -8514,6 +8738,7 @@
   {
     "id": "lv3_g3_t1_family_b17",
     "skill": "lv3_g3_t1_family_b17",
+    "title": "Bài 17. Ngưỡng cửa",
     "xp": 50,
     "steps": [
       {
@@ -8552,6 +8777,7 @@
   {
     "id": "lv3_g3_t1_family_b18",
     "skill": "lv3_g3_t1_family_b18",
+    "title": "Bài 18. Món quà đặc biệt",
     "xp": 50,
     "steps": [
       {
@@ -8590,6 +8816,7 @@
   {
     "id": "lv3_g3_t1_family_b19",
     "skill": "lv3_g3_t1_family_b19",
+    "title": "Bài 19. Khi cả nhà bé tí",
     "xp": 50,
     "steps": [
       {
@@ -8628,6 +8855,7 @@
   {
     "id": "lv3_g3_t1_family_b20",
     "skill": "lv3_g3_t1_family_b20",
+    "title": "Bài 20. Trò chuyện cùng mẹ",
     "xp": 50,
     "steps": [
       {
@@ -8666,6 +8894,7 @@
   {
     "id": "lv3_g3_t1_family_b21",
     "skill": "lv3_g3_t1_family_b21",
+    "title": "Bài 21. Tia nắng bé nhỏ",
     "xp": 50,
     "steps": [
       {
@@ -8704,6 +8933,7 @@
   {
     "id": "lv3_g3_t1_family_b22",
     "skill": "lv3_g3_t1_family_b22",
+    "title": "Bài 22. Để cháu năm tay ông",
     "xp": 50,
     "steps": [
       {
@@ -8742,6 +8972,7 @@
   {
     "id": "lv3_g3_t1_family_b23",
     "skill": "lv3_g3_t1_family_b23",
+    "title": "Bài 23. Tôi yêu em tôi",
     "xp": 50,
     "steps": [
       {
@@ -8780,6 +9011,7 @@
   {
     "id": "lv3_g3_t1_family_b24",
     "skill": "lv3_g3_t1_family_b24",
+    "title": "Bài 24. Bạn nhỏ trong nhà",
     "xp": 50,
     "steps": [
       {
@@ -8818,6 +9050,7 @@
   {
     "id": "lv3_g3_t1_community_b25",
     "skill": "lv3_g3_t1_community_b25",
+    "title": "Bài 25. Những bậc đá chạm mây",
     "xp": 50,
     "steps": [
       {
@@ -8856,6 +9089,7 @@
   {
     "id": "lv3_g3_t1_community_b26",
     "skill": "lv3_g3_t1_community_b26",
+    "title": "Bài 26. Đi tìm mặt trời",
     "xp": 50,
     "steps": [
       {
@@ -8894,6 +9128,7 @@
   {
     "id": "lv3_g3_t1_community_b27",
     "skill": "lv3_g3_t1_community_b27",
+    "title": "Bài 27. Những chiếc áo ấm",
     "xp": 50,
     "steps": [
       {
@@ -8932,6 +9167,7 @@
   {
     "id": "lv3_g3_t1_community_b28",
     "skill": "lv3_g3_t1_community_b28",
+    "title": "Bài 28. Con đường của bé",
     "xp": 50,
     "steps": [
       {
@@ -8970,6 +9206,7 @@
   {
     "id": "lv3_g3_t1_community_b29",
     "skill": "lv3_g3_t1_community_b29",
+    "title": "Bài 29. Ngôi nhà trong cỏ",
     "xp": 50,
     "steps": [
       {
@@ -9008,6 +9245,7 @@
   {
     "id": "lv3_g3_t1_community_b30",
     "skill": "lv3_g3_t1_community_b30",
+    "title": "Bài 30. Những ngọn hải đăng",
     "xp": 50,
     "steps": [
       {
@@ -9046,6 +9284,7 @@
   {
     "id": "lv3_g3_t1_community_b31",
     "skill": "lv3_g3_t1_community_b31",
+    "title": "Bài 31. Người làm đồ chơi",
     "xp": 50,
     "steps": [
       {
@@ -9084,6 +9323,7 @@
   {
     "id": "lv3_g3_t1_community_b32",
     "skill": "lv3_g3_t1_community_b32",
+    "title": "Bài 32. Cây bút thần",
     "xp": 50,
     "steps": [
       {
@@ -9122,6 +9362,7 @@
   {
     "id": "lv3_g3_t1_review_end_b01",
     "skill": "lv3_g3_t1_review_end_b01",
+    "title": "Phần 1: Ôn tập",
     "xp": 50,
     "steps": [
       {
@@ -9160,6 +9401,7 @@
   {
     "id": "lv3_g3_t2_nature_b01",
     "skill": "lv3_g3_t2_nature_b01",
+    "title": "Bài 1. Bầu trời",
     "xp": 50,
     "steps": [
       {
@@ -9198,6 +9440,7 @@
   {
     "id": "lv3_g3_t2_nature_b02",
     "skill": "lv3_g3_t2_nature_b02",
+    "title": "Bài 2. Mưa",
     "xp": 50,
     "steps": [
       {
@@ -9236,6 +9479,7 @@
   {
     "id": "lv3_g3_t2_nature_b03",
     "skill": "lv3_g3_t2_nature_b03",
+    "title": "Bài 3. Cóc kiện trời",
     "xp": 50,
     "steps": [
       {
@@ -9274,6 +9518,7 @@
   {
     "id": "lv3_g3_t2_nature_b04",
     "skill": "lv3_g3_t2_nature_b04",
+    "title": "Bài 4. Những cái tên đáng yêu",
     "xp": 50,
     "steps": [
       {
@@ -9312,6 +9557,7 @@
   {
     "id": "lv3_g3_t2_nature_b05",
     "skill": "lv3_g3_t2_nature_b05",
+    "title": "Bài 5. Ngày hội rừng xanh",
     "xp": 50,
     "steps": [
       {
@@ -9350,6 +9596,7 @@
   {
     "id": "lv3_g3_t2_nature_b06",
     "skill": "lv3_g3_t2_nature_b06",
+    "title": "Bài 6. Cây gạo",
     "xp": 50,
     "steps": [
       {
@@ -9388,6 +9635,7 @@
   {
     "id": "lv3_g3_t2_nature_b07",
     "skill": "lv3_g3_t2_nature_b07",
+    "title": "Bài 7. Mặt trời xanh của tôi",
     "xp": 50,
     "steps": [
       {
@@ -9426,6 +9674,7 @@
   {
     "id": "lv3_g3_t2_nature_b08",
     "skill": "lv3_g3_t2_nature_b08",
+    "title": "Bài 8. Bầy voi rừng Trường Sơn",
     "xp": 50,
     "steps": [
       {
@@ -9464,6 +9713,7 @@
   {
     "id": "lv3_g3_t2_life_b09",
     "skill": "lv3_g3_t2_life_b09",
+    "title": "Bài 9. Lời kêu gọi toàn dân tập thể dục",
     "xp": 50,
     "steps": [
       {
@@ -9502,6 +9752,7 @@
   {
     "id": "lv3_g3_t2_life_b10",
     "skill": "lv3_g3_t2_life_b10",
+    "title": "Bài 10. Quả hồng của thỏ con",
     "xp": 50,
     "steps": [
       {
@@ -9540,6 +9791,7 @@
   {
     "id": "lv3_g3_t2_life_b11",
     "skill": "lv3_g3_t2_life_b11",
+    "title": "Bài 11. Chuyện bên cửa sổ",
     "xp": 50,
     "steps": [
       {
@@ -9578,6 +9830,7 @@
   {
     "id": "lv3_g3_t2_life_b12",
     "skill": "lv3_g3_t2_life_b12",
+    "title": "Bài 12. Tay trái và tay phải",
     "xp": 50,
     "steps": [
       {
@@ -9616,6 +9869,7 @@
   {
     "id": "lv3_g3_t2_life_b13",
     "skill": "lv3_g3_t2_life_b13",
+    "title": "Bài 13. Mèo đi câu cá",
     "xp": 50,
     "steps": [
       {
@@ -9654,6 +9908,7 @@
   {
     "id": "lv3_g3_t2_life_b14",
     "skill": "lv3_g3_t2_life_b14",
+    "title": "Bài 14. Học nghề",
     "xp": 50,
     "steps": [
       {
@@ -9692,6 +9947,7 @@
   {
     "id": "lv3_g3_t2_life_b15",
     "skill": "lv3_g3_t2_life_b15",
+    "title": "Bài 15. Ngày như thế nào là đẹp",
     "xp": 50,
     "steps": [
       {
@@ -9730,6 +9986,7 @@
   {
     "id": "lv3_g3_t2_life_b16",
     "skill": "lv3_g3_t2_life_b16",
+    "title": "Bài 16. A lô, tớ đây",
     "xp": 50,
     "steps": [
       {
@@ -9768,6 +10025,7 @@
   {
     "id": "lv3_g3_t2_review_mid_b01",
     "skill": "lv3_g3_t2_review_mid_b01",
+    "title": "Ôn tập giữa học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -9806,6 +10064,7 @@
   {
     "id": "lv3_g3_t2_nation_b17",
     "skill": "lv3_g3_t2_nation_b17",
+    "title": "Bài 17. Đất nước là gì",
     "xp": 50,
     "steps": [
       {
@@ -9844,6 +10103,7 @@
   {
     "id": "lv3_g3_t2_nation_b18",
     "skill": "lv3_g3_t2_nation_b18",
+    "title": "Bài 18. Núi quê tôi",
     "xp": 50,
     "steps": [
       {
@@ -9882,6 +10142,7 @@
   {
     "id": "lv3_g3_t2_nation_b19",
     "skill": "lv3_g3_t2_nation_b19",
+    "title": "Bài 19. Sông Hương",
     "xp": 50,
     "steps": [
       {
@@ -9920,6 +10181,7 @@
   {
     "id": "lv3_g3_t2_nation_b20",
     "skill": "lv3_g3_t2_nation_b20",
+    "title": "Bài 20. Tiếng nước mình",
     "xp": 50,
     "steps": [
       {
@@ -9958,6 +10220,7 @@
   {
     "id": "lv3_g3_t2_nation_b21",
     "skill": "lv3_g3_t2_nation_b21",
+    "title": "Bài 21. Nhà Rông",
     "xp": 50,
     "steps": [
       {
@@ -9996,6 +10259,7 @@
   {
     "id": "lv3_g3_t2_nation_b22",
     "skill": "lv3_g3_t2_nation_b22",
+    "title": "Bài 22. Sự tích ông Đùng, bà Đùng",
     "xp": 50,
     "steps": [
       {
@@ -10034,6 +10298,7 @@
   {
     "id": "lv3_g3_t2_nation_b23",
     "skill": "lv3_g3_t2_nation_b23",
+    "title": "Bài 23. Hai Bà Trưng",
     "xp": 50,
     "steps": [
       {
@@ -10072,6 +10337,7 @@
   {
     "id": "lv3_g3_t2_nation_b24",
     "skill": "lv3_g3_t2_nation_b24",
+    "title": "Bài 24. Cùng Bác qua suối",
     "xp": 50,
     "steps": [
       {
@@ -10110,6 +10376,7 @@
   {
     "id": "lv3_g3_t2_earth_b25",
     "skill": "lv3_g3_t2_earth_b25",
+    "title": "Bài 25. Ngọn lửa Ô-lim-pích",
     "xp": 50,
     "steps": [
       {
@@ -10148,6 +10415,7 @@
   {
     "id": "lv3_g3_t2_earth_b26",
     "skill": "lv3_g3_t2_earth_b26",
+    "title": "Bài 26. Rô-bốt ở quanh ta",
     "xp": 50,
     "steps": [
       {
@@ -10186,6 +10454,7 @@
   {
     "id": "lv3_g3_t2_earth_b27",
     "skill": "lv3_g3_t2_earth_b27",
+    "title": "Bài 27. Thư của ông Trái Đất gửi các bạn nhỏ",
     "xp": 50,
     "steps": [
       {
@@ -10224,6 +10493,7 @@
   {
     "id": "lv3_g3_t2_earth_b28",
     "skill": "lv3_g3_t2_earth_b28",
+    "title": "Bài 28. Những điều nhỏ tớ làm cho Trái Đất",
     "xp": 50,
     "steps": [
       {
@@ -10262,6 +10532,7 @@
   {
     "id": "lv3_g3_t2_earth_b29",
     "skill": "lv3_g3_t2_earth_b29",
+    "title": "Bài 29. Bác sĩ Y-éc-xanh",
     "xp": 50,
     "steps": [
       {
@@ -10300,6 +10571,7 @@
   {
     "id": "lv3_g3_t2_earth_b30",
     "skill": "lv3_g3_t2_earth_b30",
+    "title": "Bài 30. Một mái nhà chung",
     "xp": 50,
     "steps": [
       {
@@ -10338,6 +10610,7 @@
   {
     "id": "lv3_g3_t2_review_end_b01",
     "skill": "lv3_g3_t2_review_end_b01",
+    "title": "Ôn tập đánh giá cuối học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -10376,6 +10649,7 @@
   {
     "id": "lv4_g4_t1_unique_b01",
     "skill": "lv4_g4_t1_unique_b01",
+    "title": "Bài 1. Điều kì diệu",
     "xp": 50,
     "steps": [
       {
@@ -10414,6 +10688,7 @@
   {
     "id": "lv4_g4_t1_unique_b02",
     "skill": "lv4_g4_t1_unique_b02",
+    "title": "Bài 2. Thi nhạc",
     "xp": 50,
     "steps": [
       {
@@ -10452,6 +10727,7 @@
   {
     "id": "lv4_g4_t1_unique_b03",
     "skill": "lv4_g4_t1_unique_b03",
+    "title": "Bài 3. Anh em sinh đôi",
     "xp": 50,
     "steps": [
       {
@@ -10490,6 +10766,7 @@
   {
     "id": "lv4_g4_t1_unique_b04",
     "skill": "lv4_g4_t1_unique_b04",
+    "title": "Bài 4. Công chúa và người dẫn chuyện",
     "xp": 50,
     "steps": [
       {
@@ -10528,6 +10805,7 @@
   {
     "id": "lv4_g4_t1_unique_b05",
     "skill": "lv4_g4_t1_unique_b05",
+    "title": "Bài 5. Thằn lằn xanh và tắc kè",
     "xp": 50,
     "steps": [
       {
@@ -10566,6 +10844,7 @@
   {
     "id": "lv4_g4_t1_unique_b06",
     "skill": "lv4_g4_t1_unique_b06",
+    "title": "Bài 6. Nghệ sĩ trống",
     "xp": 50,
     "steps": [
       {
@@ -10604,6 +10883,7 @@
   {
     "id": "lv4_g4_t1_unique_b07",
     "skill": "lv4_g4_t1_unique_b07",
+    "title": "Bài 7. Những bức chân dung",
     "xp": 50,
     "steps": [
       {
@@ -10642,6 +10922,7 @@
   {
     "id": "lv4_g4_t1_unique_b08",
     "skill": "lv4_g4_t1_unique_b08",
+    "title": "Bài 8. Đò ngang",
     "xp": 50,
     "steps": [
       {
@@ -10680,6 +10961,7 @@
   {
     "id": "lv4_g4_t1_explore_b09",
     "skill": "lv4_g4_t1_explore_b09",
+    "title": "Bài 9. Bầu trời trong quả trứng",
     "xp": 50,
     "steps": [
       {
@@ -10718,6 +11000,7 @@
   {
     "id": "lv4_g4_t1_explore_b10",
     "skill": "lv4_g4_t1_explore_b10",
+    "title": "Bài 10. Tiếng nói của cỏ cây",
     "xp": 50,
     "steps": [
       {
@@ -10756,6 +11039,7 @@
   {
     "id": "lv4_g4_t1_explore_b11",
     "skill": "lv4_g4_t1_explore_b11",
+    "title": "Bài 11. Tập làm văn",
     "xp": 50,
     "steps": [
       {
@@ -10794,6 +11078,7 @@
   {
     "id": "lv4_g4_t1_explore_b12",
     "skill": "lv4_g4_t1_explore_b12",
+    "title": "Bài 12. Nhà phát minh 6 tuổi",
     "xp": 50,
     "steps": [
       {
@@ -10832,6 +11117,7 @@
   {
     "id": "lv4_g4_t1_explore_b13",
     "skill": "lv4_g4_t1_explore_b13",
+    "title": "Bài 13. Con vẹt xanh",
     "xp": 50,
     "steps": [
       {
@@ -10870,6 +11156,7 @@
   {
     "id": "lv4_g4_t1_explore_b14",
     "skill": "lv4_g4_t1_explore_b14",
+    "title": "Bài 14. Chân trời cuối phố",
     "xp": 50,
     "steps": [
       {
@@ -10908,6 +11195,7 @@
   {
     "id": "lv4_g4_t1_explore_b15",
     "skill": "lv4_g4_t1_explore_b15",
+    "title": "Bài 15. Gặt chữ trên non",
     "xp": 50,
     "steps": [
       {
@@ -10946,6 +11234,7 @@
   {
     "id": "lv4_g4_t1_explore_b16",
     "skill": "lv4_g4_t1_explore_b16",
+    "title": "Bài 16. Trước ngày xa quê",
     "xp": 50,
     "steps": [
       {
@@ -10984,6 +11273,7 @@
   {
     "id": "lv4_g4_t1_review_mid_b01",
     "skill": "lv4_g4_t1_review_mid_b01",
+    "title": "Ôn tập giữa học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -11022,6 +11312,7 @@
   {
     "id": "lv4_g4_t1_creative_b17",
     "skill": "lv4_g4_t1_creative_b17",
+    "title": "Bài 17. Vẽ màu",
     "xp": 50,
     "steps": [
       {
@@ -11060,6 +11351,7 @@
   {
     "id": "lv4_g4_t1_creative_b18",
     "skill": "lv4_g4_t1_creative_b18",
+    "title": "Bài 18. Đồng cỏ nở hoa",
     "xp": 50,
     "steps": [
       {
@@ -11098,6 +11390,7 @@
   {
     "id": "lv4_g4_t1_creative_b19",
     "skill": "lv4_g4_t1_creative_b19",
+    "title": "Bài 19. Âm thanh của núi",
     "xp": 50,
     "steps": [
       {
@@ -11136,6 +11429,7 @@
   {
     "id": "lv4_g4_t1_creative_b20",
     "skill": "lv4_g4_t1_creative_b20",
+    "title": "Bài 20. Bầu trời mùa thu",
     "xp": 50,
     "steps": [
       {
@@ -11174,6 +11468,7 @@
   {
     "id": "lv4_g4_t1_creative_b21",
     "skill": "lv4_g4_t1_creative_b21",
+    "title": "Bài 21. Làm thỏ con bằng giấy",
     "xp": 50,
     "steps": [
       {
@@ -11212,6 +11507,7 @@
   {
     "id": "lv4_g4_t1_creative_b22",
     "skill": "lv4_g4_t1_creative_b22",
+    "title": "Bài 22. Bức tường có nhiều phép lạ",
     "xp": 50,
     "steps": [
       {
@@ -11250,6 +11546,7 @@
   {
     "id": "lv4_g4_t1_creative_b23",
     "skill": "lv4_g4_t1_creative_b23",
+    "title": "Bài 23. Bét – tô – ven và bản xô – nát Ánh Trăng",
     "xp": 50,
     "steps": [
       {
@@ -11288,6 +11585,7 @@
   {
     "id": "lv4_g4_t1_creative_b24",
     "skill": "lv4_g4_t1_creative_b24",
+    "title": "Bài 24. Người tìm đường lên các vì sao",
     "xp": 50,
     "steps": [
       {
@@ -11326,6 +11624,7 @@
   {
     "id": "lv4_g4_t1_dream_b25",
     "skill": "lv4_g4_t1_dream_b25",
+    "title": "Bài 25. Bay cùng ước mơ",
     "xp": 50,
     "steps": [
       {
@@ -11364,6 +11663,7 @@
   {
     "id": "lv4_g4_t1_dream_b26",
     "skill": "lv4_g4_t1_dream_b26",
+    "title": "Bài 26. Con trai người làm vườn",
     "xp": 50,
     "steps": [
       {
@@ -11402,6 +11702,7 @@
   {
     "id": "lv4_g4_t1_dream_b27",
     "skill": "lv4_g4_t1_dream_b27",
+    "title": "Bài 27. Nếu có một khu vườn",
     "xp": 50,
     "steps": [
       {
@@ -11440,6 +11741,7 @@
   {
     "id": "lv4_g4_t1_dream_b28",
     "skill": "lv4_g4_t1_dream_b28",
+    "title": "Bài 28. Bốn mùa mơ ước",
     "xp": 50,
     "steps": [
       {
@@ -11478,6 +11780,7 @@
   {
     "id": "lv4_g4_t1_dream_b29",
     "skill": "lv4_g4_t1_dream_b29",
+    "title": "Bài 29. Ở vương quốc tương lai",
     "xp": 50,
     "steps": [
       {
@@ -11516,6 +11819,7 @@
   {
     "id": "lv4_g4_t1_dream_b30",
     "skill": "lv4_g4_t1_dream_b30",
+    "title": "Bài 30. Cách chim nhỏ",
     "xp": 50,
     "steps": [
       {
@@ -11554,6 +11858,7 @@
   {
     "id": "lv4_g4_t1_dream_b31",
     "skill": "lv4_g4_t1_dream_b31",
+    "title": "Bài 31. Nếu chúng mình có phép lạ",
     "xp": 50,
     "steps": [
       {
@@ -11592,6 +11897,7 @@
   {
     "id": "lv4_g4_t1_dream_b32",
     "skill": "lv4_g4_t1_dream_b32",
+    "title": "Bài 32. Anh Ba",
     "xp": 50,
     "steps": [
       {
@@ -11630,6 +11936,7 @@
   {
     "id": "lv4_g4_t1_review_end_b01",
     "skill": "lv4_g4_t1_review_end_b01",
+    "title": "Ôn tập cuối học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -11668,6 +11975,7 @@
   {
     "id": "lv4_g4_t2_love_b01",
     "skill": "lv4_g4_t2_love_b01",
+    "title": "Bài 1. Hải thượng lãn ông",
     "xp": 50,
     "steps": [
       {
@@ -11706,6 +12014,7 @@
   {
     "id": "lv4_g4_t2_love_b02",
     "skill": "lv4_g4_t2_love_b02",
+    "title": "Bài 2. Vệt phấn trên mặt bàn",
     "xp": 50,
     "steps": [
       {
@@ -11744,6 +12053,7 @@
   {
     "id": "lv4_g4_t2_love_b03",
     "skill": "lv4_g4_t2_love_b03",
+    "title": "Bài 3. Ông bụt đã đến",
     "xp": 50,
     "steps": [
       {
@@ -11782,6 +12092,7 @@
   {
     "id": "lv4_g4_t2_love_b04",
     "skill": "lv4_g4_t2_love_b04",
+    "title": "Bài 4. Quả ngọt cuối mùa",
     "xp": 50,
     "steps": [
       {
@@ -11820,6 +12131,7 @@
   {
     "id": "lv4_g4_t2_love_b05",
     "skill": "lv4_g4_t2_love_b05",
+    "title": "Bài 5. Tờ báo tường của tôi",
     "xp": 50,
     "steps": [
       {
@@ -11858,6 +12170,7 @@
   {
     "id": "lv4_g4_t2_love_b06",
     "skill": "lv4_g4_t2_love_b06",
+    "title": "Bài 6. Tiếng ru",
     "xp": 50,
     "steps": [
       {
@@ -11896,6 +12209,7 @@
   {
     "id": "lv4_g4_t2_love_b07",
     "skill": "lv4_g4_t2_love_b07",
+    "title": "Bài 7. Con muốn làm một cái cây",
     "xp": 50,
     "steps": [
       {
@@ -11934,6 +12248,7 @@
   {
     "id": "lv4_g4_t2_love_b08",
     "skill": "lv4_g4_t2_love_b08",
+    "title": "Bài 8. Trên khóm tre đầu ngõ",
     "xp": 50,
     "steps": [
       {
@@ -11972,6 +12287,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b09",
     "skill": "lv4_g4_t2_gratitude_b09",
+    "title": "Bài 9. Sự tích con Rồng cháu Tiên",
     "xp": 50,
     "steps": [
       {
@@ -12010,6 +12326,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b10",
     "skill": "lv4_g4_t2_gratitude_b10",
+    "title": "Bài 10. Cảm xúc Trường Sa",
     "xp": 50,
     "steps": [
       {
@@ -12048,6 +12365,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b11",
     "skill": "lv4_g4_t2_gratitude_b11",
+    "title": "Bài 11. Sáng tháng năm",
     "xp": 50,
     "steps": [
       {
@@ -12086,6 +12404,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b12",
     "skill": "lv4_g4_t2_gratitude_b12",
+    "title": "Bài 12. Chàng trai làng Phù Ủng",
     "xp": 50,
     "steps": [
       {
@@ -12124,6 +12443,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b13",
     "skill": "lv4_g4_t2_gratitude_b13",
+    "title": "Bài 13. Vườn của ông tôi",
     "xp": 50,
     "steps": [
       {
@@ -12162,6 +12482,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b14",
     "skill": "lv4_g4_t2_gratitude_b14",
+    "title": "Bài 14. Trong lời mẹ hát",
     "xp": 50,
     "steps": [
       {
@@ -12200,6 +12521,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b15",
     "skill": "lv4_g4_t2_gratitude_b15",
+    "title": "Bài 15. Người thầy đầu tiên của bố tôi",
     "xp": 50,
     "steps": [
       {
@@ -12238,6 +12560,7 @@
   {
     "id": "lv4_g4_t2_gratitude_b16",
     "skill": "lv4_g4_t2_gratitude_b16",
+    "title": "Bài 16. Ngựa biên phòng",
     "xp": 50,
     "steps": [
       {
@@ -12276,6 +12599,7 @@
   {
     "id": "lv4_g4_t2_review_mid_b01",
     "skill": "lv4_g4_t2_review_mid_b01",
+    "title": "Ôn tập và đánh giá giữa học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -12314,6 +12638,7 @@
   {
     "id": "lv4_g4_t2_hometown_b17",
     "skill": "lv4_g4_t2_hometown_b17",
+    "title": "Bài 17. Cây đa quê hương",
     "xp": 50,
     "steps": [
       {
@@ -12352,6 +12677,7 @@
   {
     "id": "lv4_g4_t2_hometown_b18",
     "skill": "lv4_g4_t2_hometown_b18",
+    "title": "Bài 18. Bước mùa xuân",
     "xp": 50,
     "steps": [
       {
@@ -12390,6 +12716,7 @@
   {
     "id": "lv4_g4_t2_hometown_b19",
     "skill": "lv4_g4_t2_hometown_b19",
+    "title": "Bài 19. Đi hội chùa Hương",
     "xp": 50,
     "steps": [
       {
@@ -12428,6 +12755,7 @@
   {
     "id": "lv4_g4_t2_hometown_b20",
     "skill": "lv4_g4_t2_hometown_b20",
+    "title": "Bài 20. Chiều ngoại ô",
     "xp": 50,
     "steps": [
       {
@@ -12466,6 +12794,7 @@
   {
     "id": "lv4_g4_t2_hometown_b21",
     "skill": "lv4_g4_t2_hometown_b21",
+    "title": "Bài 21. Những cánh buồm",
     "xp": 50,
     "steps": [
       {
@@ -12504,6 +12833,7 @@
   {
     "id": "lv4_g4_t2_hometown_b22",
     "skill": "lv4_g4_t2_hometown_b22",
+    "title": "Bài 22. Cái cầu",
     "xp": 50,
     "steps": [
       {
@@ -12542,6 +12872,7 @@
   {
     "id": "lv4_g4_t2_hometown_b23",
     "skill": "lv4_g4_t2_hometown_b23",
+    "title": "Bài 23. Đường đi Sa Pa",
     "xp": 50,
     "steps": [
       {
@@ -12580,6 +12911,7 @@
   {
     "id": "lv4_g4_t2_hometown_b24",
     "skill": "lv4_g4_t2_hometown_b24",
+    "title": "Bài 24. Quê ngoại",
     "xp": 50,
     "steps": [
       {
@@ -12618,6 +12950,7 @@
   {
     "id": "lv4_g4_t2_peace_b25",
     "skill": "lv4_g4_t2_peace_b25",
+    "title": "Bài 25. Khu bảo tồn động vật hoang dã Ngô-rông-gô-rô",
     "xp": 50,
     "steps": [
       {
@@ -12656,6 +12989,7 @@
   {
     "id": "lv4_g4_t2_peace_b26",
     "skill": "lv4_g4_t2_peace_b26",
+    "title": "Bài 26. Ngôi nhà của yêu thương",
     "xp": 50,
     "steps": [
       {
@@ -12694,6 +13028,7 @@
   {
     "id": "lv4_g4_t2_peace_b27",
     "skill": "lv4_g4_t2_peace_b27",
+    "title": "Bài 27. Băng tan",
     "xp": 50,
     "steps": [
       {
@@ -12732,6 +13067,7 @@
   {
     "id": "lv4_g4_t2_peace_b28",
     "skill": "lv4_g4_t2_peace_b28",
+    "title": "Bài 28. Chuyến du lịch thú vị",
     "xp": 50,
     "steps": [
       {
@@ -12770,6 +13106,7 @@
   {
     "id": "lv4_g4_t2_peace_b29",
     "skill": "lv4_g4_t2_peace_b29",
+    "title": "Bài 29. Lễ hội ở Nhật Bản",
     "xp": 50,
     "steps": [
       {
@@ -12808,6 +13145,7 @@
   {
     "id": "lv4_g4_t2_peace_b30",
     "skill": "lv4_g4_t2_peace_b30",
+    "title": "Bài 30. Ngày hội",
     "xp": 50,
     "steps": [
       {
@@ -12846,6 +13184,7 @@
   {
     "id": "lv4_g4_t2_review_end_b01",
     "skill": "lv4_g4_t2_review_end_b01",
+    "title": "Ôn tập và đánh giá cuối năm học",
     "xp": 50,
     "steps": [
       {
@@ -12884,6 +13223,7 @@
   {
     "id": "lv5_g5_t1_childhood_b01",
     "skill": "lv5_g5_t1_childhood_b01",
+    "title": "Bài 1. Thanh âm của gió",
     "xp": 50,
     "steps": [
       {
@@ -12922,6 +13262,7 @@
   {
     "id": "lv5_g5_t1_childhood_b02",
     "skill": "lv5_g5_t1_childhood_b02",
+    "title": "Bài 2. Cánh đồng hoa",
     "xp": 50,
     "steps": [
       {
@@ -12960,6 +13301,7 @@
   {
     "id": "lv5_g5_t1_childhood_b03",
     "skill": "lv5_g5_t1_childhood_b03",
+    "title": "Bài 3. Tuổi ngựa",
     "xp": 50,
     "steps": [
       {
@@ -12998,6 +13340,7 @@
   {
     "id": "lv5_g5_t1_childhood_b04",
     "skill": "lv5_g5_t1_childhood_b04",
+    "title": "Bài 4. Bến sông tuổi thơ",
     "xp": 50,
     "steps": [
       {
@@ -13036,6 +13379,7 @@
   {
     "id": "lv5_g5_t1_childhood_b05",
     "skill": "lv5_g5_t1_childhood_b05",
+    "title": "Bài 5. Tiếng hạt nảy mầm",
     "xp": 50,
     "steps": [
       {
@@ -13074,6 +13418,7 @@
   {
     "id": "lv5_g5_t1_childhood_b06",
     "skill": "lv5_g5_t1_childhood_b06",
+    "title": "Bài 6. Ngôi sao sân cỏ",
     "xp": 50,
     "steps": [
       {
@@ -13112,6 +13457,7 @@
   {
     "id": "lv5_g5_t1_childhood_b07",
     "skill": "lv5_g5_t1_childhood_b07",
+    "title": "Bài 7. Bộ sưu tập độc đáo",
     "xp": 50,
     "steps": [
       {
@@ -13150,6 +13496,7 @@
   {
     "id": "lv5_g5_t1_childhood_b08",
     "skill": "lv5_g5_t1_childhood_b08",
+    "title": "Bài 8. Hành tinh kì lạ",
     "xp": 50,
     "steps": [
       {
@@ -13188,6 +13535,7 @@
   {
     "id": "lv5_g5_t1_nature_b09",
     "skill": "lv5_g5_t1_nature_b09",
+    "title": "Bài 9. Trước cổng trời",
     "xp": 50,
     "steps": [
       {
@@ -13226,6 +13574,7 @@
   {
     "id": "lv5_g5_t1_nature_b10",
     "skill": "lv5_g5_t1_nature_b10",
+    "title": "Bài 10. Kì diệu rừng xanh",
     "xp": 50,
     "steps": [
       {
@@ -13264,6 +13613,7 @@
   {
     "id": "lv5_g5_t1_nature_b11",
     "skill": "lv5_g5_t1_nature_b11",
+    "title": "Bài 11. Hang Sơn Đoòng – những điều kì thú",
     "xp": 50,
     "steps": [
       {
@@ -13302,6 +13652,7 @@
   {
     "id": "lv5_g5_t1_nature_b12",
     "skill": "lv5_g5_t1_nature_b12",
+    "title": "Bài 12. Những hòn đảo trên vịnh Hạ Long",
     "xp": 50,
     "steps": [
       {
@@ -13340,6 +13691,7 @@
   {
     "id": "lv5_g5_t1_nature_b13",
     "skill": "lv5_g5_t1_nature_b13",
+    "title": "Bài 13. Mầm non",
     "xp": 50,
     "steps": [
       {
@@ -13378,6 +13730,7 @@
   {
     "id": "lv5_g5_t1_nature_b14",
     "skill": "lv5_g5_t1_nature_b14",
+    "title": "Bài 14. Những ngọn núi nóng rẫy",
     "xp": 50,
     "steps": [
       {
@@ -13416,6 +13769,7 @@
   {
     "id": "lv5_g5_t1_nature_b15",
     "skill": "lv5_g5_t1_nature_b15",
+    "title": "Bài 15. Bài ca về mặt trời",
     "xp": 50,
     "steps": [
       {
@@ -13454,6 +13808,7 @@
   {
     "id": "lv5_g5_t1_nature_b16",
     "skill": "lv5_g5_t1_nature_b16",
+    "title": "Bài 16. Xin chào, Xa-ha-ra",
     "xp": 50,
     "steps": [
       {
@@ -13492,6 +13847,7 @@
   {
     "id": "lv5_g5_t1_review_mid_b01",
     "skill": "lv5_g5_t1_review_mid_b01",
+    "title": "Ôn tập giữa học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -13530,6 +13886,7 @@
   {
     "id": "lv5_g5_t1_study_b17",
     "skill": "lv5_g5_t1_study_b17",
+    "title": "Bài 17. Thư gửi các học sinh",
     "xp": 50,
     "steps": [
       {
@@ -13568,6 +13925,7 @@
   {
     "id": "lv5_g5_t1_study_b18",
     "skill": "lv5_g5_t1_study_b18",
+    "title": "Bài 18. Tấm gương tự học",
     "xp": 50,
     "steps": [
       {
@@ -13606,6 +13964,7 @@
   {
     "id": "lv5_g5_t1_study_b19",
     "skill": "lv5_g5_t1_study_b19",
+    "title": "Bài 19. Trải nghiệm để sáng tạo",
     "xp": 50,
     "steps": [
       {
@@ -13644,6 +14003,7 @@
   {
     "id": "lv5_g5_t1_study_b20",
     "skill": "lv5_g5_t1_study_b20",
+    "title": "Bài 20. Khổ luyện thành tài",
     "xp": 50,
     "steps": [
       {
@@ -13682,6 +14042,7 @@
   {
     "id": "lv5_g5_t1_study_b21",
     "skill": "lv5_g5_t1_study_b21",
+    "title": "Bài 21. Thế giới trong trang sách",
     "xp": 50,
     "steps": [
       {
@@ -13720,6 +14081,7 @@
   {
     "id": "lv5_g5_t1_study_b22",
     "skill": "lv5_g5_t1_study_b22",
+    "title": "Bài 22. Từ những câu chuyện ấu thơ",
     "xp": 50,
     "steps": [
       {
@@ -13758,6 +14120,7 @@
   {
     "id": "lv5_g5_t1_study_b23",
     "skill": "lv5_g5_t1_study_b23",
+    "title": "Bài 23. Giới thiệu sách Dế Mèn phiêu lưu kí",
     "xp": 50,
     "steps": [
       {
@@ -13796,6 +14159,7 @@
   {
     "id": "lv5_g5_t1_study_b24",
     "skill": "lv5_g5_t1_study_b24",
+    "title": "Bài 24. Tinh thần học tập của nhà Phi-lít",
     "xp": 50,
     "steps": [
       {
@@ -13834,6 +14198,7 @@
   {
     "id": "lv5_g5_t1_art_b25",
     "skill": "lv5_g5_t1_art_b25",
+    "title": "Bài 25. Tiếng đàn ba-la-lai-ca trên sông Đà",
     "xp": 50,
     "steps": [
       {
@@ -13872,6 +14237,7 @@
   {
     "id": "lv5_g5_t1_art_b26",
     "skill": "lv5_g5_t1_art_b26",
+    "title": "Bài 26. Trí tưởng tượng phong phú",
     "xp": 50,
     "steps": [
       {
@@ -13910,6 +14276,7 @@
   {
     "id": "lv5_g5_t1_art_b27",
     "skill": "lv5_g5_t1_art_b27",
+    "title": "Bài 27. Tranh làng Hồ",
     "xp": 50,
     "steps": [
       {
@@ -13948,6 +14315,7 @@
   {
     "id": "lv5_g5_t1_art_b28",
     "skill": "lv5_g5_t1_art_b28",
+    "title": "Bài 28. Tập hát quan họ",
     "xp": 50,
     "steps": [
       {
@@ -13986,6 +14354,7 @@
   {
     "id": "lv5_g5_t1_art_b29",
     "skill": "lv5_g5_t1_art_b29",
+    "title": "Bài 29. Phim hoạt hình Chú ốc sên bay",
     "xp": 50,
     "steps": [
       {
@@ -14024,6 +14393,7 @@
   {
     "id": "lv5_g5_t1_art_b30",
     "skill": "lv5_g5_t1_art_b30",
+    "title": "Bài 30. Nghệ thuật múa ba lê",
     "xp": 50,
     "steps": [
       {
@@ -14062,6 +14432,7 @@
   {
     "id": "lv5_g5_t1_art_b31",
     "skill": "lv5_g5_t1_art_b31",
+    "title": "Bài 31. Một ngôi chùa độc đáo",
     "xp": 50,
     "steps": [
       {
@@ -14100,6 +14471,7 @@
   {
     "id": "lv5_g5_t1_art_b32",
     "skill": "lv5_g5_t1_art_b32",
+    "title": "Bài 32. Sự tích chú Tễu",
     "xp": 50,
     "steps": [
       {
@@ -14138,6 +14510,7 @@
   {
     "id": "lv5_g5_t1_review_end_b01",
     "skill": "lv5_g5_t1_review_end_b01",
+    "title": "Ôn tập cuối học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -14176,6 +14549,7 @@
   {
     "id": "lv5_g5_t2_life_b01",
     "skill": "lv5_g5_t2_life_b01",
+    "title": "Bài 1. Tiếng hát của người đá",
     "xp": 50,
     "steps": [
       {
@@ -14214,6 +14588,7 @@
   {
     "id": "lv5_g5_t2_life_b02",
     "skill": "lv5_g5_t2_life_b02",
+    "title": "Bài 2. Khúc hát ru những em bé lớn trên lưng mẹ",
     "xp": 50,
     "steps": [
       {
@@ -14252,6 +14627,7 @@
   {
     "id": "lv5_g5_t2_life_b03",
     "skill": "lv5_g5_t2_life_b03",
+    "title": "Bài 3. Hạt gạo làng ta",
     "xp": 50,
     "steps": [
       {
@@ -14290,6 +14666,7 @@
   {
     "id": "lv5_g5_t2_life_b04",
     "skill": "lv5_g5_t2_life_b04",
+    "title": "Bài 4. Hộp quà màu thiên thanh",
     "xp": 50,
     "steps": [
       {
@@ -14328,6 +14705,7 @@
   {
     "id": "lv5_g5_t2_life_b05",
     "skill": "lv5_g5_t2_life_b05",
+    "title": "Bài 5. Giỏ hoa tháng Năm",
     "xp": 50,
     "steps": [
       {
@@ -14366,6 +14744,7 @@
   {
     "id": "lv5_g5_t2_life_b06",
     "skill": "lv5_g5_t2_life_b06",
+    "title": "Bài 6. Thư của bố",
     "xp": 50,
     "steps": [
       {
@@ -14404,6 +14783,7 @@
   {
     "id": "lv5_g5_t2_life_b07",
     "skill": "lv5_g5_t2_life_b07",
+    "title": "Bài 7. Đoàn thuyền đánh cá",
     "xp": 50,
     "steps": [
       {
@@ -14442,6 +14822,7 @@
   {
     "id": "lv5_g5_t2_life_b08",
     "skill": "lv5_g5_t2_life_b08",
+    "title": "Bài 8. Khu rừng của Mát",
     "xp": 50,
     "steps": [
       {
@@ -14480,6 +14861,7 @@
   {
     "id": "lv5_g5_t2_regions_b09",
     "skill": "lv5_g5_t2_regions_b09",
+    "title": "Bài 9. Hội thổi cơm thi ở Đồng Vân",
     "xp": 50,
     "steps": [
       {
@@ -14518,6 +14900,7 @@
   {
     "id": "lv5_g5_t2_regions_b10",
     "skill": "lv5_g5_t2_regions_b10",
+    "title": "Bài 10. Những búp chè trên cây cổ thụ",
     "xp": 50,
     "steps": [
       {
@@ -14556,6 +14939,7 @@
   {
     "id": "lv5_g5_t2_regions_b11",
     "skill": "lv5_g5_t2_regions_b11",
+    "title": "Bài 11. Hương cốm mùa thu",
     "xp": 50,
     "steps": [
       {
@@ -14594,6 +14978,7 @@
   {
     "id": "lv5_g5_t2_regions_b12",
     "skill": "lv5_g5_t2_regions_b12",
+    "title": "Bài 12. Vũ điệu trên nền thổ cẩm",
     "xp": 50,
     "steps": [
       {
@@ -14632,6 +15017,7 @@
   {
     "id": "lv5_g5_t2_regions_b13",
     "skill": "lv5_g5_t2_regions_b13",
+    "title": "Bài 13. Đàn t'rưng – tiếng ca đại ngàn",
     "xp": 50,
     "steps": [
       {
@@ -14670,6 +15056,7 @@
   {
     "id": "lv5_g5_t2_regions_b14",
     "skill": "lv5_g5_t2_regions_b14",
+    "title": "Bài 14. Đường quê Đồng Tháp Mười",
     "xp": 50,
     "steps": [
       {
@@ -14708,6 +15095,7 @@
   {
     "id": "lv5_g5_t2_regions_b15",
     "skill": "lv5_g5_t2_regions_b15",
+    "title": "Bài 15. Xuồng ba lá quê tôi",
     "xp": 50,
     "steps": [
       {
@@ -14746,6 +15134,7 @@
   {
     "id": "lv5_g5_t2_regions_b16",
     "skill": "lv5_g5_t2_regions_b16",
+    "title": "Bài 16. Về thăm Đất Mũi",
     "xp": 50,
     "steps": [
       {
@@ -14784,6 +15173,7 @@
   {
     "id": "lv5_g5_t2_review_mid_b01",
     "skill": "lv5_g5_t2_review_mid_b01",
+    "title": "Ôn tập giữa học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -14822,6 +15212,7 @@
   {
     "id": "lv5_g5_t2_heritage_b17",
     "skill": "lv5_g5_t2_heritage_b17",
+    "title": "Bài 17. Nghìn năm văn hiến",
     "xp": 50,
     "steps": [
       {
@@ -14860,6 +15251,7 @@
   {
     "id": "lv5_g5_t2_heritage_b18",
     "skill": "lv5_g5_t2_heritage_b18",
+    "title": "Bài 18. Người thầy của muôn đời",
     "xp": 50,
     "steps": [
       {
@@ -14898,6 +15290,7 @@
   {
     "id": "lv5_g5_t2_heritage_b19",
     "skill": "lv5_g5_t2_heritage_b19",
+    "title": "Bài 19. Danh y Tuệ Tĩnh",
     "xp": 50,
     "steps": [
       {
@@ -14936,6 +15329,7 @@
   {
     "id": "lv5_g5_t2_heritage_b20",
     "skill": "lv5_g5_t2_heritage_b20",
+    "title": "Bài 20. Cụ Đồ Chiểu",
     "xp": 50,
     "steps": [
       {
@@ -14974,6 +15368,7 @@
   {
     "id": "lv5_g5_t2_heritage_b21",
     "skill": "lv5_g5_t2_heritage_b21",
+    "title": "Bài 21. Anh hùng Lao động Trần Đại Nghĩa",
     "xp": 50,
     "steps": [
       {
@@ -15012,6 +15407,7 @@
   {
     "id": "lv5_g5_t2_heritage_b22",
     "skill": "lv5_g5_t2_heritage_b22",
+    "title": "Bài 22. Bộ đội về làng",
     "xp": 50,
     "steps": [
       {
@@ -15050,6 +15446,7 @@
   {
     "id": "lv5_g5_t2_heritage_b23",
     "skill": "lv5_g5_t2_heritage_b23",
+    "title": "Bài 23. Về ngôi nhà đang xây",
     "xp": 50,
     "steps": [
       {
@@ -15088,6 +15485,7 @@
   {
     "id": "lv5_g5_t2_heritage_b24",
     "skill": "lv5_g5_t2_heritage_b24",
+    "title": "Bài 24. Việt Nam quê hương ta",
     "xp": 50,
     "steps": [
       {
@@ -15126,6 +15524,7 @@
   {
     "id": "lv5_g5_t2_world_b25",
     "skill": "lv5_g5_t2_world_b25",
+    "title": "Bài 25. Bài ca trái đất",
     "xp": 50,
     "steps": [
       {
@@ -15164,6 +15563,7 @@
   {
     "id": "lv5_g5_t2_world_b26",
     "skill": "lv5_g5_t2_world_b26",
+    "title": "Bài 26. Những con hạc giấy",
     "xp": 50,
     "steps": [
       {
@@ -15202,6 +15602,7 @@
   {
     "id": "lv5_g5_t2_world_b27",
     "skill": "lv5_g5_t2_world_b27",
+    "title": "Bài 27. Một người hùng thầm lặng",
     "xp": 50,
     "steps": [
       {
@@ -15240,6 +15641,7 @@
   {
     "id": "lv5_g5_t2_world_b28",
     "skill": "lv5_g5_t2_world_b28",
+    "title": "Bài 28. Giờ Trái Đất",
     "xp": 50,
     "steps": [
       {
@@ -15278,6 +15680,7 @@
   {
     "id": "lv5_g5_t2_world_b29",
     "skill": "lv5_g5_t2_world_b29",
+    "title": "Bài 29. Điện thoại di động",
     "xp": 50,
     "steps": [
       {
@@ -15316,6 +15719,7 @@
   {
     "id": "lv5_g5_t2_world_b30",
     "skill": "lv5_g5_t2_world_b30",
+    "title": "Bài 30. Thành phố thông minh Mát-xđa",
     "xp": 50,
     "steps": [
       {
@@ -15354,6 +15758,7 @@
   {
     "id": "lv5_g5_t2_review_end_b01",
     "skill": "lv5_g5_t2_review_end_b01",
+    "title": "Ôn tập cuối năm học",
     "xp": 50,
     "steps": [
       {
@@ -15392,6 +15797,7 @@
   {
     "id": "lv6_g6_t1_friends_b01",
     "skill": "lv6_g6_t1_friends_b01",
+    "title": "Bài 1. Tôi và các bạn",
     "xp": 50,
     "steps": [
       {
@@ -15430,6 +15836,7 @@
   {
     "id": "lv6_g6_t1_friends_b02",
     "skill": "lv6_g6_t1_friends_b02",
+    "title": "Bài 2. Gõ cửa trái tim",
     "xp": 50,
     "steps": [
       {
@@ -15468,6 +15875,7 @@
   {
     "id": "lv6_g6_t1_friends_b03",
     "skill": "lv6_g6_t1_friends_b03",
+    "title": "Bài 3. Yêu thương và chia sẻ",
     "xp": 50,
     "steps": [
       {
@@ -15506,6 +15914,7 @@
   {
     "id": "lv6_g6_t1_friends_b04",
     "skill": "lv6_g6_t1_friends_b04",
+    "title": "Bài 4. Quê hương yêu dấu",
     "xp": 50,
     "steps": [
       {
@@ -15544,6 +15953,7 @@
   {
     "id": "lv6_g6_t1_friends_b05",
     "skill": "lv6_g6_t1_friends_b05",
+    "title": "Bài 5. Những nẻo đường xứ sở",
     "xp": 50,
     "steps": [
       {
@@ -15582,6 +15992,7 @@
   {
     "id": "lv6_g6_t1_review_b01",
     "skill": "lv6_g6_t1_review_b01",
+    "title": "Ôn tập học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -15620,6 +16031,7 @@
   {
     "id": "lv6_g6_t2_heroes_b06",
     "skill": "lv6_g6_t2_heroes_b06",
+    "title": "Bài 6. Chuyện kể về những người anh hùng",
     "xp": 50,
     "steps": [
       {
@@ -15658,6 +16070,7 @@
   {
     "id": "lv6_g6_t2_heroes_b07",
     "skill": "lv6_g6_t2_heroes_b07",
+    "title": "Bài 7. Thế giới cổ tích",
     "xp": 50,
     "steps": [
       {
@@ -15696,6 +16109,7 @@
   {
     "id": "lv6_g6_t2_heroes_b08",
     "skill": "lv6_g6_t2_heroes_b08",
+    "title": "Bài 8. Khác biệt và gần gũi",
     "xp": 50,
     "steps": [
       {
@@ -15734,6 +16148,7 @@
   {
     "id": "lv6_g6_t2_heroes_b09",
     "skill": "lv6_g6_t2_heroes_b09",
+    "title": "Bài 9. Trái Đất - ngôi nhà chung",
     "xp": 50,
     "steps": [
       {
@@ -15772,6 +16187,7 @@
   {
     "id": "lv6_g6_t2_heroes_b10",
     "skill": "lv6_g6_t2_heroes_b10",
+    "title": "Bài 10. Cuốn sách tôi yêu",
     "xp": 50,
     "steps": [
       {
@@ -15810,6 +16226,7 @@
   {
     "id": "lv6_g6_t2_review_b01",
     "skill": "lv6_g6_t2_review_b01",
+    "title": "Ôn tập học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -15848,6 +16265,7 @@
   {
     "id": "lv7_g7_t1_childhood_b01",
     "skill": "lv7_g7_t1_childhood_b01",
+    "title": "Bài 1. Bầu trời tuổi thơ",
     "xp": 50,
     "steps": [
       {
@@ -15886,6 +16304,7 @@
   {
     "id": "lv7_g7_t1_childhood_b02",
     "skill": "lv7_g7_t1_childhood_b02",
+    "title": "Bài 2. Khúc nhạc tâm hồn",
     "xp": 50,
     "steps": [
       {
@@ -15924,6 +16343,7 @@
   {
     "id": "lv7_g7_t1_childhood_b03",
     "skill": "lv7_g7_t1_childhood_b03",
+    "title": "Bài 3. Cội nguồn yêu thương",
     "xp": 50,
     "steps": [
       {
@@ -15962,6 +16382,7 @@
   {
     "id": "lv7_g7_t1_childhood_b04",
     "skill": "lv7_g7_t1_childhood_b04",
+    "title": "Bài 4. Giai điệu đất nước",
     "xp": 50,
     "steps": [
       {
@@ -16000,6 +16421,7 @@
   {
     "id": "lv7_g7_t1_childhood_b05",
     "skill": "lv7_g7_t1_childhood_b05",
+    "title": "Bài 5. Màu sắc trăm miền",
     "xp": 50,
     "steps": [
       {
@@ -16038,6 +16460,7 @@
   {
     "id": "lv7_g7_t1_review_b01",
     "skill": "lv7_g7_t1_review_b01",
+    "title": "Ôn tập học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -16076,6 +16499,7 @@
   {
     "id": "lv7_g7_t2_life_b06",
     "skill": "lv7_g7_t2_life_b06",
+    "title": "Bài 6. Bài học cuộc sống",
     "xp": 50,
     "steps": [
       {
@@ -16114,6 +16538,7 @@
   {
     "id": "lv7_g7_t2_life_b07",
     "skill": "lv7_g7_t2_life_b07",
+    "title": "Bài 7. Thế giới viễn tưởng",
     "xp": 50,
     "steps": [
       {
@@ -16152,6 +16577,7 @@
   {
     "id": "lv7_g7_t2_life_b08",
     "skill": "lv7_g7_t2_life_b08",
+    "title": "Bài 8. Trải nghiệm để trưởng thành",
     "xp": 50,
     "steps": [
       {
@@ -16190,6 +16616,7 @@
   {
     "id": "lv7_g7_t2_life_b09",
     "skill": "lv7_g7_t2_life_b09",
+    "title": "Bài 9. Hòa điệu với tự nhiên",
     "xp": 50,
     "steps": [
       {
@@ -16228,6 +16655,7 @@
   {
     "id": "lv7_g7_t2_life_b10",
     "skill": "lv7_g7_t2_life_b10",
+    "title": "Bài 10. Trang sách và cuộc sống",
     "xp": 50,
     "steps": [
       {
@@ -16266,6 +16694,7 @@
   {
     "id": "lv7_g7_t2_review_b01",
     "skill": "lv7_g7_t2_review_b01",
+    "title": "Ôn tập học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -16304,6 +16733,7 @@
   {
     "id": "lv8_g8_t1_history_b01",
     "skill": "lv8_g8_t1_history_b01",
+    "title": "Bài 1. Câu chuyện của lịch sử",
     "xp": 50,
     "steps": [
       {
@@ -16342,6 +16772,7 @@
   {
     "id": "lv8_g8_t1_history_b02",
     "skill": "lv8_g8_t1_history_b02",
+    "title": "Bài 2. Vẻ đẹp cổ điển",
     "xp": 50,
     "steps": [
       {
@@ -16380,6 +16811,7 @@
   {
     "id": "lv8_g8_t1_history_b03",
     "skill": "lv8_g8_t1_history_b03",
+    "title": "Bài 3. Lời sông núi",
     "xp": 50,
     "steps": [
       {
@@ -16418,6 +16850,7 @@
   {
     "id": "lv8_g8_t1_history_b04",
     "skill": "lv8_g8_t1_history_b04",
+    "title": "Bài 4. Tiếng cười trào phúng trong thơ",
     "xp": 50,
     "steps": [
       {
@@ -16456,6 +16889,7 @@
   {
     "id": "lv8_g8_t1_history_b05",
     "skill": "lv8_g8_t1_history_b05",
+    "title": "Bài 5. Những câu chuyện hài",
     "xp": 50,
     "steps": [
       {
@@ -16494,6 +16928,7 @@
   {
     "id": "lv8_g8_t1_review_b01",
     "skill": "lv8_g8_t1_review_b01",
+    "title": "Ôn tập học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -16532,6 +16967,7 @@
   {
     "id": "lv8_g8_t2_life_b06",
     "skill": "lv8_g8_t2_life_b06",
+    "title": "Bài 6. Chân dung cuộc sống",
     "xp": 50,
     "steps": [
       {
@@ -16570,6 +17006,7 @@
   {
     "id": "lv8_g8_t2_life_b07",
     "skill": "lv8_g8_t2_life_b07",
+    "title": "Bài 7. Tin yêu và ước vọng",
     "xp": 50,
     "steps": [
       {
@@ -16608,6 +17045,7 @@
   {
     "id": "lv8_g8_t2_life_b08",
     "skill": "lv8_g8_t2_life_b08",
+    "title": "Bài 8. Nhà văn và trang viết",
     "xp": 50,
     "steps": [
       {
@@ -16646,6 +17084,7 @@
   {
     "id": "lv8_g8_t2_life_b09",
     "skill": "lv8_g8_t2_life_b09",
+    "title": "Bài 9. Hôm nay và ngày mai",
     "xp": 50,
     "steps": [
       {
@@ -16684,6 +17123,7 @@
   {
     "id": "lv8_g8_t2_life_b10",
     "skill": "lv8_g8_t2_life_b10",
+    "title": "Bài 10. Sách – người bạn đồng hành",
     "xp": 50,
     "steps": [
       {
@@ -16722,6 +17162,7 @@
   {
     "id": "lv8_g8_t2_review_b01",
     "skill": "lv8_g8_t2_review_b01",
+    "title": "Ôn tập học kì 2",
     "xp": 50,
     "steps": [
       {
@@ -16760,6 +17201,7 @@
   {
     "id": "lv9_g9_t1_fantasy_b01",
     "skill": "lv9_g9_t1_fantasy_b01",
+    "title": "Bài 1. Thế giới kì ảo",
     "xp": 50,
     "steps": [
       {
@@ -16798,6 +17240,7 @@
   {
     "id": "lv9_g9_t1_fantasy_b02",
     "skill": "lv9_g9_t1_fantasy_b02",
+    "title": "Bài 2. Những cung bậc tâm trạng",
     "xp": 50,
     "steps": [
       {
@@ -16836,6 +17279,7 @@
   {
     "id": "lv9_g9_t1_fantasy_b03",
     "skill": "lv9_g9_t1_fantasy_b03",
+    "title": "Bài 3. Hồn nước nằm trong tiếng mẹ cha",
     "xp": 50,
     "steps": [
       {
@@ -16874,6 +17318,7 @@
   {
     "id": "lv9_g9_t1_fantasy_b04",
     "skill": "lv9_g9_t1_fantasy_b04",
+    "title": "Bài 4. Khám phá vẻ đẹp văn chương",
     "xp": 50,
     "steps": [
       {
@@ -16912,6 +17357,7 @@
   {
     "id": "lv9_g9_t1_fantasy_b05",
     "skill": "lv9_g9_t1_fantasy_b05",
+    "title": "Bài 5. Đối diện với nỗi đau",
     "xp": 50,
     "steps": [
       {
@@ -16950,6 +17396,7 @@
   {
     "id": "lv9_g9_t1_review_b01",
     "skill": "lv9_g9_t1_review_b01",
+    "title": "Ôn tập học kì 1",
     "xp": 50,
     "steps": [
       {
@@ -16988,6 +17435,7 @@
   {
     "id": "lv9_g9_t2_world_b06",
     "skill": "lv9_g9_t2_world_b06",
+    "title": "Bài 6. Giải mã những bí mật",
     "xp": 50,
     "steps": [
       {
@@ -17026,6 +17474,7 @@
   {
     "id": "lv9_g9_t2_world_b07",
     "skill": "lv9_g9_t2_world_b07",
+    "title": "Bài 7. Hồn thơ muôn điệu",
     "xp": 50,
     "steps": [
       {
@@ -17064,6 +17513,7 @@
   {
     "id": "lv9_g9_t2_world_b08",
     "skill": "lv9_g9_t2_world_b08",
+    "title": "Bài 8. Tiếng nói của lương tri",
     "xp": 50,
     "steps": [
       {
@@ -17102,6 +17552,7 @@
   {
     "id": "lv9_g9_t2_world_b09",
     "skill": "lv9_g9_t2_world_b09",
+    "title": "Bài 9. Đi và suy ngẫm",
     "xp": 50,
     "steps": [
       {
@@ -17140,6 +17591,7 @@
   {
     "id": "lv9_g9_t2_world_b10",
     "skill": "lv9_g9_t2_world_b10",
+    "title": "Bài 10. Văn học - lịch sử tâm hồn",
     "xp": 50,
     "steps": [
       {
@@ -17178,6 +17630,7 @@
   {
     "id": "lv9_g9_t2_review_b01",
     "skill": "lv9_g9_t2_review_b01",
+    "title": "Ôn tập học kì 2",
     "xp": 50,
     "steps": [
       {

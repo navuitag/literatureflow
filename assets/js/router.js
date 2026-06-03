@@ -425,17 +425,24 @@ function renderKeypoints(step) {
   `;
 }
 
+function resolveLessonTitle(lesson, skillId) {
+  const skill = data.skills.find((s) => s.id === (lesson?.skill || skillId));
+  return lesson?.title || skill?.title || labelSkill(skillId);
+}
+
 function renderLesson(id, state) {
   const lesson = data.lessons.find((item) => item.id === id);
   if (!lesson) return notFound("Không tìm thấy bài học.");
-  const skillProgress = getSkillProgress({ id: lesson.skill }, state, data.questions);
+  const skillId = lesson.skill || id;
+  const skillProgress = getSkillProgress({ id: skillId }, state, data.questions);
+  const lessonTitle = resolveLessonTitle(lesson, id);
 
   return `
     <section class="lesson-layout">
       <aside class="lesson-sidebar">
         <a class="back-link" href="#/skills">← Kỹ năng</a>
-        <a class="lesson-mm-link" href="#/mindmap/lesson/${id}">🧠 Sơ đồ bài học</a>
-        <h1>${lesson.title}</h1>
+        <a class="lesson-mm-link" href="#/mindmap/lesson/${skillId}">🧠 Sơ đồ bài học</a>
+        <h1>${escapeHtml(lessonTitle)}</h1>
         <p>${skillProgress.mastery}% mastery</p>
         <div class="progress-track"><span style="width:${skillProgress.mastery}%"></span></div>
       </aside>
