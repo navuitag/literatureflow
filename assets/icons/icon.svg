@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="LiteratureFlow">
+  <rect width="512" height="512" rx="96" fill="#9b3d4a"/>
+  <path d="M156 170v200c40-24 72-24 100 0V170c-28-24-60-24-100 0z" fill="white" opacity="0.95"/>
+      <path d="M256 170v200c40-24 72-24 100 0V170c-28-24-60-24-100 0z" fill="white" opacity="0.8"/>
+      <path d="M256 170v200" stroke="#9b3d4a" stroke-width="6"/>
+      <path d="M196 250c20 10 40 10 60 0M316 250c-20 10-40 10-60 0" stroke="#9b3d4a" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.5"/>
+</svg>
