@@ -114,3 +114,11 @@ literatureflow/
 ## Công nghệ
 
 SPA ES modules, hash router, PWA offline. Trạng thái: `localStorage` key `literatureflow_accounts`.
+
+---
+
+## Tác giả
+
+- **Nguyễn Anh Vũ**
+- Email: [navuitag@gmail.com](mailto:navuitag@gmail.com)
+- Điện thoại: [0986201079](tel:+84986201079)
