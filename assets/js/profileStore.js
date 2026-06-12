@@ -1,3 +1,5 @@
+import { getStudyTimeSummary } from "./studyTime.js";
+
 /**
  * Multi-learner profile storage for *Flow apps.
  * @param {object} config
@@ -18,7 +20,7 @@ export function createProfileStore(config) {
     buildUser
   } = config;
 
-  const AVATAR_COLORS = ["#9b3d4a", "#193f65", "#e07b39", "#7c3aed", "#db2777", "#0891b2"];
+  const AVATAR_COLORS = ["#20a36b", "#193f65", "#e07b39", "#7c3aed", "#db2777", "#0891b2"];
 
   function createEmptyAccounts() {
     return { activeProfileId: "", profiles: [], progress: {} };
@@ -128,11 +130,14 @@ export function createProfileStore(config) {
   function summarizeProgress(progress = defaultProgress()) {
     const totalAnswers = progress.answers?.length || 0;
     const correctAnswers = (progress.answers || []).filter((item) => item.correct).length;
+    const study = getStudyTimeSummary(progress);
     return {
       xp: progress.xp || 0,
       completedLessons: progress.completedLessons?.length || 0,
       accuracy: totalAnswers ? Math.round((correctAnswers / totalAnswers) * 100) : 0,
-      onboarded: Boolean(progress.onboarded)
+      onboarded: Boolean(progress.onboarded),
+      studyTodayLabel: study.todayLabel,
+      studyTotalLabel: study.totalLabel
     };
   }
 
