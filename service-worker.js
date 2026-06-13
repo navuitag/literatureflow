@@ -1,4 +1,4 @@
-const CACHE_NAME = "literatureflow-vn-v$(( $(echo 22) + 1 ))";
+const CACHE_NAME = "literatureflow-vn-v23";
 const APP_SHELL = [
   "./",
   "./index.html",
